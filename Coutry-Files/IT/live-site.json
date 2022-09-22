@@ -1,0 +1,480 @@
+{
+  "custom": {
+    "tags": {
+      "gtm": "GTM-PXXHXZN",
+      "site_verification": "T6CPJUCkwOX-dP5d1IcaCA4KVkJSPIe2bLKD-iTNCPI",
+      "pingdom": "-",
+      "quora": "-",
+      "google_optimize": "-"
+    },
+    "wording": {
+      "country_name": "Italy",
+      "country_emoji": "🇮🇹",
+      "price_per_mg": "Prezzo Per Mg",
+      "checkout_now": "Controlla Ora",
+      "zero_thc": "Zero THC",
+      "low_thc": "THC Ultra basso",
+      "gmo_free": "GMO Free",
+      "3rd_party": "Testato da Terze Parti",
+      "100_vegan": "100% Vegano",
+      "vegetarian": "100% Vegetariano",
+      "labdoor": "A+ Valutazione del laboratorio",
+      "one_tree_planted": "Compra e pianta un albero",
+      "bundles": "Bundle Deal",
+      "free_delivery": "Spedizione Gratuita",
+      "hemp": "100% Canapa coltivata negli USA",
+      "7_step_test": "7 Fasi di Test",
+      "i_agree_with_the": "Confermo che sono maggiorenne (+18) ed accetto ",
+      "terms_and_conditions": "Termini e Condizioni",
+      "important_message": "Se hai problemi ad effettuare un ordine con una carta (ad esempio Visa, Mastercard), utilizza l'opzione di trasferimento bancario",
+      "t1_footer_text": "Questo prodotto non è destinato all'uso o alla vendita a persone di età inferiore ai 18 anni. Questo prodotto deve essere usato solo come indicato sull'etichetta. Non deve essere usato in caso di gravidanza o allattamento. Consultare un medico prima dell'uso se si ha una grave condizione medica o se si utilizzano farmaci da prescrizione. Prima di utilizzare questo e qualsiasi altro prodotto dietetico supplementare, è necessario consultare un medico. Tutti i marchi e i diritti d'autore appartengono ai rispettivi proprietari e non sono affiliati a questo prodotto né lo sostengono. Queste dichiarazioni non sono state valutate dalla FDA. Questo prodotto non è destinato a diagnosticare, trattare, curare o prevenire alcuna malattia. I risultati individuali di perdita di peso possono variare. Usando questo sito, accetti di seguire l'informativa sulla privacy e tutti i termini e le condizioni stampati su questo sito. Non valido dove proibito dalla legge.\n\n",
+      "homepage_h1": "Acquista olio di CBD in Italia",
+      "dispatch": "Pronto per la spedizione 3 - 10 giorni lavorativi Tempi di consegna."
+    }
+  },
+  "general": {
+    "404": {
+      "title": "404 Page Not Found",
+      "subtext": "The page you requested does not exist.",
+      "link": "Continue shopping"
+    },
+    "accessibility": {
+      "skip_to_content": "Skip to content",
+      "close_modal": "Close (esc)"
+    },
+    "meta": {
+      "tags": "Tagged \"{{ tags }}\"",
+      "page": "Page {{ page }}"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "current_page": "Page {{ current }} of {{ total }}"
+    },
+    "password_page": {
+      "opening_soon": "Opening Soon",
+      "login_form_heading": "Enter store using password",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "admin_link_html": "Are you the store owner? <a href=\"\/admin\" class=\"text-link\">Log in here<\/a>",
+      "password_link": "Enter using password",
+      "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
+    },
+    "social": {
+      "share_on_facebook": "Share",
+      "share_on_twitter": "Tweet",
+      "share_on_pinterest": "Pin it",
+      "alt_text": {
+        "share_on_facebook": "Share on Facebook",
+        "share_on_twitter": "Tweet on Twitter",
+        "share_on_pinterest": "Pin on Pinterest"
+      }
+    },
+    "search": {
+      "no_results_html": "Your search for \"{{ terms }}\" did not yield any results.",
+      "results_with_count": {
+        "one": "{{ count }} result for \"{{ terms }}\"",
+        "other": "{{ count }} results for \"{{ terms }}\""
+      },
+      "title": "Search our site",
+      "placeholder": "Search",
+      "submit": "Submit",
+      "close": "Close search",
+      "from": "Da"
+    },
+    "newsletter_form": {
+      "newsletter_email": "Join our mailing list",
+      "email_placeholder": "Email address",
+      "confirmation": "Thanks for subscribing",
+      "submit": "Subscribe"
+    },
+    "filters": {
+      "show_more": "Show More",
+      "show_less": "Show Less"
+    }
+  },
+  "sections": {
+    "slideshow": {
+      "next_slide": "Next slide",
+      "previous_slide": "Previous slide",
+      "pause_slideshow": "Pause slideshow",
+      "play_slideshow": "Play slideshow",
+      "play_video": "Play video",
+      "close_video": "Close video"
+    },
+    "map": {
+      "address_error": "Error looking up that address",
+      "address_no_results": "No results for that address",
+      "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a>.",
+      "auth_error_html": "There was a problem authenticating your Google Maps account."
+    }
+  },
+  "blogs": {
+    "article": {
+      "view_all": "Vedi tutto",
+      "all_topics": "Tutti gli argomenti",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Leggi di più",
+      "back_to_blog": "Torna a {{ title }}"
+    },
+    "comments": {
+      "title": "Lascia un commento",
+      "name": "Nome",
+      "email": "Email",
+      "message": "Messaggio",
+      "post": "Pubblica commento",
+      "moderated": "Attenzione, i commenti devono essere approvati prima di essere pubblicati",
+      "success_moderated": "Il tuo commento è stato pubblicato con successo. Lo pubblicheremo tra un po', dato che il nostro blog è moderato.",
+      "success": "Il tuo commento è stato pubblicato con successo! Grazie!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Il tuo carrello",
+      "note": "Aggiungi un commento al tuo ordine",
+      "remove": "Rimuovi",
+      "subtotal": "Subtotale",
+      "savings": "Stai salvando",
+      "shipping_at_checkout": "Codici sconto, spese di spedizione e tasse calcolate al check out ",
+      "update": "Aggiorna",
+      "checkout": "Check out",
+      "empty": "Il carrello è vuoto.",
+      "cookies_required": "Abilita i cookie per utilizzare il carrello della spesa",
+      "edit": "Modifica",
+      "cancel": "Cancella",
+      "continue_shopping": "Continua shopping"
+    },
+    "label": {
+      "product": "Prodotto",
+      "price": "Prezzo",
+      "quantity": "Quantità",
+      "total": "Totale"
+    },
+    "additional": {
+      "cart_note": "Aggiungi un commento al tuo ordine",
+      "cart_subtitle": "Per ogni ordine ricevuto pianteremo 1 albero 🌳",
+      "cart_important_message": "Se hai problemi ad effettuare un ordine con una carta (ad esempio Visa, Mastercard), utilizza l'opzione di trasferimento bancario",
+      "cart_additional_terms_text": "-",
+      "cart_discount_message": "Codici sconto, spedizione e tasse calcolate al momento del pagamento",
+      "cart_bottom_text": "Per ogni ordine ricevuto pianteremo 10 alberi ",
+      "cart_agree_alert": "Devi essere d'accordo con i termini e le condizioni di vendita per effettuare il check-out."
+    }
+  },
+  "checkout": {
+    "confirmation_page": {
+      "create_an_account": "Crea un account",
+      "create_account_description": "Crea un account con noi oggi, dove puoi seguire il tuo ordine e unirti al nostro sistema di referral.",
+      "create_account_button": "Iscriviti",
+      "view_your_account": "Visualizza il tuo account",
+      "view_account_description": "Puoi tracciare il tuo ordine dalla pagina del tuo account",
+      "view_account_button": "Visualizza account"
+    }
+  },
+  "collections": {
+    "general": {
+      "view_all": "Guarda tutto",
+      "no_matches": "Siamo spiacenti, non ci sono prodotti in questa collezione",
+      "items_with_count": {
+        "one": "{{ count }} product",
+        "other": "{{ count }} products"
+      }
+    },
+    "sorting": {
+      "title": "Sort",
+      "featured": "Featured",
+      "best_selling": "Best Selling",
+      "az": "Alphabetically, A-Z",
+      "za": "Alphabetically, Z-A",
+      "price_ascending": "Price, low to high",
+      "price_descending": "Price, high to low",
+      "date_descending": "Date, new to old",
+      "date_ascending": "Date, old to new"
+    },
+    "filters": {
+      "title_tags": "Filter",
+      "all_tags": "All products"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send",
+      "post_success": "Thanks for contacting us. We'll get back to you as soon as possible."
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "My Account",
+      "details": "Account Details",
+      "view_addresses": "View Addresses",
+      "return": "Return to Account Details"
+    },
+    "activate_account": {
+      "title": "Activate Account",
+      "subtext": "Create your password to activate your account.",
+      "password": "Password",
+      "password_confirm": "Confirm Password",
+      "submit": "Activate Account",
+      "cancel": "Decline Invitation"
+    },
+    "addresses": {
+      "title": "Your Addresses",
+      "default": "Default",
+      "add_new": "Add a New Address",
+      "edit_address": "Edit address",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "company": "Company",
+      "address1": "Address1",
+      "address2": "Address2",
+      "city": "City",
+      "country": "Country",
+      "province": "Province",
+      "zip": "Postal\/Zip Code",
+      "phone": "Phone",
+      "set_default": "Set as default address",
+      "add": "Add Address",
+      "update": "Update Address",
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete",
+      "delete_confirm": "Are you sure you wish to delete this address?"
+    },
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "forgot_password": "Forgot your password?",
+      "sign_in": "Sign In",
+      "guest_title": "Continue as a guest",
+      "guest_continue": "Continue"
+    },
+    "orders": {
+      "title": "Order History",
+      "order_number": "Order",
+      "date": "Date",
+      "payment_status": "Payment Status",
+      "fulfillment_status": "Fulfillment Status",
+      "total": "Total",
+      "none": "You haven't placed any orders yet."
+    },
+    "order": {
+      "title": "Order {{ name }}",
+      "date": "Placed on {{ date }}",
+      "cancelled": "Order Cancelled on {{ date }}",
+      "cancelled_reason": "Reason: {{ reason }}",
+      "billing_address": "Billing Address",
+      "payment_status": "Payment Status",
+      "shipping_address": "Shipping Address",
+      "fulfillment_status": "Fulfillment Status",
+      "discount": "Discount",
+      "shipping": "Shipping",
+      "tax": "Tax",
+      "product": "Product",
+      "sku": "SKU",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total",
+      "fulfilled_at": "Fulfilled {{ date }}",
+      "subtotal": "Subtotal",
+      "track_shipment": "Track shipment"
+    },
+    "recover_password": {
+      "title": "Reset your password",
+      "email": "Email",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "subtext": "We will send you an email to reset your password.",
+      "success": "We've sent you an email with a link to update your password."
+    },
+    "reset_password": {
+      "title": "Reset account password",
+      "subtext": "Enter a new password for {{ email }}",
+      "password": "Password",
+      "password_confirm": "Confirm Password",
+      "submit": "Reset Password"
+    },
+    "register": {
+      "title": "Create Account",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Create"
+    }
+  },
+  "homepage": {
+    "onboarding": {
+      "product_title": "Your product's name",
+      "product_description": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+      "collection_title": "Your collection's name",
+      "blog_title": "Your post's title",
+      "blog_excerpt": "Your store hasn’t published any blog posts yet. A blog can be used to talk about new product launches, tips, or other news you want to share with your customers. You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and blog.",
+      "blog_author": "Author name",
+      "no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar."
+    }
+  },
+  "layout": {
+    "navigation": {
+      "search": "Search",
+      "toggle": "expand\/collapse",
+      "expand": "expand",
+      "collapse": "collapse"
+    },
+    "cart": {
+      "title": "Carrello",
+      "items_count": {
+        "one": "articolo",
+        "other": "articolo"
+      }
+    },
+    "customer": {
+      "account": "Account",
+      "log_out": "Log out",
+      "log_in": "Log in",
+      "create_account": "Create account"
+    },
+    "footer": {
+      "social_platform": "{{ name }} on {{ platform }}"
+    }
+  },
+  "products": {
+    "product": {
+      "regular_price": "Prezzo",
+      "sold_out": "Sold out",
+      "unavailable": "Non disponibile",
+      "on_sale": "Offerta",
+      "quantity": "Quantitá",
+      "add_to_cart": "Aggiungi al carrello",
+      "back_to_collection": "Torna a {{ title }}"
+    },
+    "reviews": {
+      "average": "Media",
+      "reviews": "OPINIONI",
+      "no_reviews": "Nessuna recensione",
+      "more_ratings": "Più Recensioni",
+      "no_comments": "Nessun Commento",
+      "reply_from": "Rispondi",
+      "posted": "Inviata",
+      "write_review": "Scrivi una recensione",
+      "show": "Vedi",
+      "details": "Dettagli",
+      "rate_this_product": "Valuta questo prodotto",
+      "select_product": "Seleziona prodotto",
+      "write_review_placeholder": "Scrivi una recensione qui",
+      "submit_review": "Invia Recensione",
+      "your_name_placeholder": "Il tuo Nome",
+      "email_address_placeholder": "Indirizzo Email",
+      "thank_you_for_your_review": "<strong>Grazie per la tua recensione.<\/strong>",
+      "your_review_has_been_submitted": "La tua recensione è stata inviata.",
+      "reviews_count": "Contatore recensioni",
+      "verified_buyer": "Acquirente verificato",
+      "verified_buyer_yes": "Acquirente verificato: Si",
+      "verified_buyer_no": "Acquirente verificato: No",
+      "anonymous_reviewer_name": "Anonimo"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title_html": "Ecco la tua carta regalo {{value}} per {{shop}}!",
+      "subtext": "La tua carta regalo",
+      "disabled": "Disabled",
+      "expired": "Expired on {{ expiry }}",
+      "active": "Expires on {{ expiry }}",
+      "redeem_html": "Utilizza questo codice al momento del pagamento per riscattare la tua carta regalo {{value}}",
+      "shop_link": "Start shopping",
+      "print": "Print this gift card",
+      "remaining_html": "{{ balance }} left",
+      "add_to_apple_wallet": "Add to Apple Wallet"
+    }
+  },
+  "date_formats": {
+    "month_day_year": "%B %d, %Y"
+  },
+  "product_filter_search": {
+    "refine": "Refine By",
+    "refine_mobile": "Refine By",
+    "refine_mobile_collapse": "Hide Filter",
+    "clear": "Clear",
+    "clear_all": "Clear All",
+    "apply": "Apply",
+    "close": "Close",
+    "show_result": "Show Result",
+    "sale": "Sale",
+    "sold_out": "Sold Out",
+    "from": "from",
+    "breadcrumb_home": "Home",
+    "load_more": "Load more",
+    "show_limit": "Show",
+    "collection_all": "All",
+    "price_under": "Under",
+    "price_above": "Above",
+    "search_general_title": "Search",
+    "search_result_header": "Search Results for \"{{ terms }}\"",
+    "search_result_empty": "Your search for \"{{ terms }}\" didn't match any results",
+    "search_result_number": "Showing {{ count }} results for \"{{ terms }}\"",
+    "suggestion_popular_header": "Popular Suggestions",
+    "suggestion_product_header": "Products",
+    "suggestion_did_you_mean_header": "Did you mean",
+    "suggestion_view_all": "View all results",
+    "error_no_filter_result": "Sorry, no products matched your selection",
+    "error_no_search_result": "Sorry, no products matched the keyword",
+    "error_no_products": "No products found in this collection"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
+  }
+}

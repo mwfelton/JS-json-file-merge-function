@@ -1,0 +1,610 @@
+{
+    "sections": {
+        "header": {
+            "announcement": "",
+            "menu": "",
+            "cart_count": {
+                "one": "",
+                "other": ""
+            }
+        },
+        "cart": {
+            "title": "",
+            "caption": "",
+            "remove_title": "移除",
+            "subtotal": "合计",
+            "new_subtotal": "",
+            "note": "",
+            "checkout": "安全支付",
+            "empty": "启用 cookie 以使用购物车",
+            "cart_error": "",
+            "cart_quantity_error_html": "Quantity",
+            "cart_additional_terms_text": "添加",
+            "i_agree_with_the": "我同意",
+            "terms_and_conditions": "If you have problems placing an order via a card (e.g. Visa, Mastercard) please use the bank transfer option",
+            "taxes_and_shipping_policy_at_checkout_html": "Tax",
+            "taxes_included_but_shipping_at_checkout": "折扣码，运费将在支付页面显示",
+            "taxes_included_and_shipping_policy_html": "",
+            "taxes_and_shipping_at_checkout": "",
+            "headings": {
+                "product": "Product",
+                "price": "Price",
+                "total": "",
+                "quantity": ""
+            },
+            "update": "Placed on {{ date }}",
+            "login": {
+                "title": "",
+                "paragraph_html": ""
+            },
+            "featured_collection": {
+                "title": ""
+            }
+        },
+        "footer": {
+            "payment": "",
+            "footer_text": ""
+        },
+        "featured_blog": {
+            "view_all": "所有商品",
+            "onboarding_title": "",
+            "onboarding_content": ""
+        },
+        "featured_collection": {
+            "view_all": "",
+            "view_all_label": ""
+        },
+        "collection_list": {
+            "view_all": ""
+        },
+        "collection_template": {
+            "empty": "",
+            "title": "",
+            "use_fewer_filters_html": ""
+        },
+        "video": {
+            "load_video": ""
+        },
+        "slideshow": {
+            "load_slide": "展示",
+            "previous_slideshow": "Previous slide",
+            "next_slideshow": "Next slide",
+            "pause_slideshow": "Pause slideshow",
+            "play_slideshow": "Play slideshow",
+            "carousel": "",
+            "slide": ""
+        }
+    },
+    "ecomplete": {
+        "product_page": {
+            "zero_thc": "Zero THC",
+            "low_thc": "不含THC",
+            "gmo_free": "GMO Free",
+            "3rd_party": "第三方实验室测试",
+            "100_vegan": "7 Step Test",
+            "vegetarian": "100%素食主义者",
+            "labdoor": "A+ Labdoor Rating",
+            "one_tree_planted": "Buy One Plant One",
+            "bundles": "Bundle Deal",
+            "free_delivery": "100% USA Grown Hemp"
+        },
+        "country_selector": {
+            "country_emoji": "🇨🇳",
+            "country_name": "国家"
+        },
+        "homepage_h1": "Skip to content"
+    },
+    "general": {
+        "password_page": {
+            "login_form_heading": "密码",
+            "login_password_button": "",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_error": "",
+            "login_form_submit": "",
+            "admin_link_html": "Are you the store owner? <a href=\"/admin\" class=\"text-link\">Log in here</a>",
+            "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
+        },
+        "social": {
+            "alt_text": {
+                "share_on_facebook": "Share on Facebook",
+                "share_on_twitter": "Tweet on Twitter",
+                "share_on_pinterest": "Your search for \"{{ terms }}\" did not yield any results."
+            },
+            "links": {
+                "twitter": "",
+                "facebook": "",
+                "pinterest": "",
+                "instagram": "",
+                "tumblr": "",
+                "snapchat": "",
+                "youtube": "",
+                "vimeo": "",
+                "tiktok": "",
+                "line": ""
+            }
+        },
+        "tags": {
+            "google_tag_manager": "Tags:",
+            "site_verification": "siLo-jYTCawMy1Dt_XHcPT5fmzeeD1eifvSSI_XOAwE",
+            "pingdom": "-",
+            "google_optimize": "-",
+            "google_analytics": "",
+            "quora": "-"
+        },
+        "continue_shopping": "继续购物",
+        "pagination": {
+            "label": "",
+            "page": "",
+            "next": "",
+            "previous": ""
+        },
+        "search": {
+            "search": "展开/收起"
+        },
+        "cart": {
+            "view": "",
+            "item_added": ""
+        },
+        "share": {
+            "close": "",
+            "copy_to_clipboard": "",
+            "share_url": "",
+            "success_message": "Your comment was posted successfully! Thank you!"
+        },
+        "slider": {
+            "of": "",
+            "next_slide": "",
+            "previous_slide": ""
+        }
+    },
+    "newsletter": {
+        "title": "お得な情報を受け取る！",
+        "paragraph": "メルマガのご登録はこちらから：",
+        "email_placeholder": "Email",
+        "submit_button": "提交",
+        "payment_icons_title": "こちらで安全にオンライン決済",
+        "label": " ",
+        "success": "ご登録ありがとうございます",
+        "button_label": "登録する"
+    },
+    "accessibility": {
+        "skip_to_text": "",
+        "skip_to_product_info": "",
+        "close": "",
+        "unit_price_separator": "",
+        "vendor": "",
+        "error": "",
+        "refresh_page": "",
+        "link_messages": {
+            "new_window": "",
+            "external": ""
+        },
+        "loading": "",
+        "total_reviews": "Reply from",
+        "star_reviews_info": ""
+    },
+    "blogs": {
+        "article": {
+            "blog": "",
+            "read_more_title": "Read more",
+            "comments": {
+                "one": "",
+                "other": ""
+            },
+            "moderated": "Please note, comments must be approved before they are published",
+            "comment_form_title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "Post comment",
+            "back_to_blog": "Back to {{ title }}",
+            "share": "",
+            "success": "",
+            "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated."
+        }
+    },
+    "onboarding": {
+        "product_title": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+        "collection_title": "Author name"
+    },
+    "products": {
+        "product": {
+            "add_to_cart": "Add to cart",
+            "description": "",
+            "on_sale": "Sale",
+            "product_variants": "",
+            "media": {
+                "gallery_viewer": "",
+                "load_image": "",
+                "load_model": "",
+                "load_video": "",
+                "image_available": "",
+                "open_media": "",
+                "play_model": "",
+                "play_video": "There was a problem authenticating your Google Maps account."
+            },
+            "quantity": {
+                "label": "",
+                "input_label": "",
+                "increase": "",
+                "decrease": ""
+            },
+            "pickup_availability": {
+                "view_store_info": "",
+                "check_other_stores": "",
+                "pick_up_available": "",
+                "pick_up_available_at_html": "",
+                "pick_up_unavailable_at_html": "Unavailable",
+                "unavailable": "",
+                "refresh": ""
+            },
+            "price": {
+                "from_price_html": "No products found in this collection",
+                "regular_price": "Regular price",
+                "sale_price": "",
+                "unit_price": "",
+                "price_per_mg": "立即结账"
+            },
+            "share": "",
+            "sold_out": "Sold out",
+            "unavailable": "",
+            "vendor": "",
+            "video_exit_message": "",
+            "view_full_details": "Anonymous",
+            "xr_button": "",
+            "xr_button_label": "",
+            "include_taxes": "",
+            "shipping_policy_html": "",
+            "product_recommendations_header": ""
+        },
+        "modal": {
+            "label": ""
+        },
+        "facets": {
+            "apply": "Show Result",
+            "clear": "Clear",
+            "clear_all": "Clear All",
+            "from": "",
+            "filter_and_sort": "",
+            "filter_by_label": "",
+            "filter_button": "",
+            "filters_selected": {
+                "one": "",
+                "other": ""
+            },
+            "max_price": "",
+            "product_count": {
+                "one": "",
+                "other": ""
+            },
+            "product_count_simple": {
+                "one": "",
+                "other": ""
+            },
+            "reset": "",
+            "sort_button": "",
+            "sort_by_label": "",
+            "to": "",
+            "clear_filter": ""
+        }
+    },
+    "templates": {
+        "404": {
+            "title": "",
+            "subtext": ""
+        },
+        "search": {
+            "no_results": "",
+            "page": "",
+            "products": "",
+            "results_with_count": {
+                "one": "",
+                "other": ""
+            },
+            "results_with_count_and_term": {
+                "one": "",
+                "other": ""
+            },
+            "title": "",
+            "search_for": ""
+        },
+        "cart": {
+            "cart": ""
+        },
+        "contact": {
+            "form": {
+                "name": "",
+                "email": "",
+                "phone": "",
+                "comment": "",
+                "send": "",
+                "post_success": "非常感谢您的信息，我们相关团队会尽快回复您。",
+                "error_heading": ""
+            }
+        }
+    },
+    "localization": {
+        "country_label": "客服将通过这个方式联系您完成订单",
+        "language_label": "",
+        "update_language": "",
+        "update_country": ""
+    },
+    "customer": {
+        "account": {
+            "title": "账户",
+            "details": "",
+            "view_addresses": "查看地址",
+            "return": "返回账户信息",
+            "referrals": ""
+        },
+        "account_fallback": "",
+        "activate_account": {
+            "title": "",
+            "subtext": "Enter a new password for {{ email }}",
+            "password": "",
+            "password_confirm": "确认密码",
+            "submit": "",
+            "cancel": "Cancel"
+        },
+        "addresses": {
+            "title": "",
+            "default": "默认",
+            "add_new": "添加新地址",
+            "edit_address": "编辑",
+            "first_name": "名",
+            "last_name": "姓",
+            "company": "公司",
+            "address1": "第一行",
+            "address2": "第二行",
+            "city": "城市",
+            "country": "",
+            "province": "省",
+            "zip": "邮编",
+            "phone": "电话",
+            "set_default": "设为默认地址",
+            "add": "",
+            "update": "",
+            "cancel": "",
+            "edit": "",
+            "delete": "删除",
+            "delete_confirm": "您确定删除此地址吗？"
+        },
+        "log_in": "登入",
+        "log_out": "登出",
+        "login_page": {
+            "cancel": "",
+            "create_account": "创建账户",
+            "email": "",
+            "forgot_password": "忘记密码？",
+            "guest_continue": "继续",
+            "guest_title": "以访客身份结账",
+            "password": "",
+            "title": "",
+            "sign_in": "注册",
+            "submit": "",
+            "create_account_description": "Create an account with us today where you can track your order and join our referral scheme.",
+            "create_account_button": "查看账号"
+        },
+        "order": {
+            "title": "",
+            "date_html": "",
+            "cancelled_html": "Order Cancelled on {{ date }}",
+            "cancelled_reason": "Reason: {{ reason }}",
+            "billing_address": "Billing Address",
+            "payment_status": "Payment Status",
+            "shipping_address": "如填写邮箱，勾选即代表同意接收上新，大促等消息",
+            "fulfillment_status": "Fulfillment Status",
+            "discount": "节省金额",
+            "shipping": "",
+            "tax": "",
+            "product": "",
+            "sku": "SKU",
+            "price": "",
+            "quantity": "",
+            "total": "",
+            "fulfilled_at_html": "Fulfilled {{ date }}",
+            "track_shipment": "Track shipment",
+            "tracking_url": "",
+            "tracking_company": "",
+            "tracking_number": "",
+            "subtotal": ""
+        },
+        "orders": {
+            "title": "",
+            "order_number": "订单号",
+            "order_number_link": "",
+            "date": "",
+            "payment_status": "",
+            "fulfillment_status": "",
+            "total": "",
+            "none": "您还未下单"
+        },
+        "recover_password": {
+            "title": "",
+            "subtext": "",
+            "success": ""
+        },
+        "register": {
+            "title": "",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "password": "",
+            "submit": ""
+        },
+        "reset_password": {
+            "title": "",
+            "subtext": "",
+            "password": "",
+            "password_confirm": "",
+            "submit": ""
+        }
+    },
+    "gift_cards": {
+        "issued": {
+            "title": "",
+            "subtext": "",
+            "gift_card_code": "",
+            "shop_link": "Start shopping",
+            "remaining_html": "{{ balance }} left",
+            "add_to_apple_wallet": "Hide Filter",
+            "qr_image_alt": "",
+            "copy_code": "",
+            "expired": "Expired on {{ expiry }}",
+            "copy_code_success": "",
+            "print_gift_card": ""
+        }
+    },
+    "pagefly": {
+        "products": {
+            "product": {
+                "regular_price": "",
+                "sold_out": "",
+                "unavailable": "",
+                "on_sale": "",
+                "quantity": "",
+                "add_to_cart": "",
+                "back_to_collection": "Back to {{ title }}",
+                "view_details": "View details"
+            }
+        },
+        "article": {
+            "tags": "",
+            "all_topics": "All topics",
+            "by_author": "by {{ author }}",
+            "posted_in": "Posted in",
+            "read_more": "",
+            "back_to_blog": ""
+        },
+        "comments": {
+            "title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "",
+            "moderated": "",
+            "success_moderated": "",
+            "success": "",
+            "comments_with_count": {
+                "one": "",
+                "other": ""
+            }
+        },
+        "password_page": {
+            "login_form_message": "Enter store using password:",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_submit": "",
+            "signup_form_email_label": "城市",
+            "signup_form_success": "We will send you an email right before we open!",
+            "password_link": "寄送地址"
+        }
+    },
+    "opp-subscription": {
+        "subscriptions": "",
+        "header": "",
+        "list": {
+            "return_to_account": "",
+            "column": {
+                "subscription": "",
+                "date": "",
+                "status": ""
+            }
+        },
+        "view": {
+            "header": "",
+            "return_to_list": "",
+            "created_on": "",
+            "last_orders": "",
+            "billing_information": "",
+            "payment_information": "",
+            "billing_address": "",
+            "shipping_address": "",
+            "next_order": "",
+            "frequency": {
+                "header": "",
+                "minute": {
+                    "one": "",
+                    "other": ""
+                },
+                "hour": {
+                    "one": "",
+                    "other": ""
+                },
+                "day": {
+                    "one": "",
+                    "other": ""
+                },
+                "week": {
+                    "one": "",
+                    "other": ""
+                },
+                "week_weekday": {
+                    "one": "",
+                    "other": ""
+                },
+                "month": {
+                    "one": "",
+                    "other": ""
+                },
+                "month_day": {
+                    "one": "",
+                    "other": ""
+                },
+                "year": {
+                    "one": "",
+                    "other": ""
+                }
+            },
+            "address": {
+                "first_name": "",
+                "last_name": "",
+                "company": "",
+                "address": "",
+                "city": "",
+                "country": "",
+                "province": "",
+                "postal_code": "",
+                "phone": ""
+            },
+            "button": {
+                "suspend": "",
+                "reactivate": "",
+                "terminate": "",
+                "edit": "",
+                "cancel": "",
+                "update": ""
+            },
+            "column": {
+                "product": "",
+                "price": "",
+                "quantity": "",
+                "order": "",
+                "date": "",
+                "payment_status": "",
+                "fulfillment_status": "",
+                "total": ""
+            },
+            "info": {
+                "terminated": "",
+                "terminating": {
+                    "zero": "",
+                    "other": ""
+                },
+                "suspended_reactivate": "",
+                "suspended_terminate": ""
+            },
+            "terminate": {
+                "header": "",
+                "info": "",
+                "missing_cycles": ""
+            },
+            "suspend": {
+                "header": "",
+                "input_label": "",
+                "info": ""
+            }
+        }
+    }
+}

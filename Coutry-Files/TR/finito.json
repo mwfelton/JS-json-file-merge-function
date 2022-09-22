@@ -1,0 +1,610 @@
+{
+    "sections": {
+        "header": {
+            "announcement": "",
+            "menu": "",
+            "cart_count": {
+                "one": "{{ count }} comment",
+                "other": "{{ count }} comments"
+            }
+        },
+        "cart": {
+            "title": "Leave a comment",
+            "caption": "",
+            "remove_title": "Kaldır",
+            "subtotal": "Ara toplam",
+            "new_subtotal": "",
+            "note": "Siparişinize not ekleyin",
+            "checkout": "Sepete Git",
+            "empty": "Alışveriş sepetini kullanmak için çerezleri etkinleştirin",
+            "cart_error": "",
+            "cart_quantity_error_html": "Quantity",
+            "cart_additional_terms_text": "Adres ekle",
+            "i_agree_with_the": "Kabul ediyorum",
+            "terms_and_conditions": "Fatura adresindeki isim, ödeme sayfasındaki isim ile aynı olmalıdır.",
+            "taxes_and_shipping_policy_at_checkout_html": "",
+            "taxes_included_but_shipping_at_checkout": "İndirim kodu",
+            "taxes_included_and_shipping_policy_html": "",
+            "taxes_and_shipping_at_checkout": "",
+            "headings": {
+                "product": "Ürün",
+                "price": "Fiyat",
+                "total": "",
+                "quantity": ""
+            },
+            "update": "Tarihinde verildi {{ date }}",
+            "login": {
+                "title": "",
+                "paragraph_html": ""
+            },
+            "featured_collection": {
+                "title": ""
+            }
+        },
+        "footer": {
+            "payment": "",
+            "footer_text": ""
+        },
+        "featured_blog": {
+            "view_all": "Tüm Ürünler",
+            "onboarding_title": "",
+            "onboarding_content": ""
+        },
+        "featured_collection": {
+            "view_all": "",
+            "view_all_label": ""
+        },
+        "collection_list": {
+            "view_all": ""
+        },
+        "collection_template": {
+            "empty": "",
+            "title": "",
+            "use_fewer_filters_html": ""
+        },
+        "video": {
+            "load_video": ""
+        },
+        "slideshow": {
+            "load_slide": "Göster",
+            "previous_slideshow": "Previous slide",
+            "next_slideshow": "Next slide",
+            "pause_slideshow": "Pause slideshow",
+            "play_slideshow": "Play slideshow",
+            "carousel": "",
+            "slide": ""
+        }
+    },
+    "ecomplete": {
+        "product_page": {
+            "zero_thc": "Sıfır THC",
+            "low_thc": "THC içermez",
+            "gmo_free": "GMO İçermez",
+            "3rd_party": "Bağımsız Laboratuarlardan Onaylı",
+            "100_vegan": "7 Aşamalı Test",
+            "vegetarian": "100% Vejeteryan",
+            "labdoor": "A+ Labdoor Değerlendirmesi",
+            "one_tree_planted": "Her siparişinize bir ağaç bağışlıyoruz.",
+            "bundles": "Bundle Pakedi",
+            "free_delivery": "100% Amerika'da yetiştirilmiş"
+        },
+        "country_selector": {
+            "country_name": "TR",
+            "country_emoji": "🇹🇷"
+        },
+        "homepage_h1": "İçeriği atla"
+    },
+    "general": {
+        "password_page": {
+            "login_form_heading": "Şifre",
+            "login_password_button": "",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_error": "",
+            "login_form_submit": "",
+            "admin_link_html": "Are you the store owner? <a href=\"/admin\" class=\"text-link\">Log in here</a>",
+            "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
+        },
+        "social": {
+            "alt_text": {
+                "share_on_facebook": "Facebook'ta paylaş",
+                "share_on_twitter": "Twitter'da Tweet'le",
+                "share_on_pinterest": "Your search for \"{{ terms }}\" did not yield any results."
+            },
+            "links": {
+                "twitter": "",
+                "facebook": "",
+                "pinterest": "",
+                "instagram": "",
+                "tumblr": "",
+                "snapchat": "",
+                "youtube": "",
+                "vimeo": "",
+                "tiktok": "",
+                "line": ""
+            }
+        },
+        "tags": {
+            "google_tag_manager": "Tags:",
+            "site_verification": "Hm8VcmENEQWzvesn3y6z9k-tWouxgGuJj-7m9Mr6aIA",
+            "pingdom": "-",
+            "google_optimize": "-",
+            "google_analytics": "",
+            "quora": "-"
+        },
+        "continue_shopping": "Alışverişe devam et",
+        "pagination": {
+            "label": "",
+            "page": "",
+            "next": "",
+            "previous": ""
+        },
+        "search": {
+            "search": "genişlet/daralt"
+        },
+        "cart": {
+            "view": "",
+            "item_added": ""
+        },
+        "share": {
+            "close": "",
+            "copy_to_clipboard": "",
+            "share_url": "",
+            "success_message": "Your comment was posted successfully! Thank you!"
+        },
+        "slider": {
+            "of": "",
+            "next_slide": "",
+            "previous_slide": ""
+        }
+    },
+    "newsletter": {
+        "title": "ÜRÜNLERİMİZDEN HABERDAR OLUN",
+        "paragraph": "E-postalarımızı almak için kaydolun ve yeni ürünleri ne zaman piyasaya sürdüğümüzden haberdar olun!",
+        "email_placeholder": "Email adresi",
+        "submit_button": "Abone ol",
+        "payment_icons_title": "",
+        "label": "",
+        "success": "Kaydınız için teşekkürler!",
+        "button_label": ""
+    },
+    "accessibility": {
+        "skip_to_text": "",
+        "skip_to_product_info": "",
+        "close": "",
+        "unit_price_separator": "",
+        "vendor": "",
+        "error": "",
+        "refresh_page": "",
+        "link_messages": {
+            "new_window": "",
+            "external": ""
+        },
+        "loading": "",
+        "total_reviews": "Cevaplayan",
+        "star_reviews_info": ""
+    },
+    "blogs": {
+        "article": {
+            "blog": "",
+            "read_more_title": "Read more",
+            "comments": {
+                "one": "",
+                "other": ""
+            },
+            "moderated": "Please note, comments must be approved before they are published",
+            "comment_form_title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "Post comment",
+            "back_to_blog": "Back to {{ title }}",
+            "share": "",
+            "success": "",
+            "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated."
+        }
+    },
+    "onboarding": {
+        "product_title": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+        "collection_title": "Author name"
+    },
+    "products": {
+        "product": {
+            "add_to_cart": "Add to cart",
+            "description": "",
+            "on_sale": "Sale",
+            "product_variants": "",
+            "media": {
+                "gallery_viewer": "",
+                "load_image": "",
+                "load_model": "",
+                "load_video": "",
+                "image_available": "",
+                "open_media": "",
+                "play_model": "",
+                "play_video": "There was a problem authenticating your Google Maps account."
+            },
+            "quantity": {
+                "label": "",
+                "input_label": "",
+                "increase": "",
+                "decrease": ""
+            },
+            "pickup_availability": {
+                "view_store_info": "",
+                "check_other_stores": "",
+                "pick_up_available": "",
+                "pick_up_available_at_html": "",
+                "pick_up_unavailable_at_html": "Unavailable",
+                "unavailable": "",
+                "refresh": ""
+            },
+            "price": {
+                "from_price_html": "Üzgünüz, herhangi bir sonuca ulaşamadık.",
+                "regular_price": "Regular price",
+                "sale_price": "",
+                "unit_price": "",
+                "price_per_mg": "Satın Al"
+            },
+            "share": "",
+            "sold_out": "Sold out",
+            "unavailable": "",
+            "vendor": "",
+            "video_exit_message": "",
+            "view_full_details": "İsimsiz",
+            "xr_button": "",
+            "xr_button_label": "",
+            "include_taxes": "",
+            "shipping_policy_html": "",
+            "product_recommendations_header": ""
+        },
+        "modal": {
+            "label": ""
+        },
+        "facets": {
+            "apply": "Detayları göster",
+            "clear": "Temizle",
+            "clear_all": "Hepsini temizle",
+            "from": "",
+            "filter_and_sort": "",
+            "filter_by_label": "",
+            "filter_button": "",
+            "filters_selected": {
+                "one": "",
+                "other": ""
+            },
+            "max_price": "",
+            "product_count": {
+                "one": "",
+                "other": ""
+            },
+            "product_count_simple": {
+                "one": "",
+                "other": ""
+            },
+            "reset": "",
+            "sort_button": "",
+            "sort_by_label": "",
+            "to": "",
+            "clear_filter": ""
+        }
+    },
+    "templates": {
+        "404": {
+            "title": "",
+            "subtext": ""
+        },
+        "search": {
+            "no_results": "",
+            "page": "",
+            "products": "",
+            "results_with_count": {
+                "one": "",
+                "other": ""
+            },
+            "results_with_count_and_term": {
+                "one": "",
+                "other": ""
+            },
+            "title": "",
+            "search_for": ""
+        },
+        "cart": {
+            "cart": ""
+        },
+        "contact": {
+            "form": {
+                "name": "",
+                "email": "",
+                "phone": "",
+                "comment": "",
+                "send": "",
+                "post_success": "Bizimle iletişime geçtiğiniz için teşekkürler. En kısa sürede size geri döneceğiz.",
+                "error_heading": ""
+            }
+        }
+    },
+    "localization": {
+        "country_label": "",
+        "language_label": "",
+        "update_language": "",
+        "update_country": ""
+    },
+    "customer": {
+        "account": {
+            "title": "Hesap",
+            "details": "",
+            "view_addresses": "Adreslerim",
+            "return": "İade hesap bilgisi",
+            "referrals": ""
+        },
+        "account_fallback": "",
+        "activate_account": {
+            "title": "",
+            "subtext": "Yeni şifre giriniz {{ email }}",
+            "password": "",
+            "password_confirm": "Şifreyi tekrar girin",
+            "submit": "",
+            "cancel": "İptal"
+        },
+        "addresses": {
+            "title": "",
+            "default": "Mevcut",
+            "add_new": "Yeni adres ekle",
+            "edit_address": "Düzenle",
+            "first_name": "İsim",
+            "last_name": "Soyisim",
+            "company": "Firma",
+            "address1": "Adres 1",
+            "address2": "Adres 2",
+            "city": "Şehir",
+            "country": "",
+            "province": "Bölge",
+            "zip": "Posta kodu",
+            "phone": "Telefonu",
+            "set_default": "Adresi seç",
+            "add": "",
+            "update": "",
+            "cancel": "",
+            "edit": "",
+            "delete": "Sil",
+            "delete_confirm": "Bu adresi silmek istediğinizden emin misiniz?"
+        },
+        "log_in": "Giriş yap",
+        "log_out": "Çıkış yap",
+        "login_page": {
+            "cancel": "",
+            "create_account": "Hesap oluştur",
+            "email": "",
+            "forgot_password": "Parolanızı mı unuttunuz?",
+            "guest_continue": "Devam ",
+            "guest_title": "Misafir olarak devam et",
+            "password": "",
+            "title": "",
+            "sign_in": "Kayıt olun",
+            "submit": "",
+            "create_account_description": "Bugün siparişinizi takip edebileceğiniz ve tavsiye planımıza katılabileceğiniz bir hesap oluşturun.",
+            "create_account_button": "Hesabımı görüntüle"
+        },
+        "order": {
+            "title": "",
+            "date_html": "",
+            "cancelled_html": "İptal edildi  {{ date }}",
+            "cancelled_reason": "Nedeni: {{ reason }}",
+            "billing_address": "Adres",
+            "payment_status": "Ödeme bilgisi",
+            "shipping_address": "Gönderi adresi",
+            "fulfillment_status": "Paketleme statüsü",
+            "discount": "İndirim",
+            "shipping": "",
+            "tax": "",
+            "product": "",
+            "sku": "SKU",
+            "price": "",
+            "quantity": "",
+            "total": "",
+            "fulfilled_at_html": "Paketlendi {{ date }}",
+            "track_shipment": "Kargoyu takip et",
+            "tracking_url": "",
+            "tracking_company": "",
+            "tracking_number": "",
+            "subtotal": ""
+        },
+        "orders": {
+            "title": "",
+            "order_number": "Sipariş",
+            "order_number_link": "",
+            "date": "",
+            "payment_status": "",
+            "fulfillment_status": "",
+            "total": "",
+            "none": "Henüz sipariş vermediniz."
+        },
+        "recover_password": {
+            "title": "",
+            "subtext": "",
+            "success": ""
+        },
+        "register": {
+            "title": "",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "password": "",
+            "submit": ""
+        },
+        "reset_password": {
+            "title": "",
+            "subtext": "",
+            "password": "",
+            "password_confirm": "",
+            "submit": ""
+        }
+    },
+    "gift_cards": {
+        "issued": {
+            "title": "",
+            "subtext": "",
+            "gift_card_code": "",
+            "shop_link": "Start shopping",
+            "remaining_html": "{{ balance }} left",
+            "add_to_apple_wallet": "Filtreyi gizle",
+            "qr_image_alt": "",
+            "copy_code": "",
+            "expired": "Expired on {{ expiry }}",
+            "copy_code_success": "",
+            "print_gift_card": ""
+        }
+    },
+    "pagefly": {
+        "products": {
+            "product": {
+                "regular_price": "",
+                "sold_out": "",
+                "unavailable": "",
+                "on_sale": "",
+                "quantity": "",
+                "add_to_cart": "",
+                "back_to_collection": "Back to {{ title }}",
+                "view_details": "View details"
+            }
+        },
+        "article": {
+            "tags": "",
+            "all_topics": "All topics",
+            "by_author": "by {{ author }}",
+            "posted_in": "Posted in",
+            "read_more": "",
+            "back_to_blog": ""
+        },
+        "comments": {
+            "title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "",
+            "moderated": "",
+            "success_moderated": "",
+            "success": "",
+            "comments_with_count": {
+                "one": "",
+                "other": ""
+            }
+        },
+        "password_page": {
+            "login_form_message": "Enter store using password:",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_submit": "",
+            "signup_form_email_label": "Email",
+            "signup_form_success": "We will send you an email right before we open!",
+            "password_link": "Enter using password"
+        }
+    },
+    "opp-subscription": {
+        "subscriptions": "",
+        "header": "",
+        "list": {
+            "return_to_account": "",
+            "column": {
+                "subscription": "",
+                "date": "",
+                "status": ""
+            }
+        },
+        "view": {
+            "header": "",
+            "return_to_list": "",
+            "created_on": "",
+            "last_orders": "",
+            "billing_information": "",
+            "payment_information": "",
+            "billing_address": "",
+            "shipping_address": "",
+            "next_order": "",
+            "frequency": {
+                "header": "",
+                "minute": {
+                    "one": "",
+                    "other": ""
+                },
+                "hour": {
+                    "one": "",
+                    "other": ""
+                },
+                "day": {
+                    "one": "",
+                    "other": ""
+                },
+                "week": {
+                    "one": "",
+                    "other": ""
+                },
+                "week_weekday": {
+                    "one": "",
+                    "other": ""
+                },
+                "month": {
+                    "one": "",
+                    "other": ""
+                },
+                "month_day": {
+                    "one": "",
+                    "other": ""
+                },
+                "year": {
+                    "one": "",
+                    "other": ""
+                }
+            },
+            "address": {
+                "first_name": "",
+                "last_name": "",
+                "company": "",
+                "address": "",
+                "city": "",
+                "country": "",
+                "province": "",
+                "postal_code": "",
+                "phone": ""
+            },
+            "button": {
+                "suspend": "",
+                "reactivate": "",
+                "terminate": "",
+                "edit": "",
+                "cancel": "",
+                "update": ""
+            },
+            "column": {
+                "product": "",
+                "price": "",
+                "quantity": "",
+                "order": "",
+                "date": "",
+                "payment_status": "",
+                "fulfillment_status": "",
+                "total": ""
+            },
+            "info": {
+                "terminated": "",
+                "terminating": {
+                    "zero": "",
+                    "other": ""
+                },
+                "suspended_reactivate": "",
+                "suspended_terminate": ""
+            },
+            "terminate": {
+                "header": "",
+                "info": "",
+                "missing_cycles": ""
+            },
+            "suspend": {
+                "header": "",
+                "input_label": "",
+                "info": ""
+            }
+        }
+    }
+}

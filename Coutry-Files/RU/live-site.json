@@ -1,0 +1,466 @@
+{
+  "custom": {
+    "tags": {
+      "gtm": "GTM-P369ZHV",
+      "site_verification": "YyclUsbLSokqVGa8r-O-SnnE_iQyqP3-hPriuU5Pe9Y",
+      "pingdom": "",
+      "quora": "",
+      "google_optimize": ""
+    },
+    "wording": {
+      "country_name": "Russia",
+      "country_emoji": "🇷🇺",
+      "price_per_mg": "Price Per Mg",
+      "checkout_now": "Checkout Now",
+      "low_thc": "Ultra Low THC",
+      "3rd_party": "Third Party Testing",
+      "vegetarian": "100% Vegetarian",
+      "labdoor": "A+ Labdoor Rating",
+      "one_tree_planted": "Buy One Plant One",
+      "bundles": "Bundle Deal",
+      "free_delivery": "Free Delivery",
+      "hemp": "100% USA Grown Hemp",
+      "zero_thc": "Zero THC",
+      "gmo_free": "GMO Free",
+      "100_vegan": "100% Vegan",
+      "7_step_test": "7 Step Test",
+      "i_agree_with_the": "I agree with the",
+      "terms_and_conditions": "Terms and Conditions",
+      "important_message": "If you have problems placing an order via a card (e.g. Visa, Mastercard) please use the bank transfer option",
+      "cart_subtitle": "",
+      "cart_additional_terms_text": "",
+      "cart_bottom_text": "",
+      "t1_footer_text": "This product is not for use by or sale to persons under the age of 18. This product should be used only as directed on the label. It should not be used if you are pregnant or nursing. Consult with a physician before use if you have a serious medical condition or use prescription medications. A Doctor's advice should be sought before using this and any supplemental dietary product. All trademarks and copyrights are property of their respective owners and are not affiliated with nor do they endorse this product. These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure or prevent any disease. Individual weight loss results will vary. By using this site, you agree to follow the Privacy Policy and all Terms & Conditions printed on this site. Void Where Prohibited by Law.",
+      "homepage_h1": "Купить CBD Oil Россия",
+      "dispatch": "Ready for dispatch 3 - 5 working days Delivery Time. Shipped by DHL"
+    }
+  },
+  "general": {
+    "404": {
+      "title": "404. Страница не найдена",
+      "subtext_html": "Эта страница не существует. Нажмите <a href=\"{{ link }}\" class=\"text-link\">здесь<\/a>, чтобы продолжить покупки.",
+      "link": "Продолжить покупку"
+    },
+    "accessibility": {
+      "refresh_page": "Выбор выделенного элемента приводит к полному обновлению страницы.",
+      "selection_help": "Нажмите клавишу пробела, а затем клавиши со стрелками, чтобы выделить необходимый элемент.",
+      "unit_price_separator": "за"
+    },
+    "meta": {
+      "tags": "Помечено \"{{ tags }}\"",
+      "page": "Страница {{ page }}"
+    },
+    "pagination": {
+      "previous": "Назад",
+      "next": "Далее"
+    },
+    "password_page": {
+      "login_form_heading": "Войдите в магазин с помощью пароля:",
+      "login_form_password_label": "Пароль",
+      "login_form_password_placeholder": "Ваш пароль",
+      "login_form_submit": "Ввести",
+      "signup_form_email_label": "Электронный адрес",
+      "signup_form_success": "Мы отправим вам письмо незадолго до открытия!",
+      "admin_link_html": "Вы владелец магазина? <a href=\"\/admin\" class=\"text-link\">Войдите здесь<\/a>",
+      "password_link": "Войдите с помощью пароля",
+      "powered_by_shopify_html": "",
+      "close": "закрыть (ESC)"
+    },
+    "social": {
+      "share_on_facebook": "Поделиться",
+      "share_on_twitter": "Твитнуть",
+      "share_on_pinterest": "Создать пин",
+      "alt_text": {
+        "share_on_facebook": "Поделиться в Facebook",
+        "share_on_twitter": "Опубликовать в Твиттере",
+        "share_on_pinterest": "Сохранить в Pinterest"
+      }
+    },
+    "newsletter_form": {
+      "newsletter_email": "Подпишитесь на нашу почтовую рассылку",
+      "newsletter_placeholder": "Ваш адрес электронной почты",
+      "newsletter_confirmation": "Спасибо, что подписались!",
+      "submit": "Подписаться"
+    },
+    "search": {
+      "no_results_html": "По запросу \"{{ terms }}\" ничего не найдено.",
+      "results_for_html": "По запросу \"{{ terms }}\" найдено вот что:",
+      "title": "Поиск",
+      "placeholder": "Поиск в магазине",
+      "submit": "Поиск",
+      "from": "from"
+    },
+    "drawers": {
+      "navigation": "Навигация по сайту",
+      "close_menu": "Закрыть меню",
+      "expand_submenu": "Развернуть подменю",
+      "collapse_submenu": "Свернуть подменю"
+    },
+    "payment": {
+      "method": "Способы оплаты"
+    },
+    "currency": {
+      "dropdown_label": "Валюта"
+    },
+    "language": {
+      "dropdown_label": "Язык"
+    }
+  },
+  "blogs": {
+    "article": {
+      "tags": "Теги",
+      "read_more": "Продолжить чтение",
+      "view_all": "Посмотреть все",
+      "back_to_blog": "Вернуться к {{ title }}"
+    },
+    "comments": {
+      "title": "Комментировать",
+      "name": "Имя",
+      "email": "Электронный адрес",
+      "message": "Сообщение",
+      "post": "Добавить комментарий",
+      "moderated": "Обратите внимание, что комментарии проходят одобрение перед публикацией.",
+      "success_moderated": "Ваш комментарий отправлен. Мы опубликуем его через некоторое время, так как наш блог модерируется.",
+      "success": "Ваш комментарий отправлен. Спасибо!",
+      "with_count": {
+        "one": "{{ count }} комментарий",
+        "other": "Комментариев: {{ count }}"
+      }
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Корзина",
+      "remove": "Удалить",
+      "edit": "Изменить",
+      "cancel": "Cancel",
+      "note": "Особые примечания для продавца",
+      "subtotal": "Промежуточный итог",
+      "taxes_and_shipping_at_checkout": "Налоги и стоимость доставки, рассчитанные при оформлении заказа",
+      "taxes_and_shipping_policy_at_checkout_html": "Налоги и <a href=\"{{ link }}\">стоимость доставки<\/a>, рассчитанные при оформлении заказа",
+      "taxes_included_but_shipping_at_checkout": "Сумма налога и стоимость доставки, рассчитанные при оформлении заказа",
+      "taxes_included_and_shipping_policy_html": "Налоги включены. <a href=\"{{ link }}\">Стоимость доставки<\/a>, рассчитанная при оформлении заказа.",
+      "update": "Обновить",
+      "checkout": "Оформить заказ",
+      "empty": "Корзина пуста.",
+      "continue_shopping": "Продолжить просмотр тут",
+      "close_cart": "Закрыть корзину",
+      "savings_html": "Экономия: {{ savings }}",
+      "reduce_quantity": "Уменьшить количество товара на один",
+      "increase_quantity": "Добавить одну позицию",
+      "cookies_required": "Разрешить использование файлов cookie для корзины"
+    },
+    "label": {
+      "quantity": "Количество",
+      "total": "Всего",
+      "price": "Цена",
+      "product": "Продукт"
+    },
+    "additional": {
+      "cart_discount_message": "Сообщение о скидке в корзине"
+    }
+  },
+  "checkout": {
+    "confirmation_page": {
+      "create_an_account": "Create an account",
+      "create_account_description": "Create an account with us today where you can track your order and join our referral scheme.",
+      "create_account_button": "Sign up",
+      "view_your_account": "View your account",
+      "view_account_description": "You can track your order from your account page.",
+      "view_account_button": "View account"
+    }
+  },
+  "collections": {
+    "general": {
+      "catalog_title": "Каталог",
+      "all_of_collection": "Все",
+      "no_matches": "В этой коллекции нет продуктов."
+    },
+    "sorting": {
+      "title": "Сортировка",
+      "title_tags": "Фильтр",
+      "all_of_collection": "Все — {{ collection }}"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Имя",
+      "email": "Электронный адрес",
+      "phone": "Номер телефона",
+      "message": "Сообщение",
+      "submit": "Отправить",
+      "post_success": "Спасибо за обращение. Мы свяжемся с вами как можно скорее."
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Моя учетная запись",
+      "details": "Детали учетной записи",
+      "view_addresses": "Посмотреть адреса",
+      "return": "Вернуться к деталям учетной записи"
+    },
+    "activate_account": {
+      "title": "Активировать учетную запись",
+      "subtext": "Создайте пароль для активации учетной записи.",
+      "password": "Пароль",
+      "password_confirm": "Подтвердите пароль",
+      "submit": "Активировать учетную запись",
+      "cancel": "Отклонить приглашение"
+    },
+    "addresses": {
+      "title": "Ваши адреса",
+      "default": "По умолчанию",
+      "add_new": "Добавить новый адрес",
+      "edit_address": "Изменить адрес",
+      "first_name": "Имя",
+      "last_name": "Фамилия",
+      "company": "Компания",
+      "address1": "Адрес1",
+      "address2": "Адрес2",
+      "city": "Город",
+      "country": "Страна\/регион",
+      "province": "Область",
+      "zip": "Почтовый индекс",
+      "phone": "Телефон",
+      "set_default": "Задать в качестве адреса по умолчанию",
+      "add": "Добавить адрес",
+      "update": "Обновить адрес",
+      "cancel": "Отмена",
+      "edit": "Редактировать",
+      "delete": "Удалить"
+    },
+    "login": {
+      "title": "Вход",
+      "email": "Электронный адрес",
+      "password": "Пароль",
+      "forgot_password": "Забыли пароль?",
+      "sign_in": "Войти в систему",
+      "cancel": "В магазин",
+      "guest_title": "Продолжить в качестве гостя",
+      "guest_continue": "Продолжить"
+    },
+    "orders": {
+      "title": "История заказов",
+      "order_number": "Заказ",
+      "date": "Дата",
+      "payment_status": "Статус оплаты",
+      "fulfillment_status": "Статус выполнения",
+      "total": "Всего",
+      "none": "У вас еще нет заказов."
+    },
+    "order": {
+      "title": "Заказ: {{ name }}",
+      "date": "Размещен: {{ date }}",
+      "cancelled": "Заказ отменен: {{ date }}",
+      "cancelled_reason": "Причина: {{ reason }}",
+      "billing_address": "Адрес выставления счета",
+      "payment_status": "Статус оплаты",
+      "shipping_address": "Адрес доставки",
+      "fulfillment_status": "Статус выполнения",
+      "discount": "Скидка",
+      "shipping": "Доставка",
+      "tax": "Налог",
+      "product": "Продукт",
+      "sku": "Артикул",
+      "price": "Цена",
+      "quantity": "Количество",
+      "total": "Всего",
+      "fulfilled_at": "Выполнен: {{ date }}",
+      "subtotal": "Промежуточный итог",
+      "track_shipment": "Отследить доставку"
+    },
+    "recover_password": {
+      "title": "Сбросить пароль",
+      "email": "Электронный адрес",
+      "submit": "Отправить",
+      "cancel": "Отмена",
+      "subtext": "Мы отправим вам письмо со ссылкой для сброса пароля.",
+      "success": "Мы отправили вам письмо со ссылкой для обновления пароля."
+    },
+    "reset_password": {
+      "title": "Сбросить пароль учетной записи",
+      "subtext": "Введите новый пароль для {{ email }}",
+      "password": "Пароль",
+      "password_confirm": "Подтвердите пароль",
+      "submit": "Сбросить пароль"
+    },
+    "register": {
+      "title": "Создать учетную запись",
+      "first_name": "Имя",
+      "last_name": "Фамилия",
+      "email": "Электронный адрес",
+      "password": "Пароль",
+      "submit": "Создать",
+      "cancel": "В магазин"
+    }
+  },
+  "home_page": {
+    "slideshow": {
+      "navigation_instructions": "Используйте стрелки влево\/вправо для навигации по слайд-шоу или проведите влево\/вправо, если вы используете мобильное устройство",
+      "next_slide": "Следующий слайд",
+      "previous_slide": "Предыдущий слайд",
+      "play": "Воспроизвести слайд-шоу",
+      "pause": "Приостановить показ слайд-шоу",
+      "load_slide": "Загрузить слайд {{ slide_number }}",
+      "active_slide": "Слайд {{ slide_number }}, текущий"
+    },
+    "onboarding": {
+      "product_vendor": "Производитель",
+      "product_title": "Пример названия товара",
+      "collection_title": "Пример названия коллекции",
+      "blog_title": "Заголовок публикации",
+      "blog_excerpt": "В блоге магазина нет публикаций. Здесь можно сообщать о появлении новых товаров, размещать советы или другие новости, которыми вы хотите поделиться с клиентами. Посетите блог Shopify об электронной коммерции, чтобы найти идеи для своего магазина и блога, а также получить советы по их развитию.",
+      "no_content": "В этом разделе пока нет контента. Добавьте контент в этот раздел, используя боковую панель."
+    },
+    "map": {
+      "address_error": "Не удалось найти этот адрес",
+      "address_no_results": "Нет результатов для этого адреса",
+      "address_query_limit_html": "Вы превысили ограничение использования Google API. Рассмотрите переход на план уровня <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Премиум<\/a>.",
+      "auth_error_html": "При аутентификации вашей учетной записи в Картах Google возникла проблема."
+    }
+  },
+  "layout": {
+    "cart": {
+      "title": "Корзина"
+    },
+    "customer": {
+      "account": "Учетная запись",
+      "log_out": "Выйти",
+      "log_in": "Войти",
+      "create_account": "Создать учетную запись"
+    },
+    "footer": {
+      "social_platform": "{{ name }} на {{ platform }}"
+    }
+  },
+  "products": {
+    "general": {
+      "save_html": "Сохранить<br \/>{{ saved_amount }}",
+      "collection_return": "Вернуться к {{ collection }}",
+      "sale_price": "Цена со скидкой",
+      "regular_price": "Обычная цена",
+      "include_taxes": "Сумма налога включена.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Стоимость доставки<\/a> рассчитывается при оформлении заказа.",
+      "unit_price": "Цена за единицу"
+    },
+    "product": {
+      "sold_out": "Продано",
+      "sold_out_html": "Продано<br \/>",
+      "unavailable": "Недоступно",
+      "quantity": "Количество",
+      "add_to_cart": "Добавить в корзину",
+      "full_details": "Вся информация",
+      "view_in_space": "Просматривайте в реальных условиях",
+      "view_in_space_label": "При просмотре в реальных условиях элемент загружается в окне дополненной реальности",
+      "slide_label": "Слайд {{ slide_number }} из {{ slide_max }}.",
+      "gallery_thumbnail_alt": "Загрузить изображение в средство просмотра галереи, {{ imageAlt }}",
+      "video_thumbnail_alt": "Загружайте и воспроизводите видео в средстве просмотра галереи {{ imageAlt }}",
+      "model_thumbnail_alt": "Загружайте трехмерные модели в средство просмотра галереи {{ imageAlt }}"
+    },
+    "reviews": {
+      "average": "В среднем",
+      "reviews": "Отзывы",
+      "no_reviews": "Нет отзывов.",
+      "more_ratings": "Дополнительные рейтинги",
+      "no_comments": "Нет комментариев.",
+      "reply_from": "Ответить",
+      "posted": "Опубликовано",
+      "write_review": "Написать отзыв",
+      "show": "Показать",
+      "details": "Подробности",
+      "rate_this_product": "Оцените этот продукт:",
+      "select_product": "Выбрать продукт:",
+      "write_review_placeholder": "Напишите свой отзыв здесь",
+      "submit_review": "Отправить отзыв",
+      "your_name_placeholder": "Ваше имя",
+      "email_address_placeholder": "Адрес электронной почты",
+      "thank_you_for_your_review": "<strong>Благодарим вас за отзыв.<\/strong>",
+      "your_review_has_been_submitted": "Ваш отзыв отправлен.",
+      "reviews_count": "Количество отзывов",
+      "verified_buyer": "Проверенный покупатель",
+      "verified_buyer_yes": "Проверенный покупатель: Да",
+      "verified_buyer_no": "Проверенный покупатель: Нет",
+      "anonymous_reviewer_name": "Анонимный"
+    },
+    "zoom": {
+      "next": "Дальше (стрелка вправо)",
+      "prev": "Назад (стрелка влево)",
+      "close": "Закрыть (Esc)"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "Вот ваша подарочная карта на {{ value }} для магазина {{ shop }}!",
+      "subtext": "Вот ваша подарочная карта.",
+      "disabled": "Отключено",
+      "expired": "Срок действия истек {{ expiry }}",
+      "active": "Срок действия истекает {{ expiry }}",
+      "redeem": "Укажите этот код при оформлении заказа, чтобы использовать подарочную карту",
+      "shop_link": "Начать покупки",
+      "print": "Печать",
+      "add_to_apple_wallet": "Добавить в Apple Wallet"
+    }
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "stock": {
+        "remove_from_cart_button_label": "Удалить из корзины"
+      },
+      "order_summary": {
+        "remove_gift_card_label": "Удалить подарочную карту"
+      },
+      "payment": {
+        "delete_customer_mandate_modal_title": "Удалить карту?",
+        "delete_customer_mandate_modal_confirm": "Удалить"
+      }
+    },
+    "addresses": {
+      "confirm": "Удалить этот адрес?"
+    }
+  }
+}

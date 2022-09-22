@@ -1,0 +1,610 @@
+{
+    "sections": {
+        "header": {
+            "announcement": "Zahlung",
+            "menu": "",
+            "cart_count": {
+                "one": "{{ count }} comment",
+                "other": "{{ count }} comments"
+            }
+        },
+        "cart": {
+            "title": "Leave a comment",
+            "caption": "",
+            "remove_title": "Entfernen",
+            "subtotal": "Zwischensumme",
+            "new_subtotal": "",
+            "note": "",
+            "checkout": "Zur Kasse",
+            "empty": "Aktiviere deine Cookies, um den Warenkorb benutzen zu können",
+            "cart_error": "",
+            "cart_quantity_error_html": "Quantity",
+            "cart_additional_terms_text": "Adresse hinzufügen",
+            "i_agree_with_the": "Ich bin +18 Jahre alt und stimme den",
+            "terms_and_conditions": "This product is not for use by or sale to persons under the age of 18. This product should be used only as directed on the label. It should not be used if you are pregnant or nursing. Consult with a physician before use if you have a serious medical condition or use prescription medications. A Doctor's advice should be sought before using this and any supplemental dietary product. All trademarks and copyrights are property of their respective owners and are not affiliated with nor do they endorse this product. These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure or prevent any disease. Individual weight loss results will vary. By using this site, you agree to follow the Privacy Policy and all Terms & Conditions printed on this site. Void Where Prohibited by Law",
+            "taxes_and_shipping_policy_at_checkout_html": "Steuern",
+            "taxes_included_but_shipping_at_checkout": "Liefer- und Preisnachlässe an der Kasse berechnet",
+            "taxes_included_and_shipping_policy_html": "",
+            "taxes_and_shipping_at_checkout": "",
+            "headings": {
+                "product": "Artikel",
+                "price": "Preis",
+                "total": "",
+                "quantity": ""
+            },
+            "update": "Aufgegeben am {{ date }}",
+            "login": {
+                "title": "",
+                "paragraph_html": ""
+            },
+            "featured_collection": {
+                "title": ""
+            }
+        },
+        "footer": {
+            "payment": "",
+            "footer_text": ""
+        },
+        "featured_blog": {
+            "view_all": "Alle Produkte",
+            "onboarding_title": "",
+            "onboarding_content": ""
+        },
+        "featured_collection": {
+            "view_all": "",
+            "view_all_label": ""
+        },
+        "collection_list": {
+            "view_all": ""
+        },
+        "collection_template": {
+            "empty": "",
+            "title": "",
+            "use_fewer_filters_html": ""
+        },
+        "video": {
+            "load_video": ""
+        },
+        "slideshow": {
+            "load_slide": "Anzeigen",
+            "previous_slideshow": "Vorheriger Schieber",
+            "next_slideshow": "Nächster Schieber",
+            "pause_slideshow": "Diashow pausieren",
+            "play_slideshow": "Diashow abspielen",
+            "carousel": "",
+            "slide": ""
+        }
+    },
+    "ecomplete": {
+        "product_page": {
+            "zero_thc": "THC Frei",
+            "low_thc": "<0.01% THC",
+            "gmo_free": "GMO Frei",
+            "3rd_party": "Unabhängige Zertifizierung",
+            "100_vegan": "7 Stufiger Testprozess",
+            "vegetarian": "100% Vegetarian",
+            "labdoor": "A+ Labdoor Rating",
+            "one_tree_planted": "100% Hanf aus den USA",
+            "bundles": "Beste Preis-Leistung",
+            "free_delivery": "Versandfrei ab 20€"
+        },
+        "country_selector": {
+            "country_emoji": "Land",
+            "country_name": "Name"
+        },
+        "homepage_h1": "Direkt zum Inhalt"
+    },
+    "general": {
+        "password_page": {
+            "login_form_heading": "Passwort",
+            "login_password_button": "",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_error": "",
+            "login_form_submit": "",
+            "admin_link_html": "Sind Sie der Geschäftsinhaber? <a href=\"/admin\" class=\"text-link\">Melden Sie sich hier an</a>",
+            "powered_by_shopify_html": "Dieser Shop wird mit Hilfe von {{ shopify }} betrieben werden"
+        },
+        "social": {
+            "alt_text": {
+                "share_on_facebook": "Auf Facebook teilen",
+                "share_on_twitter": "Auf Twitter twittern",
+                "share_on_pinterest": "Ihre Suche nach \"{{ terms }}\" hat keine Ergebnisse hervorgebracht."
+            },
+            "links": {
+                "twitter": "",
+                "facebook": "",
+                "pinterest": "",
+                "instagram": "",
+                "tumblr": "",
+                "snapchat": "",
+                "youtube": "",
+                "vimeo": "",
+                "tiktok": "",
+                "line": ""
+            }
+        },
+        "tags": {
+            "google_tag_manager": "Tags:",
+            "site_verification": "ONYaSEZWVK4xpVqfFcMAnohDmUXrzisr4b647faKDX8",
+            "pingdom": "-",
+            "google_optimize": "OPT-TT6Q2W6",
+            "google_analytics": "",
+            "quora": "-"
+        },
+        "continue_shopping": "Weiter einkaufen",
+        "pagination": {
+            "label": "",
+            "page": "",
+            "next": "",
+            "previous": ""
+        },
+        "search": {
+            "search": "erweitern/zusammenklappen"
+        },
+        "cart": {
+            "view": "",
+            "item_added": ""
+        },
+        "share": {
+            "close": "",
+            "copy_to_clipboard": "",
+            "share_url": "",
+            "success_message": "Your comment was posted successfully! Thank you!"
+        },
+        "slider": {
+            "of": "",
+            "next_slide": "",
+            "previous_slide": ""
+        }
+    },
+    "newsletter": {
+        "title": "ERHALTE 10% AUF DEINE ERSTE BESTELLUNG!",
+        "paragraph": "Melde dich jetzt bei unserem E-Mail Newsletter an und erhalte exklusive Informationen und Angebote!",
+        "email_placeholder": "E-Mail Adresse",
+        "submit_button": "Anmelden",
+        "payment_icons_title": "BEZAHLE SICHER MIT:",
+        "label": "",
+        "success": "",
+        "button_label": "Vielen Dank für deine Registrierung. Wir sagen dir Bescheid, sobald das Produkt wieder auf Lager ist."
+    },
+    "accessibility": {
+        "skip_to_text": "",
+        "skip_to_product_info": "Solange das Spar-Abo pausiert ist, werden keine weiteren Bestellungen erstellt.",
+        "close": "",
+        "unit_price_separator": "",
+        "vendor": "",
+        "error": "",
+        "refresh_page": "",
+        "link_messages": {
+            "new_window": "",
+            "external": ""
+        },
+        "loading": "",
+        "total_reviews": "Antworten",
+        "star_reviews_info": ""
+    },
+    "blogs": {
+        "article": {
+            "blog": "",
+            "read_more_title": "Read more",
+            "comments": {
+                "one": "",
+                "other": ""
+            },
+            "moderated": "Please note, comments must be approved before they are published",
+            "comment_form_title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "Post comment",
+            "back_to_blog": "Back to {{ title }}",
+            "share": "",
+            "success": "",
+            "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated."
+        }
+    },
+    "onboarding": {
+        "product_title": "Diesen Abschnitt kannst du nutzen, um die Details deines Produkts zu beschreiben. Erzähle anderen Kunden, wie dein Produkt aussieht, sich anfühlt und designt ist. Füge Einzelheiten zu Farbe, verwendeten Materialien, Größe und Produktionsort hinzu.",
+        "collection_title": "Name des Autors"
+    },
+    "products": {
+        "product": {
+            "add_to_cart": "Add to cart",
+            "description": "",
+            "on_sale": "Sale",
+            "product_variants": "",
+            "media": {
+                "gallery_viewer": "",
+                "load_image": "",
+                "load_model": "",
+                "load_video": "",
+                "image_available": "",
+                "open_media": "",
+                "play_model": "",
+                "play_video": "Es gab ein Problem bei Google Maps Konto zu authentifizieren."
+            },
+            "quantity": {
+                "label": "",
+                "input_label": "Gib an, bis wann das Spar-Abo pausiert werden soll:",
+                "increase": "",
+                "decrease": ""
+            },
+            "pickup_availability": {
+                "view_store_info": "",
+                "check_other_stores": "",
+                "pick_up_available": "",
+                "pick_up_available_at_html": "",
+                "pick_up_unavailable_at_html": "Unavailable",
+                "unavailable": "",
+                "refresh": ""
+            },
+            "price": {
+                "from_price_html": "Tut uns leid, es konnten keine Produkte passend zu deiner Auswahl gefunden werden. ",
+                "regular_price": "Regular price",
+                "sale_price": "",
+                "unit_price": "",
+                "price_per_mg": "Jetzt zum Checkout"
+            },
+            "share": "",
+            "sold_out": "Sold out",
+            "unavailable": "",
+            "vendor": "",
+            "video_exit_message": "",
+            "view_full_details": "Anonym",
+            "xr_button": "",
+            "xr_button_label": "",
+            "include_taxes": "",
+            "shipping_policy_html": "",
+            "product_recommendations_header": ""
+        },
+        "modal": {
+            "label": ""
+        },
+        "facets": {
+            "apply": "Ergebnisse anzeigen",
+            "clear": "Löschen",
+            "clear_all": "Alle löschen",
+            "from": "",
+            "filter_and_sort": "",
+            "filter_by_label": "",
+            "filter_button": "",
+            "filters_selected": {
+                "one": "",
+                "other": ""
+            },
+            "max_price": "",
+            "product_count": {
+                "one": "",
+                "other": ""
+            },
+            "product_count_simple": {
+                "one": "",
+                "other": ""
+            },
+            "reset": "",
+            "sort_button": "",
+            "sort_by_label": "",
+            "to": "",
+            "clear_filter": ""
+        }
+    },
+    "templates": {
+        "404": {
+            "title": "",
+            "subtext": ""
+        },
+        "search": {
+            "no_results": "",
+            "page": "",
+            "products": "",
+            "results_with_count": {
+                "one": "",
+                "other": ""
+            },
+            "results_with_count_and_term": {
+                "one": "",
+                "other": ""
+            },
+            "title": "",
+            "search_for": ""
+        },
+        "cart": {
+            "cart": ""
+        },
+        "contact": {
+            "form": {
+                "name": "",
+                "email": "",
+                "phone": "",
+                "comment": "",
+                "send": "",
+                "post_success": "Danke, dass du uns kontaktiert hast. Wir werden uns so schnell wie möglich bei dir melden.",
+                "error_heading": ""
+            }
+        }
+    },
+    "localization": {
+        "country_label": "",
+        "language_label": "",
+        "update_language": "",
+        "update_country": ""
+    },
+    "customer": {
+        "account": {
+            "title": "Account",
+            "details": "",
+            "view_addresses": "Deine Adressen",
+            "return": "Zurück zu Account-Details",
+            "referrals": ""
+        },
+        "account_fallback": "",
+        "activate_account": {
+            "title": "",
+            "subtext": "Gib ein neues Passwort für {{ email }} ein",
+            "password": "",
+            "password_confirm": "Passwort bestätigen",
+            "submit": "",
+            "cancel": "Abbrechen"
+        },
+        "addresses": {
+            "title": "",
+            "default": "Standard",
+            "add_new": "Neue Adresse hinzufügen",
+            "edit_address": "Bearbeiten",
+            "first_name": "Vorname",
+            "last_name": "Nachname",
+            "company": "Firma",
+            "address1": "Adresse1",
+            "address2": "Adresse2",
+            "city": "Stadt",
+            "country": "",
+            "province": "Bundesland",
+            "zip": "PLZ",
+            "phone": "Telefon",
+            "set_default": "Als Standard-Adresse festlegen",
+            "add": "",
+            "update": "",
+            "cancel": "",
+            "edit": "",
+            "delete": "Löschen",
+            "delete_confirm": "Bist du sicher, dass du diese Adresse löschen möchten?"
+        },
+        "log_in": "Einloggen",
+        "log_out": "Ausloggen",
+        "login_page": {
+            "cancel": "",
+            "create_account": "Account erstellen",
+            "email": "",
+            "forgot_password": "Hast du dein Passwort vergessen?",
+            "guest_continue": "Fortsetzen",
+            "guest_title": "Als Gast fortsetzen",
+            "password": "",
+            "title": "",
+            "sign_in": "Anmelden",
+            "submit": "",
+            "create_account_description": "Create an account with us today where you can track your order and join our referral scheme.",
+            "create_account_button": "View account"
+        },
+        "order": {
+            "title": "Preis",
+            "date_html": "",
+            "cancelled_html": "Bestellung storniert am {{ date }}",
+            "cancelled_reason": "Grund: {{ reason }}",
+            "billing_address": "Rechnungsadresse",
+            "payment_status": "Zahlungsstatus",
+            "shipping_address": "Lieferadresse",
+            "fulfillment_status": "Lieferstatus",
+            "discount": "Rabatt",
+            "shipping": "",
+            "tax": "",
+            "product": "",
+            "sku": "SKU",
+            "price": "",
+            "quantity": "",
+            "total": "",
+            "fulfilled_at_html": "Geliefert am {{ date }}",
+            "track_shipment": "Sendung verfolgen",
+            "tracking_url": "",
+            "tracking_company": "",
+            "tracking_number": "",
+            "subtotal": ""
+        },
+        "orders": {
+            "title": "",
+            "order_number": "Bestellung",
+            "order_number_link": "",
+            "date": "",
+            "payment_status": "",
+            "fulfillment_status": "",
+            "total": "",
+            "none": "Du hast noch keine Bestellungen aufgegeben."
+        },
+        "recover_password": {
+            "title": "",
+            "subtext": "",
+            "success": ""
+        },
+        "register": {
+            "title": "",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "password": "",
+            "submit": ""
+        },
+        "reset_password": {
+            "title": "",
+            "subtext": "",
+            "password": "",
+            "password_confirm": "",
+            "submit": ""
+        }
+    },
+    "gift_cards": {
+        "issued": {
+            "title": "",
+            "subtext": "",
+            "gift_card_code": "",
+            "shop_link": "Einkauf beginnen",
+            "remaining_html": "{{ balance }} übrig",
+            "add_to_apple_wallet": "Filter verbergen",
+            "qr_image_alt": "",
+            "copy_code": "",
+            "expired": "Abgelaufen am {{ expiry }}",
+            "copy_code_success": "",
+            "print_gift_card": ""
+        }
+    },
+    "pagefly": {
+        "products": {
+            "product": {
+                "regular_price": "",
+                "sold_out": "",
+                "unavailable": "",
+                "on_sale": "",
+                "quantity": "",
+                "add_to_cart": "",
+                "back_to_collection": "Back to {{ title }}",
+                "view_details": "View details"
+            }
+        },
+        "article": {
+            "tags": "",
+            "all_topics": "All topics",
+            "by_author": "by {{ author }}",
+            "posted_in": "Posted in",
+            "read_more": "",
+            "back_to_blog": ""
+        },
+        "comments": {
+            "title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "",
+            "moderated": "",
+            "success_moderated": "",
+            "success": "",
+            "comments_with_count": {
+                "one": "",
+                "other": ""
+            }
+        },
+        "password_page": {
+            "login_form_message": "Enter store using password:",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_submit": "",
+            "signup_form_email_label": "Email",
+            "signup_form_success": "We will send you an email right before we open!",
+            "password_link": "ejtttttttjkrnjtjrbtj"
+        }
+    },
+    "opp-subscription": {
+        "subscriptions": "Spar-Abos",
+        "header": "",
+        "list": {
+            "return_to_account": "Zurück zu deinem Account",
+            "column": {
+                "subscription": "",
+                "date": "",
+                "status": ""
+            }
+        },
+        "view": {
+            "header": "",
+            "return_to_list": "Zurück zur Abo-liste",
+            "created_on": "Erstellt am {{ createdOn }}",
+            "last_orders": "Letzte Bestellungen",
+            "billing_information": "Rechnungsdaten ",
+            "payment_information": "Zahlungsdaten",
+            "billing_address": "",
+            "shipping_address": "",
+            "next_order": "Nächste Bestellung:",
+            "frequency": {
+                "header": "",
+                "minute": {
+                    "one": "",
+                    "other": ""
+                },
+                "hour": {
+                    "one": "",
+                    "other": ""
+                },
+                "day": {
+                    "one": "",
+                    "other": ""
+                },
+                "week": {
+                    "one": "",
+                    "other": ""
+                },
+                "week_weekday": {
+                    "one": "",
+                    "other": ""
+                },
+                "month": {
+                    "one": "",
+                    "other": ""
+                },
+                "month_day": {
+                    "one": "",
+                    "other": ""
+                },
+                "year": {
+                    "one": "",
+                    "other": ""
+                }
+            },
+            "address": {
+                "first_name": "",
+                "last_name": "",
+                "company": "",
+                "address": "",
+                "city": "",
+                "country": "",
+                "province": "",
+                "postal_code": "Postleitzahl",
+                "phone": ""
+            },
+            "button": {
+                "suspend": "Pausieren",
+                "reactivate": "Reactivieren",
+                "terminate": "Beenden",
+                "edit": "",
+                "cancel": "",
+                "update": ""
+            },
+            "column": {
+                "product": "",
+                "price": "",
+                "quantity": "",
+                "order": "",
+                "date": "",
+                "payment_status": "",
+                "fulfillment_status": "",
+                "total": ""
+            },
+            "info": {
+                "terminated": "Das Spar-Abo wurde beendet am {{ terminatedOn }}.",
+                "terminating": {
+                    "zero": "",
+                    "other": ""
+                },
+                "suspended_reactivate": "Das Spar-Abo wurde pausiert und wird am {{ plannedEndDate }} reaktiviert.",
+                "suspended_terminate": "Das Spar-Abo wurde pausiert und wird am {{ plannedEndDate }} beendet."
+            },
+            "terminate": {
+                "header": "",
+                "info": "",
+                "missing_cycles": "Das Spar-Abo läuft für {{ missingCyclesToTermination }} weitere Bestellungen, nachdem die Beendigung beantragt wurde."
+            },
+            "suspend": {
+                "header": "",
+                "input_label": "",
+                "info": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,488 @@
+{
+  "custom": {
+    "tags": {
+      "gtm": "GTM-53H4WKV",
+      "site_verification": "taV0mvXhKAo2QsZVxNf2UfcwGD2ESu6ZyDohF4v2APk",
+      "pingdom": "-",
+      "quora": "-",
+      "google_optimize": "-"
+    },
+    "wording": {
+      "country_name": "Magyarország",
+      "country_emoji": "🇭🇺",
+      "price_per_mg": "Ár per mg",
+      "checkout_now": "Fizetés most",
+      "low_thc": "Ultra Alacsony THC",
+      "3rd_party": "Harmadik Fél által Tesztelt",
+      "vegetarian": "100% Vegetáriánus",
+      "labdoor": "A+ Labdoor Értékelés",
+      "one_tree_planted": "1 RENDELÉS 1 FA ÜLTETÉS",
+      "bundles": "Bundle Deal",
+      "free_delivery": "Ingyenes Szállítás",
+      "hemp": "100% USA Grown Hemp",
+      "zero_thc": "Zéro THC",
+      "gmo_free": "GMO mentes",
+      "100_vegan": "100% Vegán",
+      "7_step_test": "7 lépcsős teszt",
+      "i_agree_with_the": "Egyetértek a",
+      "terms_and_conditions": "Felhasználási feltételekkel",
+      "important_message": "Ha problémái vannak megrendelés elküldésével kártyával (például Visa, Mastercard), kérjük, használja a banki átutalás lehetőséget",
+      "t1_footer_text": "This product is not for use by or sale to persons under the age of 18. This product should be used only as directed on the label. It should not be used if you are pregnant or nursing. Consult with a physician before use if you have a serious medical condition or use prescription medications. A Doctor's advice should be sought before using this and any supplemental dietary product. All trademarks and copyrights are property of their respective owners and are not affiliated with nor do they endorse this product. These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure or prevent any disease. Individual weight loss results will vary. By using this site, you agree to follow the Privacy Policy and all Terms & Conditions printed on this site. Void Where Prohibited by Law.",
+      "homepage_h1": "Minőségi, bevizsgált CBD olaj rendelés",
+      "dispatch": "MPL szállítás 5-7 munkanapon belül."
+    }
+  },
+  "general": {
+    "404": {
+      "title": "404 Oldal nem található",
+      "subtext": "A kért oldal nem létezik.",
+      "link": "Vásárlás folytatása"
+    },
+    "accessibility": {
+      "skip_to_content": "Skip to content",
+      "close_modal": "Bezárás (esc)"
+    },
+    "meta": {
+      "tags": "Taggek \"{{ tags }}\"",
+      "page": "Oldal {{ page }}"
+    },
+    "pagination": {
+      "previous": "Előző",
+      "next": "Következő",
+      "current_page": "Oldal {{ current }} \/ {{ total }}"
+    },
+    "password_page": {
+      "opening_soon": "Nyitás hamarosan",
+      "login_form_heading": "Lépjen be a boltba jelszó használatával",
+      "login_form_password_label": "Jelszó",
+      "login_form_password_placeholder": "Jelszava",
+      "login_form_submit": "Belépés",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "Közvetlenül a megnyitás előtt küldünk egy e-mailt!",
+      "admin_link_html": "Ön a bolt tulajdonosa? <a href=\"\/admin\" class=\"text-link\">Bejelentkezés itt<\/a>",
+      "password_link": "Belépés jelszó használatával",
+      "powered_by_shopify_html": "Ezt az üzletet a {{ shopify }} fogja működteti"
+    },
+    "social": {
+      "share_on_facebook": "Megosztás",
+      "share_on_twitter": "Tweet",
+      "share_on_pinterest": "Pin it",
+      "alt_text": {
+        "share_on_facebook": "Megosztás Facebook-on",
+        "share_on_twitter": "Tweet on Twitter",
+        "share_on_pinterest": "Pin on Pinterest"
+      }
+    },
+    "search": {
+      "no_results_html": "Keresése a \"{{ terms }}\" szóra nem járt eredménnyel.",
+      "results_with_count": {
+        "one": "{{ count }} találat a keresésre: \"{{ terms }}\"",
+        "other": "{{ count }} találat a keresésre: \"{{ terms }}\""
+      },
+      "title": "Keressen honlapunkon",
+      "placeholder": "Keresés",
+      "submit": "Elküldés",
+      "close": "Keresés bezárása",
+      "from": "from"
+    },
+    "newsletter_form": {
+      "newsletter_email": "Csatlakozzon a levelező listánkhoz",
+      "email_placeholder": "Email címe",
+      "confirmation": "Köszönjük, hogy feliratkozott",
+      "submit": "Feliratkozás"
+    },
+    "filters": {
+      "show_more": "Mutass többet",
+      "show_less": "Mutass kevesebbet"
+    }
+  },
+  "sections": {
+    "slideshow": {
+      "next_slide": "Következő dia",
+      "previous_slide": "Előző dia",
+      "pause_slideshow": "A diavetítés szüneteltetése",
+      "play_slideshow": "Diavetítés lejátszása",
+      "play_video": "Videó lejátszása",
+      "close_video": "Videó bezárása"
+    },
+    "map": {
+      "address_error": "Hiba történt a cím felkutatásakor",
+      "address_no_results": "Nincs eredmény erre a címre",
+      "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a>.",
+      "auth_error_html": "Hiba történt a Google Maps-fiók hitelesítésében."
+    }
+  },
+  "blogs": {
+    "article": {
+      "view_all": "Összes megtekintése",
+      "all_topics": "Minden téma",
+      "by_author": "írta {{ author }}",
+      "posted_in": "Posztolva",
+      "read_more": "Tovább olvas",
+      "back_to_blog": "Vissza ide: {{ title }}"
+    },
+    "comments": {
+      "title": "Hozzászólás írása",
+      "name": "Név",
+      "email": "Email",
+      "message": "Üzenet",
+      "post": "Hozzászólás küldése",
+      "moderated": "Felhívjuk figyelmét, hogy a megjegyzéseket közzétételük előtt jóvá kell hagyni",
+      "success_moderated": "Megjegyzését sikeresen elküldte. Hamarosan posztoljuk, mivel blogunk moderálva van.",
+      "success": "Megjegyzését sikeresen posztoltuk! Köszönjük!",
+      "comments_with_count": {
+        "one": "{{ count }} komment",
+        "other": "{{ count }} komment"
+      }
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Kosara",
+      "remove": "Törlés",
+      "subtotal": "Részösszeg",
+      "savings": "Megtakarítása",
+      "shipping_at_checkout": "Kedvezménykódok, szállítási díjak, adók a pénztárnál kerülnek kiszámításra.",
+      "update": "Frissítés",
+      "checkout": "Pénztár",
+      "empty": "A kosara jelenleg üres.",
+      "cookies_required": "Engedélyezze a sütik használatát a kosár használatához",
+      "edit": "Szerkesztés",
+      "cancel": "Mégsem",
+      "continue_shopping": "Vásárlás folytatása"
+    },
+    "label": {
+      "product": "Termék",
+      "price": "Ár",
+      "quantity": "Mennyiség",
+      "total": "Összesen"
+    },
+    "additional": {
+      "cart_note": "Adjon megjegyzést a rendeléshez",
+      "cart_subtitle": "-",
+      "cart_important_message": "Ha problémái vannak a kártyás fizetéssel (pl. Visa, Mastercard), kérjük, használja a banki átutalás opciót.",
+      "cart_additional_terms_text": "-",
+      "cart_discount_message": "Kedvezménykódok, szállítási díjak a pénztárnál kerülnek kiszámításra.",
+      "cart_bottom_text": "-"
+    }
+  },
+  "checkout": {
+    "confirmation_page": {
+      "create_an_account": "Fiók létrehozása",
+      "create_account_description": "Hozzon létre egy fiókot nálunk még ma, ahol nyomon követheti a megrendelését, és csatlakozhat az ajánlási rendszerünkhöz.",
+      "create_account_button": "Fiók létrehozása",
+      "view_your_account": "Fiókod megtekintése",
+      "view_account_description": "A megrendelését a fiókja oldalán követheti nyomon.",
+      "view_account_button": "Fiók megtekintése"
+    }
+  },
+  "collections": {
+    "general": {
+      "view_all": "Összes megtekintése",
+      "no_matches": "Sajnáljuk, ebben a gyűjteményben nem található termék",
+      "items_with_count": {
+        "one": "{{ count }} termék",
+        "other": "{{ count }} termék"
+      }
+    },
+    "sorting": {
+      "title": "Rendezés",
+      "featured": "Kiemelt",
+      "best_selling": "Bestseller",
+      "az": "Betűrendben, A-Z",
+      "za": "Betűrendben, Z-A",
+      "price_ascending": "Ár, alacsony - magas",
+      "price_descending": "Ár, magas - alacsony",
+      "date_descending": "Dátum, új - régi",
+      "date_ascending": "Dátum, régi - új"
+    },
+    "filters": {
+      "title_tags": "Szűrés",
+      "all_tags": "Minden termék"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Név",
+      "email": "Email",
+      "phone": "Telefonszám",
+      "message": "Üzenet",
+      "submit": "Küldés",
+      "post_success": "Köszönjük, hogy felvette velünk a kapcsolatot. A lehető leghamarabb kapcsolatba lépünk Önnel."
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Fiókom",
+      "details": "Fiók részletei",
+      "view_addresses": "Címek megtekintése",
+      "return": "Vissza a fiók részleteihez"
+    },
+    "activate_account": {
+      "title": "Fiók aktiválása",
+      "subtext": "Hozza létre a jelszavát a fiók aktiválásához.",
+      "password": "Jelszó",
+      "password_confirm": "Jelszó megerősítése",
+      "submit": "Fiók aktiválása",
+      "cancel": "Meghívás elutasítása"
+    },
+    "addresses": {
+      "title": "Címei",
+      "default": "Alapértelmezett",
+      "add_new": "Új cím hozzáadása",
+      "edit_address": "Címek szerkesztése",
+      "first_name": "Keresztnév",
+      "last_name": "Vezetéknév",
+      "company": "Cégnév",
+      "address1": "Címsor 1",
+      "address2": "Címsor 2",
+      "city": "Város",
+      "country": "Ország",
+      "province": "Tartomány",
+      "zip": "Irányítószám",
+      "phone": "Telefonszám",
+      "set_default": "Beállítás alapértelmezett címként",
+      "add": "Cím hozzáadása",
+      "update": "Cím frissítése",
+      "cancel": "Mégsem",
+      "edit": "Szerkesztés",
+      "delete": "Törlés",
+      "delete_confirm": "Biztosan törli ezt a címet?"
+    },
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "forgot_password": "Forgot your password?",
+      "sign_in": "Sign In",
+      "guest_title": "Continue as a guest",
+      "guest_continue": "Continue"
+    },
+    "orders": {
+      "title": "Rendelési előzmények",
+      "order_number": "Rendelés",
+      "date": "Dátum",
+      "payment_status": "Fizetési állapot",
+      "fulfillment_status": "Teljesítési állapot",
+      "total": "Összesen",
+      "none": "Még nem adott fel megrendelést."
+    },
+    "order": {
+      "title": "Rendelés {{ name }}",
+      "date": "Időpontja: {{ date }}",
+      "cancelled": "Megrendelés visszavonva: {{ date }}",
+      "cancelled_reason": "Oka: {{ reason }}",
+      "billing_address": "Számlázási cím",
+      "payment_status": "Fizetési állapot",
+      "shipping_address": "Szállítási cím",
+      "fulfillment_status": "Teljesítési állapot",
+      "discount": "Kedvezmény",
+      "shipping": "Szállítás",
+      "tax": "Adó",
+      "product": "Termék",
+      "sku": "SKU",
+      "price": "Ár",
+      "quantity": "Mennyiség",
+      "total": "Összesen",
+      "fulfilled_at": "Teljesítve: {{ date }}",
+      "subtotal": "Részösszeg",
+      "track_shipment": "Szállítás nyomon követése"
+    },
+    "recover_password": {
+      "title": "Jelszó visszaállítása",
+      "email": "Email",
+      "submit": "Küldés",
+      "cancel": "Mégsem",
+      "subtext": "Küldünk egy e-mailt a jelszó visszaállításához.",
+      "success": "Küldtünk egy e-mailt egy linkkel a jelszó frissítéséhez."
+    },
+    "reset_password": {
+      "title": "Fiók jelszavának visszaállítása",
+      "subtext": "Adjon meg egy új jelszót az alábbi email címhez: {{ email }}",
+      "password": "Jelszó",
+      "password_confirm": "Jelszó megerősítése",
+      "submit": "Jelszó visszaállítása"
+    },
+    "register": {
+      "title": "Fiók létrehozása",
+      "first_name": "Keresztnév",
+      "last_name": "Vezetéknév",
+      "email": "Email",
+      "password": "Jelszó",
+      "submit": "Létrehozás"
+    }
+  },
+  "homepage": {
+    "onboarding": {
+      "product_title": "Termék neve",
+      "product_description": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+      "collection_title": "Kollekciójának neve",
+      "blog_title": "Poszt címe",
+      "blog_excerpt": "Your store hasn’t published any blog posts yet. A blog can be used to talk about new product launches, tips, or other news you want to share with your customers. You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and blog.",
+      "blog_author": "Író neve",
+      "no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar."
+    }
+  },
+  "layout": {
+    "navigation": {
+      "search": "Keresés",
+      "toggle": "kinyit\/összecsuk",
+      "expand": "kinyit",
+      "collapse": "összecsuk"
+    },
+    "cart": {
+      "title": "Kosár",
+      "items_count": {
+        "one": "elem",
+        "other": "elem"
+      }
+    },
+    "customer": {
+      "account": "Fiók",
+      "log_out": "Kijelentkezés",
+      "log_in": "Bejelentkezés",
+      "create_account": "Fiók létrehozása"
+    },
+    "footer": {
+      "social_platform": "{{ name }} on {{ platform }}"
+    }
+  },
+  "products": {
+    "product": {
+      "regular_price": "Normál ár",
+      "sold_out": "Elfogyott",
+      "unavailable": "Nem elérhető",
+      "on_sale": "Akciós",
+      "quantity": "Mennyiség",
+      "add_to_cart": "Kosárba",
+      "back_to_collection": "Vissza ide: {{ title }}"
+    },
+    "reviews": {
+      "average": "Átlag",
+      "reviews": "Vélemények",
+      "no_reviews": "Nincs vélemény.",
+      "more_ratings": "Több értékelés",
+      "no_comments": "Nincsenek kommentek.",
+      "reply_from": "Reply from",
+      "posted": "Posztolva",
+      "write_review": "Vélemény írása",
+      "show": "Megmutat",
+      "details": "Részletek",
+      "rate_this_product": "Termék értékelése",
+      "select_product": "Termék kiválasztása:",
+      "write_review_placeholder": "Írja véleményét ide",
+      "submit_review": "Vélemény beküldése",
+      "your_name_placeholder": "Név",
+      "email_address_placeholder": "Email cím",
+      "thank_you_for_your_review": "<strong>Köszönjük a véleményét.<\/strong>",
+      "your_review_has_been_submitted": "Véleménye elküldésre került.",
+      "reviews_count": "Vélemények száma",
+      "verified_buyer": "Ellenőrzött vásárló",
+      "verified_buyer_yes": "Ellenőrzött vásárló: Igen",
+      "verified_buyer_no": "Ellenőrzött vásárló: Nem",
+      "anonymous_reviewer_name": "Anonymous"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title_html": "Itt van a {{ value }} értékű ajándékkártyája a {{ shop }} boltjába!",
+      "subtext": "Az ajándékkártyája",
+      "disabled": "Letiltva",
+      "expired": "Lejárt ekkor: {{ expiry }}",
+      "active": "Le fog járni ekkor: {{ expiry }}",
+      "redeem_html": "Használja ezt a kódot a pénztárnál a {{ value }} értékű ajándékkártyájának beváltásához",
+      "shop_link": "Vásárlás kezdése",
+      "print": "Nyomtassa ki ezt az ajándékkártyát",
+      "remaining_html": "{{ balance }} maradt",
+      "add_to_apple_wallet": "Adja hozzá az Apple Wallet-hez"
+    }
+  },
+  "date_formats": {
+    "month_day_year": "%Y. %B. %d."
+  },
+  "product_filter_search": {
+    "refine": "Rendezés:",
+    "refine_mobile": "Rendezés:",
+    "refine_mobile_collapse": "Szűrő elrejtése",
+    "clear": "Törlés",
+    "clear_all": "Összes törlése",
+    "apply": "Alkalmaz",
+    "close": "Bezárás",
+    "show_result": "Eredmény megjelenítése",
+    "sale": "Kiárusítás",
+    "sold_out": "Elfogyott",
+    "from": "tól",
+    "breadcrumb_home": "Főoldal",
+    "load_more": "Töltsön be többet",
+    "show_limit": "Megjelenít",
+    "collection_all": "Mind",
+    "price_under": "Alatt",
+    "price_above": "Felett",
+    "search_general_title": "Keresés",
+    "search_result_header": "Keresési eredmények erre: \"{{ terms }}\"",
+    "search_result_empty": "A(z) \"{{terms}}\" keresése nem felelt meg egyik találatnak sem",
+    "search_result_number": "{{ count }} megjelenítése a \"{{ terms }}\" kifejezésre",
+    "suggestion_popular_header": "Népszerű javaslatok",
+    "suggestion_product_header": "Termékek",
+    "suggestion_did_you_mean_header": "Úgy értette, hogy",
+    "suggestion_view_all": "Összes találat megtekintése",
+    "error_no_filter_result": "Sajnáljuk, egyetlen termék sem felelt meg a választásának",
+    "error_no_search_result": "Sajnáljuk, egyetlen termék sem felel meg a kulcsszónak",
+    "error_no_products": "A gyűjteményben nem található termék"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "payment_gateway": {
+        "credit_card_label": "Bankkártya"
+      },
+      "payment": {
+        "title": "Fizetés"
+      }
+    }
+  }
+}

@@ -1,0 +1,1360 @@
+{
+  "custom": {
+    "tags": {
+      "gtm": "GTM-KFRTLWC",
+      "site_verification": "2kCGI4aHFkMzoKXyf0I3UQAc6VWcVS5AFY7_1OXIAmk",
+      "pingdom": "-",
+      "quora": "-",
+      "google_optimize": "-"
+    },
+    "wording": {
+      "country_name": "Hrvatska",
+      "country_emoji": "🇭🇷",
+      "price_per_mg": "Cijena po Mg",
+      "checkout_now": "Izvršite naplatu",
+      "low_thc": "<0.2% THC",
+      "3rd_party": "Testirano od strane neovisnih laboratorija",
+      "vegetarian": "100% vegetarijanski",
+      "labdoor": " A+ Labdoor ocjena",
+      "one_tree_planted": "Sadimo stablo za svaku kupnju",
+      "bundles": "Paketna ponuda",
+      "free_delivery": "Besplatna dostava",
+      "hemp": "100% USA konoplja",
+      "zero_thc": "Bez THC-a",
+      "gmo_free": "Bez GMO-a",
+      "100_vegan": "100% Vegan",
+      "7_step_test": "7 koraka Test",
+      "i_agree_with_the": "Slažem se sa",
+      "terms_and_conditions": "uvjetima korištenja",
+      "discount_message": "Kodovi za popuste, dostava i porezi se kalkuliraju prilikom naplate",
+      "important_message": "Ako imate problema s narudžbom putem kartice (npr. Visa, Mastercard), molimo koristite opciju bankovnog prijenosa",
+      "t1_footer_text": "Ovaj proizvod nije za upotrebu ili prodaju osobama mlađim od 18 godina. Ovaj proizvod treba koristiti samo prema uputama na naljepnici. Ne biste ga trebali koristiti ako ste trudni ili dojite. Prije uporabe posavjetujte se s liječnikom ako imate ozbiljno zdravstveno stanje ili koristite lijekove na recept. Prije uporabe ovog i bilo kojeg dodatka prehrani potrebno je potražiti savjet liječnika. Svi zaštitni znakovi i autorska prava vlasništvo su njihovih vlasnika i nisu povezani niti podržavaju ovaj proizvod. FDA nije procijenila ove izjave. Ovaj proizvod nije namijenjen dijagnosticiranju, liječenju, liječenju ili sprječavanju bilo koje bolesti. Pojedinačni rezultati mršavljenja će se razlikovati. Korištenjem ove stranice slažete se da ćete slijediti Politiku privatnosti i sve Uvjete i odredbe tiskane na ovoj stranici. Nevažeći tamo gdje je zakonom zabranjeno.",
+      "homepage_h1": "Kupi CBD ulje Hrvatska",
+      "dispatch": "Ready for dispatch 3 - 5 working days Delivery Time. Shipped by DHL"
+    }
+  },
+  "general": {
+    "404": {
+      "title": "404 Stranica nije pronađena",
+      "subtext": "Stranica koju ste tražili ne postoji.",
+      "link": "Nastavite kupovati"
+    },
+    "accessibility": {
+      "skip_to_content": "Preskočite na sadržaj",
+      "close_modal": "Zatvorite (esc)"
+    },
+    "meta": {
+      "tags": "Označeno \"{{ tags }}\"",
+      "page": "Stranica {{ page }}"
+    },
+    "pagination": {
+      "previous": "Prethodno",
+      "next": "Sljedeće",
+      "current_page": "Stranica {{ current }} od {{ total }}"
+    },
+    "password_page": {
+      "opening_soon": "Otvara se uskoro",
+      "login_form_heading": "Uđite u trgovinu pomoću zaporke",
+      "login_form_password_label": "Zaporka",
+      "login_form_password_placeholder": "Vaša zaporka",
+      "login_form_submit": "Ulaz",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "Poslati ćemo vam poruku e-poštom prije otvaranja!",
+      "admin_link_html": "Jeste li vlasnik trgovine? <a href=\"\/admin\" class=\"text-link\">Prijavite se ovdje<\/a>",
+      "password_link": "Prijavite se pomoću zaporke",
+      "powered_by_shopify_html": "Ova trgovina bit će pokrenuta putem {{ shopify }}"
+    },
+    "social": {
+      "share_on_facebook": "Podijelite",
+      "share_on_twitter": "Tweetajte",
+      "share_on_pinterest": "Pin it",
+      "alt_text": {
+        "share_on_facebook": "Podijelite na Facebooku",
+        "share_on_twitter": "Tweetajte na Twitteru",
+        "share_on_pinterest": "Pinajte na Pinterestu"
+      }
+    },
+    "search": {
+      "no_results_html": "Vaše pretraživanje za \"{{ terms }}\" nije donijelo nikakve rezultate.",
+      "results_with_count": {
+        "one": "{{ count }} rezultata za \"{{ terms }}\"",
+        "other": "{{ count }} rezultata za \"{{ terms }}\""
+      },
+      "title": "Pretražite našu stranicu",
+      "placeholder": "Pretraga",
+      "submit": "Prihvati",
+      "close": "Zatvorite pretragu",
+      "from": "od"
+    },
+    "newsletter_form": {
+      "newsletter_email": "Pridružite se našoj e-mail listi",
+      "email_placeholder": "Email adresa",
+      "confirmation": "Hvala što ste se pretplatili",
+      "submit": "Pretplatite se"
+    },
+    "filters": {
+      "show_more": "Prikaži više",
+      "show_less": "Prikaži manje"
+    }
+  },
+  "sections": {
+    "slideshow": {
+      "next_slide": "Sljedeći prikaz",
+      "previous_slide": "Prethodni prikaz",
+      "pause_slideshow": "Pauzirajte slideshow",
+      "play_slideshow": "Započnite slideshow",
+      "play_video": "Reproduciratej videozapis",
+      "close_video": "Zatvorite videozapis"
+    },
+    "map": {
+      "address_error": "Pogreška pri traženju te adrese",
+      "address_no_results": "Nema rezultata za tu adresu",
+      "address_query_limit_html": "Premašili ste ograničenje upotrebe Google API-ja. Razmislite o nadogradnji na <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a>.",
+      "auth_error_html": "Došlo je do problema s autorizacijom vašeg Google Maps računa."
+    }
+  },
+  "blogs": {
+    "article": {
+      "view_all": "Vidi sve",
+      "all_topics": "Sve teme",
+      "by_author": "od {{ author }}",
+      "posted_in": "Objavljeno u",
+      "read_more": "Pročitajte više",
+      "back_to_blog": "Natrag do {{ title }}"
+    },
+    "comments": {
+      "title": "Ostavite komentar",
+      "name": "Ime",
+      "email": "Email",
+      "message": "Poruka",
+      "post": "Objavite komentar",
+      "moderated": "Imajte na umu da komentari moraju biti odobreni prije objavljivanja",
+      "success_moderated": "Vaš je komentar uspješno objavljen. Mi ćemo ga objaviti uskoro, budući da je naš blog moderiran.",
+      "success": "Vaš komentar je uspješno objavljen! Hvala vam!",
+      "comments_with_count": {
+        "one": "{{ count }} komentara",
+        "other": "{{ count }} komentara"
+      }
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Vaša košarica",
+      "note": "Dodajte bilješku svojoj narudžbi",
+      "remove": "Uklonite",
+      "subtotal": "Suma stavke",
+      "savings": "Ušteda",
+      "shipping_at_checkout": "Kodovi za popuste, dostava i porezi se kalkuliraju prilikom naplate",
+      "update": "Ažurirajte",
+      "checkout": "Naplata",
+      "empty": "Vaša je košarica trenutno prazna.",
+      "cookies_required": "Omogućite kolačiće za korištenje košarice za kupnju",
+      "edit": "Uredite",
+      "cancel": "Otkažite",
+      "continue_shopping": "Nastavite kupovati"
+    },
+    "label": {
+      "product": "Proizvod",
+      "price": "Cijena",
+      "quantity": "Količina",
+      "total": "Ukupno"
+    },
+    "additional": {
+      "cart_note": "Dodajte napomenu svojoj narudžbi",
+      "cart_subtitle": "-",
+      "cart_important_message": "Ako imate problema s narudžbom putem kartice (npr. Visa, Mastercard) koristite opciju bankovnog prijenosa",
+      "cart_additional_terms_text": "-",
+      "cart_discount_message": "Kodovi za popust, dostava i porezi izračunati pri naplati",
+      "cart_bottom_text": "-"
+    }
+  },
+  "checkout": {
+    "confirmation_page": {
+      "create_an_account": "Izradite račun",
+      "create_account_description": "Stvorite račun kod nas već danas na kojem možete pratiti svoju narudžbu i pridružiti se našoj shemi preporuka.",
+      "create_account_button": "Prijavite se",
+      "view_your_account": "Pogledajte svoj račun",
+      "view_account_description": "Svoju narudžbu možete pratiti sa stranice vašeg računa.",
+      "view_account_button": "Prikaži račun"
+    }
+  },
+  "collections": {
+    "general": {
+      "view_all": "Vidi sve",
+      "no_matches": "Nažalost, u ovoj kolekciji nema proizvoda",
+      "items_with_count": {
+        "one": "{{ count }} proizvoda",
+        "other": "{{ count }} proizvoda"
+      }
+    },
+    "sorting": {
+      "title": "Sortirajte",
+      "featured": "Istaknuto",
+      "best_selling": "Najprodavaniji",
+      "az": "Abecedno, A-Z",
+      "za": "Abecedno, Z-A",
+      "price_ascending": "Cijena, niska do visoka",
+      "price_descending": "Cijena, visoka do niska",
+      "date_descending": "Datum, od najnovijeg",
+      "date_ascending": "Datum, od najstarijeg"
+    },
+    "filters": {
+      "title_tags": "Filter",
+      "all_tags": "Svi proizvodi"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Ime",
+      "email": "Email",
+      "phone": "Broj telefona",
+      "message": "Poruka",
+      "submit": "Slanje",
+      "post_success": "Hvala što ste nas kontaktirali. Javiti ćemo vam se što je prije moguće."
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Moj račun",
+      "details": "Detalji računa",
+      "view_addresses": "Prikaz adresa",
+      "return": "Povratak na pojedinosti o računu"
+    },
+    "activate_account": {
+      "title": "Aktivirajte račun",
+      "subtext": "Izradite zaporku da biste aktivirali svoj račun.",
+      "password": "Zaporka",
+      "password_confirm": "Potvrdite zaporku",
+      "submit": "Aktivirajte račun",
+      "cancel": "Odbijte pozivnicu"
+    },
+    "addresses": {
+      "title": "Vaše adrese",
+      "default": "Zadano",
+      "add_new": "Dodajte novu adresu",
+      "edit_address": "Uredite adresu",
+      "first_name": "Ime",
+      "last_name": "Prezime",
+      "company": "Tvrtka",
+      "address1": "Adresa 1",
+      "address2": "Adresa 2",
+      "city": "Grad",
+      "country": "Država",
+      "province": "Pokrajina",
+      "zip": "Poštanski broj",
+      "phone": "Telefon",
+      "set_default": "Postavite kao zadanu adresu",
+      "add": "Dodajte adresu",
+      "update": "Ažurirajte adresu",
+      "cancel": "Otkažite",
+      "edit": "Uredite",
+      "delete": "Izbrišite",
+      "delete_confirm": "Jeste li sigurni da želite izbrisati ovu adresu?"
+    },
+    "login": {
+      "title": "Prijava",
+      "email": "Email",
+      "password": "Zaporka",
+      "forgot_password": "Zaboravili ste zaporku?",
+      "sign_in": "Prijavite se",
+      "guest_title": "Nastavite kao gost",
+      "guest_continue": "Nastavite"
+    },
+    "orders": {
+      "title": "Povijest narudžbi",
+      "order_number": "Narudžba",
+      "date": "Datum",
+      "payment_status": "Status plaćanja",
+      "fulfillment_status": "Status pakiranja",
+      "total": "Ukupno",
+      "none": "Niste još ništa naručili."
+    },
+    "order": {
+      "title": "Narudžba {{ name }}",
+      "date": "Naručeno dana {{ date }}",
+      "cancelled": "Narudžba je otkazana {{ date }}",
+      "cancelled_reason": "Razlog: {{ reason }}",
+      "billing_address": "Adresa za naplatu",
+      "payment_status": "Status plaćanja",
+      "shipping_address": "Adresa za dostavu",
+      "fulfillment_status": "Status pakiranja",
+      "discount": "Popust",
+      "shipping": "Dostava",
+      "tax": "Porez",
+      "product": "Proizvod",
+      "sku": "Šifra",
+      "price": "Cijena",
+      "quantity": "Količina",
+      "total": "Ukupno",
+      "fulfilled_at": "Pakirano {{ date }}",
+      "subtotal": "Suma stavke",
+      "track_shipment": "Pratite pošiljku"
+    },
+    "recover_password": {
+      "title": "Ponovno postavite svoju zaporku",
+      "email": "Email",
+      "submit": "Pošaljite",
+      "cancel": "Otkažite",
+      "subtext": "Poslat ćemo vam poruku e-pošte za poništavanje zaporke.",
+      "success": "Poslali smo vam poruku e-pošte s vezom za ažuriranje zaporke."
+    },
+    "reset_password": {
+      "title": "Poništite zaporku računa",
+      "subtext": "Unesite novu zaporku za {{ email }}",
+      "password": "Zaporka",
+      "password_confirm": "Potvrdite zaporku",
+      "submit": "Poništite zaporku"
+    },
+    "register": {
+      "title": "Izradite račun",
+      "first_name": "Ime",
+      "last_name": "Prezime",
+      "email": "Email",
+      "password": "Zaporka",
+      "submit": "Izradite"
+    }
+  },
+  "homepage": {
+    "onboarding": {
+      "product_title": "Your product's name",
+      "product_description": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+      "collection_title": "Your collection's name",
+      "blog_title": "Your post's title",
+      "blog_excerpt": "Your store hasn’t published any blog posts yet. A blog can be used to talk about new product launches, tips, or other news you want to share with your customers. You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and blog.",
+      "blog_author": "Author name",
+      "no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar."
+    }
+  },
+  "layout": {
+    "navigation": {
+      "search": "Pretraga",
+      "toggle": "proširite \/ suzite",
+      "expand": "proširite",
+      "collapse": "suzite"
+    },
+    "cart": {
+      "title": "Košarica",
+      "items_count": {
+        "one": "Proizvod",
+        "other": "Proizvodi"
+      }
+    },
+    "customer": {
+      "account": "Račun",
+      "log_out": "Odjava",
+      "log_in": "Prijava",
+      "create_account": "Kreirajte račun"
+    },
+    "footer": {
+      "social_platform": "{{ name }} na {{ platform }}"
+    }
+  },
+  "products": {
+    "product": {
+      "regular_price": "Standardna cijena",
+      "sold_out": "Rasprodano",
+      "unavailable": "Nedostupno",
+      "on_sale": "Rasprodaja",
+      "quantity": "Količina",
+      "add_to_cart": "Dodajte u košaricu",
+      "back_to_collection": "Natrag na {{ title }}"
+    },
+    "reviews": {
+      "average": "Average",
+      "reviews": "Iskustva ",
+      "no_reviews": "Nema recenzija",
+      "more_ratings": "Više recenzija",
+      "no_comments": "Nema komentara.",
+      "reply_from": "Odgovor od",
+      "posted": "Objavljeno",
+      "write_review": "Objavite recenziju",
+      "show": "Prikaži",
+      "details": "Detalji",
+      "rate_this_product": "Ocijenite ovaj proizvod:",
+      "select_product": "Odaberite proizvod:",
+      "write_review_placeholder": "Napišite recenziju ovdje",
+      "submit_review": "Pošaljite recenziju",
+      "your_name_placeholder": "Vaše ime",
+      "email_address_placeholder": "Email Adresa",
+      "thank_you_for_your_review": "Zahvaljujemo na recenziji",
+      "your_review_has_been_submitted": "Vaša recenzija je zaprimljena.",
+      "reviews_count": "Broj recenzija",
+      "verified_buyer": "Verificirani kupac",
+      "verified_buyer_yes": "Verificirani kupac: Da",
+      "verified_buyer_no": "Verificirani kupac: Ne",
+      "anonymous_reviewer_name": "Anonimni kupac"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title_html": "Ovo je vaša {{ value }} poklon kartica za {{ shop }}!",
+      "subtext": "Vaša poklon kartica",
+      "disabled": "Onemogućeno",
+      "expired": "Isteklo je {{ expiry }}",
+      "active": "Datum isteka {{ expiry }}",
+      "redeem_html": "Koristite ovaj kôd na blagajni kako biste iskoristili {{ value }} poklon karticu",
+      "shop_link": "Počnite kupovati",
+      "print": "Ispišite ovu poklon karticu",
+      "remaining_html": "{{ balance }} je ostalo",
+      "add_to_apple_wallet": "Dodaj u Apple novčanik"
+    }
+  },
+  "date_formats": {
+    "month_day_year": "%B %d, %Y"
+  },
+  "product_filter_search": {
+    "refine": "Suzite pretraživanje po",
+    "refine_mobile": "Suzite pretraživanje po",
+    "refine_mobile_collapse": "Sakrijte Filter",
+    "clear": "Očistite",
+    "clear_all": "Očistite sve",
+    "apply": "Primijenite",
+    "close": "Zatvorite",
+    "show_result": "Prikaži rezultate",
+    "sale": "Rasprodaja",
+    "sold_out": "Rasprodano",
+    "from": "od",
+    "breadcrumb_home": "Naslovna",
+    "load_more": "Učitaj više",
+    "show_limit": "Prikaži",
+    "collection_all": "Sve",
+    "price_under": "Ispod",
+    "price_above": "Iznad",
+    "search_general_title": "Pretraga",
+    "search_result_header": "Rezultati pretrage za \"{{ terms }}\"",
+    "search_result_empty": "Vaše pretraživanje za \"{{ terms }}\" ne odgovara nijednom rezultatu",
+    "search_result_number": "Prikaz {{ count }} rezultata za \"{{ terms }}\"",
+    "suggestion_popular_header": "Popularni prijedlozi",
+    "suggestion_product_header": "Proizvodi",
+    "suggestion_did_you_mean_header": "Jeste li mislili",
+    "suggestion_view_all": "Pogledajte sve rezultate",
+    "error_no_filter_result": "Nažalost, nijedan proizvod ne odgovara vašem odabiru",
+    "error_no_search_result": "Nažalost, nijedan proizvod ne odgovara ključnoj riječi",
+    "error_no_products": "U ovoj kolekciji nisu pronađeni proizvodi"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "review": {
+        "title": "Recenzija",
+        "review_title": "Naslov recenzije",
+        "checkout_as_guest": "Kupite kao gost",
+        "blocks": {
+          "contact_method_title": "Kontakt",
+          "billing_address_title": "Adresa za plaćanje",
+          "shipping_address_title": "Adresa isporuke",
+          "shipping_method_title": "Način isporuke",
+          "payment_method_title": "Način plaćanja",
+          "change_link_label": "Izmijenite",
+          "change_contact_method_link_label": "Izmijenite kontakt informacije",
+          "change_billing_address_link_label": "Izmijenite adresu plaćanja",
+          "change_shipping_address_link_label": "Izmijenite adresu isporuke",
+          "change_shipping_method_link_label": "Izmijenite način isporuke",
+          "change_payment_method_link_label": "Izmijenite način plaćanja"
+        }
+      },
+      "general": {
+        "cart": "Košarica",
+        "page_title": "Naplata",
+        "skip_to_content": "Preskočite na sadržaj",
+        "breadcrumb": "Navigacija",
+        "continue_button_label": "Nastavite",
+        "complete_purchase_button_label": "Završite narudžbu",
+        "pay_now_button_label": "Platite sada",
+        "authenticate_purchase_button_label": "Autorizacija plaćanja",
+        "edit_link_label": "Uredite",
+        "all_rights_reserved": "Sva prava pridržana {{ shop_name }}",
+        "print_policies_link_label": "Ispis",
+        "close_modal_label": "Zatvorite",
+        "close_notice_label": "Zatvorite",
+        "expand_notice_label": "Saznajte više",
+        "continue_to_shipping_method": "Nastavite na dostavu",
+        "continue_to_payment_method": "Nastavite na plaćanje",
+        "continue_to_review": "Pregledajte narudžbu",
+        "back_to_cart": "Natrag u košaricu",
+        "back_to_contact_information": "Natrag na informacije",
+        "back_to_shipping_method": "Natrag na način isporuke",
+        "back_to_payment_method": "Natrag na način plaćanja",
+        "choose_shipping_method": "Odaberite način dostave",
+        "choose_payment_method": "Odaberite način  plaćanja",
+        "choose_billing_address": "Odaberite adresu plaćanja",
+        "contact_us_html": "Kontaktirajte nas za više informacija",
+        "autocomplete_title": "Prijedlozi",
+        "autocomplete_single_item": "1 artikl dostupan",
+        "autocomplete_multi_item": "{{number}} artikala dostupno",
+        "autocomplete_selection": "{{number}} od {{total}}",
+        "autocomplete_close": "Zatvori prijedloge",
+        "footer": "Footer",
+        "forwarding_indicator": {
+          "new_window": "Otvara se u novom prozoru",
+          "external": "Otvara eksternu stranicu",
+          "external_and_new_window": "Otvara eksternu stranicu u novom prozoru"
+        },
+        "checkout_context": {
+          "step_one": "{{ shop_name }} - Naplata"
+        },
+        "error_page_title": "Pogeška",
+        "tooltip_accessibility_label": "Više informacija"
+      },
+      "thank_you": {
+        "return_to_store_link_label": "Nastavite s kupovinom",
+        "title": "Hvala vam na kupnji!",
+        "confirmation_email_sent_text": "E-poruka za potvrdu poslana je na {{ email }}",
+        "print_link_label": "Ispis potvrde",
+        "payment_information_title": "Informacije o plaćanju",
+        "shipping_information_title": "Podaci o otpremi",
+        "page_title": "Hvala lijepa {{ display_name }}!",
+        "page_title_no_name": "Hvala lijepa!",
+        "cancelled_page_title": "Narudžba je otkazana",
+        "customer_information_title": "Informacija o kupcu",
+        "contact_information_title": "Kontaktne informacije",
+        "billing_address_title": "Adresa za naplatu",
+        "shipping_address_title": "Dostavna adresa",
+        "shipping_address_map_title": "Google karta prikazuje točku na kojoj se nalazi adresa dostave: {{ address }}",
+        "payment_method_title": "Način plaćanja",
+        "shipping_method_title": "Način dostave",
+        "tracking_number": "Broj za pračenje:",
+        "company_tracking_number": "{{ company }} broj za pračenje:",
+        "estimated_arrival": "Procijenjeni datum isporuke:",
+        "re-order": "Ponovno naručite iste stavke",
+        "confirmed": "Potvrđeno",
+        "thank_you_title": "Vaša narudžba je potvrđena",
+        "thank_you_confirmed_order_with_email": "Uskoro ćete primiti e-poštu potvrde s brojem narudžbe.",
+        "thank_you_confirmed_order_with_phone": "Uskoro ćete primiti SMS potvrde s brojem narudžbe.",
+        "thank_you_confirmed_order_with_email_and_phone": "Uskoro ćete primiti potvrdnu e-poruku i SMS s brojem narudžbe.",
+        "thank_you_confirmed_order_with_missing": "Kontaktirajte nas e-poštom ili telefonom kako biste dobili potvrdu narudžbe.",
+        "order_status_confirmed_order_with_email": "Primiti ćete e-poštu kada je narudžba spremna.",
+        "order_status_confirmed_order_with_phone": "Primiti ćete SMS kada je narudžba spremna.",
+        "order_status_confirmed_order_with_email_and_phone": "Primiti ćete e-poštu i SMS kada je narudžba spremna.",
+        "order_status_updates_with_email": "Ažuriranja za dostavu i isporuku dobit ćete putem e-pošte.",
+        "order_status_updates_with_phone": "Ažuriranja za isporuku i dostavu dobiti ćete putem SMS-a.",
+        "order_status_updates_with_email_and_phone": "Ažuriranja za dostavu i isporuku dobit ćete putem e-pošte i SMS-a.",
+        "order_status_updates_with_missing": "Odaberite način na koji želite primati ažuriranja za dostavu.",
+        "confirmed_title": "Vaša narudžba je potvrđena",
+        "confirmed_description": "Prihvatili smo vašu narudžbu i spremamo je za isporuku. Vratite se na ovu stranicu radi ažuriranja statusa vaše pošiljke.",
+        "order_updates_title": "Ažuriranja narudžbe",
+        "order_updates_description_html": "Ažuriranja će biti poslana na {{ customer_contact }}",
+        "order_updates_current_step_prefix": "Trenutni korak:",
+        "order_updates_past_step_prefix": "Prethodni korak:",
+        "order_updates_upcoming_step_prefix": "Sljedeći korak:",
+        "in_transit": "Na putu",
+        "in_transit_title": "Vaša pošiljka je na putu",
+        "in_transit_description": "Vratite se na ovu stranicu radi ažuriranja statusa vaše pošiljke.",
+        "in_transit_description_days": "Vaš paket trebate primiti u sljedećih {{ number }} dana.",
+        "in_transit_description_today": "Danas biste trebali primiti svoj paket.",
+        "in_transit_description_tomorrow": "Paket bi trebao stići sutra.",
+        "no_tracking_number": "Nema broja za praćenje ove pošiljke.",
+        "out_for_delivery": "Vani za isporuku",
+        "out_for_delivery_title": "Isporuka se dostavlja",
+        "out_for_delivery_description_html": "Vaša pošiljka je na kamionu za isporuku - očekuje se da stigne danas. Ako je ne primite u sljedeća 2 dana, molimo vas da {{ contact_us }}.",
+        "attempted_delivery": "Isporuka je pokušana",
+        "attempted_delivery_title": "Napravljen je pokušaj isporuke vaše pošiljke",
+        "attempted_delivery_description_html": "Pokušali smo isporučiti vašu pošiljku, ali ona nije uspjela. {{ Contact_us }} da dogovorite još jedan pokušaj isporuke.",
+        "delivered": "Isporučeno",
+        "delivered_title": "Vaša je pošiljka isporučena",
+        "delivered_description_html": "Vaša je pošiljka isporučena na adresu koju ste naveli. Ako je niste primili ili imate bilo kakvih drugih problema, molimo {{ contact_us }}.",
+        "contact_us": "Kontaktirajte nas",
+        "contact_us_lowercase": "kontaktirajte nas",
+        "contact_us_html": "Trebate pomoć? {{ contact_us }}",
+        "updated_time": "Ažurirano prije {{ time_ago }}",
+        "failure": "Nije dostavljeno",
+        "failed_title": "Vaša pošiljka nije mogla biti isporučena",
+        "failed_contact_merchant": "Kontaktirajte {{ company }} kako biste dogovorili dostavu.",
+        "failed_contact_merchant_no_company": "Kontaktirajte nas kako biste dogovorili isporuku.",
+        "non_shippable_title": "Vaša je narudžba dovršena",
+        "login_title": "Prijavite se da biste vidjeli sve pojedinosti narudžbe",
+        "login_description": "Broj svoje narudžbe možete pronaći na računu koji ste primili putem e-pošte.",
+        "login_description_phone": "Broj svoje narudžbe možete pronaći na računu koji ste primili putem SMS-a.",
+        "login_not_customer_html": "Niste {{ name }}? Možete {{ link }}",
+        "login_reorder_link_text": {
+          "one": "kupite i ovaj proizvod",
+          "other": "kupite i ove proizvode"
+        },
+        "customer_information_hidden_fields_message": "Prijavite se da biste vidjeli sve podatke o klijentima.",
+        "cancelled_title": "Vaša je narudžba otkazana",
+        "cancelled_description": "Vaša je narudžba otkazana {{ date }}. Kontaktirajte nas ako imate pitanja.",
+        "order_number_label": "Broj narudžbe",
+        "customer_validation_error": "Nevažeći broj e-pošte ili narudžbe.",
+        "customer_validation_error_phone": "Nevažeći broj telefona ili narudžbe.",
+        "login": "Prijavite se",
+        "unfulfilled_items_title": "Priprema za isporuku",
+        "marker": {
+          "current": "Trenutno mjesto isporuke",
+          "shipping": "Dostavna adresa"
+        },
+        "unfulfilled_items_description": "Trenutno pripremamo ove artikle za isporuku.",
+        "fulfillment": {
+          "fulfilled_table_title": "Proizvodi u ovoj pošiljci",
+          "unfulfilled_table_title": "Proizvodi koji se pripremaju za isporuku",
+          "product_image_label": "Slika proizvoda",
+          "description_label": "Opis",
+          "quantity_label": "Količina"
+        },
+        "opt_in_message_html": "Vaši su podaci uspješno spremljeni u {{ shopify_pay }}",
+        "order_updates_description_missing": "Ne primate ažuriranja o dostavi.",
+        "order_updates_subscribe_to_email_notifications": "Dobijte ažuriranja dostave putem e-pošte",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Dobijte ažuriranja dostave putem e-maila ili SMS-a",
+        "order_updates_subscribe_to_phone_notifications": "Dobijte ažuriranja dostave putem SMS-a",
+        "order_updates_submit_subscription": "Primijeni",
+        "track_shipment": "Pratite pošiljku",
+        "shopify_pay": {
+          "order_completed_html": "Narudžba je dovršena s {{ shopify_pay }}",
+          "learn_more_label": "Saznajte više o usluzi Shopify Pay"
+        },
+        "out_for_delivery_local_title": "Vaša narudžba je u vozilu za dostavu",
+        "out_for_delivery_local_description_html": "Vaša narudžba će uskoro stići.",
+        "attempted_delivery_local_title": "Pokuššana dostava",
+        "delivered_local_title": "Vaša narudžba je isporučena",
+        "delivered_local_description_html": "Niste primili svoju narudžbu? {{ let_us_know }}.",
+        "picked_up_title": "Vaša narudžba je preuzeta",
+        "picked_up_description_html": "Vaša narudžba je preuzeta kod {{ location_name }} dana {{ date }}.",
+        "let_us_know": "Obavijestite nas",
+        "other_options": "Druge opcije",
+        "delivery_information_label": "Informacije o isporuci:",
+        "gift_card_sent_confirmation": "Poklon kartice poslane"
+      },
+      "contact": {
+        "title": "Informacija",
+        "address_title": "Adresa",
+        "shipping_address_title": "Adresa dostave",
+        "delivery_option_title": "Dostava",
+        "contact_method_title": "Kontakt informacija",
+        "email_label": "Email",
+        "email_placeholder": "Email",
+        "email_or_phone_label": "Email ili broj telefona",
+        "email_or_phone_placeholder": "Email ili broj telefona",
+        "stored_addresses_label": "Spremljene adrese",
+        "new_address_label": "Dodajte adresu",
+        "first_name_label": "Ime",
+        "optional_first_name_label": "Ime",
+        "last_name_label": "Prezime",
+        "company_label": "Tvrtka",
+        "optional_company_label": "Tvrtka (neobavezno)",
+        "address1_label": "Adresa",
+        "address2_label": "Apartman, stan, itd.",
+        "optional_address2_label": "Apartman, stan, itd. (neobavezno)",
+        "city_label": "Grad",
+        "country_label": "Država",
+        "country_code": "Kod države",
+        "province_label": "Županija",
+        "province_placeholder": "Županija",
+        "phone_label": "Telefon",
+        "optional_phone_label": "Telefon (neobavezno)",
+        "phone_placeholder": "Telefon",
+        "phone_tooltip": "U slučaju da Vas moramo kontaktirati u vezi narudžbe",
+        "zip_code_label": "Poštanski broj",
+        "zip_code_placeholder": "Poštanski broj",
+        "waiting_on_express_checkout_selection_notice": "Čekanje dostupnih opcija provjere",
+        "postal_code_label": "Poštanski broj",
+        "postal_code_placeholder": "Poštanski broj",
+        "postcode_label": "Poštanski broj",
+        "postcode_placeholder": "Poštanski broj",
+        "pincode_label": "PIN",
+        "pincode_placeholder": "PIN",
+        "county_label": "Okrug",
+        "county_placeholder": "Okrug",
+        "state_label": "Država",
+        "state_placeholder": "Država",
+        "region_label": "Regija",
+        "region_placeholder": "Regija",
+        "prefecture_label": "Prefektura",
+        "prefecture_placeholder": "Prefektura",
+        "governorate_label": "Provincija",
+        "governorate_placeholder": "Provincija",
+        "emirate_label": "Emirat",
+        "emirate_placeholder": "Emirat",
+        "state_and_territory_label": "Država\/Teritorij",
+        "state_and_territory_placeholder": "Država\/Teritorij"
+      },
+      "delivery_options": {
+        "ship": "Slanje",
+        "pick_up": "Podizanje",
+        "shipping_address": "Adresa slanja"
+      },
+      "customer_account": {
+        "not_user_label": "Niste {{ first_name }}?",
+        "have_an_account_label": "Imate li otvoren račun?",
+        "sign_in_link_label": "Prijavite se",
+        "sign_out_link_label": "Odjava",
+        "save_my_information_label": "Sačuvaj ove informacije za sljedeći put"
+      },
+      "stock": {
+        "page_title": "Problemi sa zalihama",
+        "title": "Nije na zalihama",
+        "items_unavailable_notice": "Neke stavke više nisu dostupne. Vaša je košarica ažurirana.",
+        "product_column_header": "Proizvodi",
+        "quantity_column_header": "Količina",
+        "price_column_header": "Cijena",
+        "status_column_header": "Status",
+        "removed_from_cart_notice": "Uklonjeno iz košarice",
+        "sold_out_label": "Rasprodano",
+        "reduced_label": "Sniženo",
+        "reduced_with_quantity_label": "Samo {{ quantity_available }} na zalihama",
+        "remove_from_cart_button_label": "Uklonite iz košarice",
+        "continue_shopping_button_label": "Nastavite",
+        "go_back_to_cart_button_label": "Natrag na košaricu"
+      },
+      "order_summary": {
+        "title": "Sažetak narudžbe",
+        "order_name_label": "Narudžba {{ name }}",
+        "shopping_cart_label": "Košarica",
+        "discount_title": "Popust",
+        "discount_label": "Kod za popust",
+        "discount_placeholder": "Kod za popust",
+        "gift_card_title": "Poklon kartica",
+        "gift_card_label": "Poklon kartica",
+        "gift_card_placeholder": "Poklon kartica",
+        "gift_card_and_discount_title": "Poklon kartica ili kod za popust",
+        "gift_card_and_discount_label": "Poklon kartica ili kod za popust",
+        "gift_card_and_discount_placeholder": "Poklon kartica ili kod za popust",
+        "remove_gift_card_label": "Uklonite poklon karticu",
+        "remove_discount_label": "Uklonite popust",
+        "free_shipping_discount_label": "Besplatna dostava",
+        "apply_discount_button_label": "Primijenite",
+        "applied_discount_message": "{{ amount }} od ukupnog iznosa narudžbe",
+        "discount_has_been_applied": "Popust je apliciran",
+        "discount_has_been_removed": "Popust je uklonjen",
+        "gift_card_has_been_applied": "Poklon kartica je aplicirana",
+        "gift_card_has_been_removed": "Poklon kartica je ukonjena",
+        "discount_already_applied": "Za ovu je narudžbu već primijenjen popust. Ne možete dodati još jedan popust.",
+        "cart_does_not_meet_discount_requirements_notice": "<strong>{{ code }}<\/strong> kod za popust ne vrijedi za stavke u vašoj košarici",
+        "discount_requires_customer_notice": "Unesite podatke o dostavi kako biste primijenili <strong>{{ code }}<\/strong> kod za popust",
+        "customer_does_not_meet_discount_requirements_notice": "<strong>{{ code }}<\/strong> kod za popust trenutno vam nije dostupan",
+        "shipping_information_does_not_meet_discount_requirements_notice": "<strong>{{ code }}<\/strong> kod za popust nije dostupan za vašu adresu za dostavu",
+        "customer_already_used_once_per_customer_discount_notice": "{{ code }} kod za popust već je iskorišten",
+        "subtotal_label": "Suma stavke",
+        "shipping_label": "Dostava",
+        "tip_label": "Savjet",
+        "shipping_default_value": "Izračunava se na sljedećem koraku",
+        "shipping_pending_message": "Nije još dostupno",
+        "shipping_policy_link": "Troškovi dostave",
+        "taxes_label": "Porezi",
+        "total_label": "Ukupno",
+        "total_outstanding_label": "Iznos za plaćanje",
+        "partial_total_label": "Ukupno",
+        "free_total_label": "Besplatno",
+        "paid_label": "Plaćeno",
+        "payment_due_label": "Za platiti",
+        "vat_label_html": "Uključujući {{ amount }} poreza",
+        "discount_and_gift_card_savings_notice": "Nakon {{ discount_amount }} u popustima i {{ gift_card_amount }} u poklon karticama",
+        "discount_savings_notice": "Nakon {{ discount_amount }} u popustima",
+        "gift_card_savings_notice": "Nakon {{ gift_card_amount }} u poklon karticama",
+        "cost_table_title": "Sažetak troškova",
+        "description_label": "Opis",
+        "price_label": "Cijena",
+        "quantity_label": "Količina",
+        "product_change_label": "Promijeni",
+        "product_image_label": "Slika proizvoda",
+        "scroll_order_summary": "Pomaknite za više stavki",
+        "expand_order_summary": "Prikaži sažetak narudžbe",
+        "collapse_order_summary": "Sakrij sažetak narudžbe",
+        "total_updated_label": "Ažurirana ukupna cijena:",
+        "order_total_updated_label": "Ažurirani ukupan iznos",
+        "total_already_paid_label": "Već plaćeno",
+        "unit_price": {
+          "accessible_separator": "po",
+          "content_html": "{{ price }}{{ accessible_separator }}{{ per_unit }}"
+        },
+        "shipping_pending_value": "—",
+        "gift_card_subscriptions_notice": "Poklon kartice primjenjivat će se samo na vašu prvu uplatu",
+        "calculating_shipping": "Kalkulira se...",
+        "estimated_taxes_label": "Procijenjeni porezi",
+        "estimated_taxes_finalization_tooltip_content": "Konačni porez i ukupni iznos bit će potvrđeni e-poštom ili SMS-om nakon što naručite.",
+        "original_price": "Originalna cijena",
+        "sale_price": "Prodajna cijena",
+        "recurring_total_tooltip": "Ne uključuje dostavu, porez, carine ili bilo koje primjenjive popuste.",
+        "confirmation_number_label": "Potvrda #{{ confirmation_number }}",
+        "higher_value_discount_already_applied": "Već je primijenjen popust veće vrijednosti."
+      },
+      "shipping": {
+        "title": "Dostava",
+        "shipping_method_title": "Način dostave",
+        "waiting_on_rate_notice": "Prikaz dostupnih cijena dostave",
+        "waiting_on_pickup_location_notice": "Prikaz dostupnih lokacija za preuzimanje...",
+        "no_rates_for_cart_or_destination_notice": "Nema dostupnih načina dostave za vašu košaricu ili adresu",
+        "no_pickup_location_notice": "Barem jedan od vaših proizvoda nije dostupan za preuzimanje",
+        "no_rates_for_country_notice": "Ne nudimo otpremu za {{ country }}.",
+        "no_rates_contact_notice": "Kontaktirajte nas za više informacija",
+        "free_rate_label": "Besplatno",
+        "cheapest_rate_label": "Najpovoljnije",
+        "please_enter_your_shipping_information_notice": "Unesite podatke za dostavu.",
+        "estimated_delivery_date": {
+          "one": "1 radni dan",
+          "other": "{{ count }} radnih dana"
+        },
+        "estimated_delivery_date_range": "{{ minimum }} do {{ maximum }} radnih dana",
+        "shipping_line_phone_label": "Broj mobilnog telefona (obavezno)",
+        "shipping_line_phone": "Vaš dostavni kurir može koristiti ovaj broj da vas kontaktira.",
+        "other_method": {
+          "zero": "Nema drugih dostupnih načina",
+          "one": "1 drugi način dostupan na",
+          "other": "{{ count }} dostupne druge metode s početkom u"
+        },
+        "shipping_rate_discounted_amount": "Bila je: {{ original_amount }}. Sada: {{ amount }}",
+        "estimated_delivery_time": "Procijenjeno vrijeme isporuke {{ time }}",
+        "shipping_line_delivery_phone_label": "Broj mobitela",
+        "shipping_line_delivery_phone": "Ovaj broj možemo koristiti za poziv ili poruku o vašoj isporuci."
+      },
+      "payment": {
+        "amazon_payments_label": "Amazon Pay",
+        "amazon_payments_login_hint": "Od vas će se tražiti da se prijavite s Amazonom.",
+        "amazon_payments_logout": "Odjavite se iz usluge Amazon Pay",
+        "title": "Plaćanje",
+        "amount_left_to_pay_label": "Za platiti:",
+        "discount_button_action_label": "Primijenite kod za popust",
+        "gift_card_code_label": "Kôd poklon kartice",
+        "apply_gift_card_button_label": "Primijenite",
+        "gift_card_balance_label": "Stanje:",
+        "supported_card_brands_more_label": "i više…",
+        "detected_card_brand": "Otkrivena marka kartice: {brand}",
+        "card_number_label": "Broj kartice",
+        "card_number_placeholder": "Broj kartice",
+        "card_pay_with": "Plati sa:",
+        "card_security_notice": "Sve transakcije su sigurne i šifrirane.",
+        "name_on_card_label": "Ime na kartici",
+        "name_on_card_placeholder": "Ime na kartici",
+        "card_expiry_label": "Datum isteka (MM \/ GG)",
+        "card_expiry_placeholder": "Datum isteka (MM \/ GG)",
+        "card_verification_value_label": "Sigurnosni kod",
+        "card_verification_value_placeholder": "Sigurnosni kod",
+        "card_expiry_date_explanation": "Datum isteka kartice u obliku: mjesec, mjesec, godina, godina",
+        "card_verification_value_explanation": "3-znamenkasti sigurnosni kod koji se obično nalazi na poleđini vaše kartice. American Express kartice imaju četveroznamenkasti kôd koji se nalazi s prednje strane.",
+        "card_verification_value_explanation_amex": "4-znamenkasti sigurnosni kod na prednjoj strani kartice",
+        "card_verification_value_explanation_other": "3-znamenkasti sigurnosni kod na poleđini kartice",
+        "card_start_label": "Datum izdavanja (MM \/ GG)",
+        "card_start_placeholder": "Datum izdavanja (MM \/ GG)",
+        "card_issue_number_label": "Broj izdavanja",
+        "card_issue_number_placeholder": "Broj izdavanja",
+        "card_change_label": "Promijeni",
+        "ends_with_label": "završava s {{ last_digits }}",
+        "masked_digits_label": "•••• {{ last_digits }}",
+        "saved_by_payment_method": "Spremljeno sa {{ payment_method }}",
+        "pay_with_payment_method": "Platite putem {{ payment_method }}",
+        "same_billing_address_label": "Isto kao adresa dostave",
+        "different_billing_address_label": "Koristite drugu adresu za naplatu",
+        "free_order_notice_html": "Vaša je narudžba <strong>besplatna<\/strong>. Nije potrebno plaćanje.",
+        "express_checkout_free_order": "Neće vam biti naplaćena besplatna narudžba",
+        "order_covered_by_gift_cards_notice": {
+          "one": "Vaša je narudžba pokrivena vašom poklon karticom.",
+          "other": "Vaša narudžba pokrivena je vašim poklon karticama."
+        },
+        "offsite_gateway_redirect_hint": "Nakon što kliknete \"{{ button_label }}\", bit ćete preusmjereni na {{ gateway_label }} da biste sigurno dovršili kupnju.",
+        "offsite_gateway_redirect_hint_multi_currency_html": "{{ gateway_label }} ukupno {{ total_shop_price }} ",
+        "billing_address_title": "Adresa za naplatu",
+        "billing_address_description": "Odaberite adresu koja odgovara vašoj kartici ili načinu plaćanja.",
+        "no_js_credit_card_fields_redirect_hint": "Bit ćete preusmjereni da biste dodali podatke o plaćanju.",
+        "card_fields_container_prefix": "Kontejner polja za:",
+        "card_fields_unavailable_html": {
+          "one": "Plaćanje kreditnom i debitnom karticom trenutno nije dostupno.<br> <a href=\"javascript:window.location.reload();\">Osvježite ovu stranicu<\/a> ili pokušajte ponovo kasnije.",
+          "other": "Plaćanje kreditnom i debitnom karticom trenutno nije dostupno.<br> <a href=\"javascript:window.location.reload();\">Osvježite ovu stranicu<\/a> ili pokušajte s drugim načinom plaćanja."
+        },
+        "card_fields_processing_error": "Došlo je do problema prilikom obrade plaćanja. Pokušajte s drugim načinom plaćanja ili pokušajte ponovno kasnije.",
+        "technical_error": "Plaćanja trenutno ne mogu biti obrađena zbog tehničkog problema. Pokušajte ponovo za nekoliko minuta.",
+        "no_method_error": "Došlo je do problema s našim plaćanjima. Kontaktirajte nas kako biste dovršili narudžbu.",
+        "not_configured_error": "Došlo je do problema s našim plaćanjima. Kontaktirajte nas kako biste dovršili narudžbu.",
+        "missing_credit_card_error": "Unesite podatke o kartici da biste dovršili plaćanje",
+        "generic_incorrect_card_info": "Pojedinosti o plaćanju nije moguće potvrditi. Provjerite pojedinosti svoje kartice i pokušajte ponovno.",
+        "sofort_label": "Sofort bankovni transfer",
+        "klarna_label": "Plati kasnije",
+        "ideal_label": "iDEAL",
+        "bank_picker_label": "Banka"
+      },
+      "payment_summary": {
+        "gift_card_current_balance_notice": "Trenutačno stanje {{ amount }}",
+        "credit_card_expires_on_notice": "Istječe {{ month }}\/{{ year }}",
+        "express_payment_gateway_label": "Express",
+        "manual_payment_gateway_label": "Manual",
+        "billing_address_title": "Adresa za naplatu",
+        "free_label": "Besplatno"
+      },
+      "field_errors": {
+        "handle_phone_invalid": "Unesite važeći telefonski broj",
+        "handle_email_invalid": "Unesite važeću e-poštu",
+        "email_invalid": "Unesite važeću e-poštu",
+        "email_or_phone_blank": "Unesite adresu e-pošte ili broj mobilnog telefona",
+        "email_or_phone_invalid": "Unesite adresu e-pošte ili broj mobilnog telefona",
+        "address_first_name_blank": "Unesite ime",
+        "address_last_name_blank": "Unesite prezime",
+        "address_address1_blank": "Unesite adresu",
+        "address_address2_blank": "Unesite stan, apartman, itd.",
+        "address_city_blank": "Unesite grad",
+        "address_country_blank": "Odaberite zemlju \/ regiju",
+        "address_country_not_supported": "Trenutačno ne šaljemo u ovu zemlju \/ regiju. Unesite novu adresu za isporuku i pokušajte ponovno.",
+        "address_province_blank": "Odaberite županiju",
+        "address_company_blank": "Unesite naziv tvrtke",
+        "address_phone_blank": "Unesite važeći telefonski broj",
+        "address_zip_blank": "Unesite poštanski broj",
+        "address_zip_invalid_for_country": "Unesite poštanski broj za {{ country }}",
+        "address_zip_invalid_for_country_and_province": "Unesite poštanski broj za {{ province }}, {{ country }}",
+        "credit_card_name_blank": "Unesite svoje ime točno onako kako je zapisano na kartici",
+        "credit_card_name_invalid": "Unesite svoje ime točno onako kako je zapisano na kartici",
+        "credit_card_number_invalid": "Unesite važeći broj kartice",
+        "credit_card_expiry_invalid": "Unesite važeći datum isteka kartice",
+        "credit_card_month_invalid": "Unesite važeći mjesec isteka kartice",
+        "credit_card_year_invalid": "Unesite važeću godinu isteka kartice",
+        "credit_card_start_invalid": "Unesite važeći datum početka valjanosti kartice",
+        "credit_card_start_month_invalid": "Unesite valjani mjesec početka valjanosti kartice",
+        "credit_card_start_year_invalid": "Unesite važeću početnu godinu valjanosti kartice",
+        "credit_card_verification_value_blank": "Unesite CVV ili sigurnosni kod s vaše kartice",
+        "reduction_code_code_not_found": "Unesite važeći kod za popust ili poklon karticu",
+        "reduction_code_discount_not_found": "Unesite važeći kod za popust",
+        "reduction_code_gift_card_code_invalid": "Unesite važeću poklon karticu",
+        "reduction_code_gift_card_unusable": "Ne možete koristiti poklon karticu da biste kupili drugu poklon karticu",
+        "shipping_line_phone_blank": "Unesite telefonski broj za korištenje ovog načina isporuke",
+        "shipping_line_phone_invalid": "Unesite telefonski broj za korištenje ovog načina isporuke",
+        "gift_card_already_applied": "Ta je poklon kartica već primijenjena na vašu narudžbu",
+        "gift_card_disabled": "Ova poklon kartica više nije dostupna",
+        "gift_card_expired": "Ova je poklon kartica istekla",
+        "gift_card_depleted": "Na ovoj poklon kartici nema kredita",
+        "gift_card_currency_mismatch": "Uz ovu narudžbu mogu se koristiti samo poklon kartice u {{ checkout_currency }}",
+        "payment_gateway_needs_paid_plan_error": "Ovaj način plaćanja trenutno nije dostupan u trgovini",
+        "payment_gateway_incompatible_with_multi_currency": "Da biste dovršili ovo plaćanje u lokalnoj valuti, morate platiti kreditnom karticom."
+      },
+      "payment_errors": {
+        "generic_error": "Došlo je do problema prilikom obrade plaćanja. Pokušajte ponovno ili upotrijebite drugi način plaćanja.",
+        "rejected_transaction": "Vaša uplata je odbijena. Pokušajte ponovno ili upotrijebite drugi način plaćanja.",
+        "credit_card_processing": "Plaćanje se ne može obraditi iz tehničkih razloga. Pokušajte ponovo za nekoliko minuta ili upotrijebite drugi način plaćanja.",
+        "order_total_changed": "Ukupni iznos vaše narudžbe je promijenjen. Osvježite košaricu i pokušajte ponovno.",
+        "payment_processing": "Plaćanje se ne može obraditi iz tehničkih razloga. Pokušajte ponovno ili upotrijebite drugi način plaćanja.",
+        "paypal_zero_amount": "Ne možete koristiti PayPal za {{ amount }} narudžbe. Potvrdite da je vaša narudžba točna i odjavite se bez usluge PayPal.",
+        "pay_later_failed": "Došlo je do pogreške prilikom obrade uplate putem Plati kasnije. Odaberite drugi način plaćanja i pokušajte ponovno.",
+        "three_d_secure_failed": "Plaćanje nije moguće potvrditi. Pokušajte ponovno ili upotrijebite drugi način plaćanja.",
+        "paypal_invalid_token": "PayPal nije bio dostupan. Pokušajte ponovno ili upotrijebite drugu opciju plaćanja."
+      },
+      "shipping_errors": {
+        "shipping_method": "Vaša je košarica ažurirana i prethodna stopa dostave nije važeća. Odaberite novu stopu."
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "Ekspresno plaćanje",
+        "or": "ili"
+      },
+      "alternative_payment_method": {
+        "button_html": "Naplata s: {{ method }}",
+        "button_label": "Naplata s: {{ method }}"
+      },
+      "paypal": {
+        "button_html": "Naplata s: {{ logo }}"
+      },
+      "apple_pay": {
+        "button_html": "Kupi s {{ logo }}"
+      },
+      "processing": {
+        "redirecting_page_title": "Preusmjeravanje...",
+        "redirecting_title": "Preusmjeravanje...",
+        "redirecting_notice": "Pričekajte dok vas preusmjeravamo.",
+        "complete_your_purchase_title": "Dovršite kupnju",
+        "continue_to_payment_gateway_notice": "Nastavite s plaćanjem da biste dodali podatke o plaćanju.",
+        "continue_to_payment_gateway_button_label": "Nastavite s plaćanjem",
+        "complete_your_purchase_title_error": "Ispravite podatke o plaćanju",
+        "continue_to_payment_gateway_notice_error": "Vaše podatke o plaćanju nije moguće potvrditi.",
+        "continue_to_payment_gateway_button_label_error": "Ažurirajte podatke o plaćanju",
+        "page_title": "Obrada naloga",
+        "title": "Obrada naloga",
+        "your_order_has_been_received_title": "Zahvaljujemo na narudžbi",
+        "you_will_receive_confirmation": "Upravo sada dobivamo iznimno mnogo narudžbi. Potvrdu trebate uskoro primiti e-poštom ili tekstom. Ako je ne primite u sljedećih sat vremena, javite nam.",
+        "wait": {
+          "short": "Vaša narudžba se obrađuje.",
+          "medium": {
+            "one": "Vaša narudžba se obrađuje. Procijenjeno vrijeme čekanja je 1 minuta.",
+            "other": "Vaša narudžba se obrađuje. Procijenjeno vrijeme čekanja je {{ count }} minuta."
+          },
+          "long": "Čim zaprimimo narudžbu, dobiti ćete poruku e-pošte. Trenutačno zaprimamo iznimno visok broj narudžbi.",
+          "no_auto_refresh_html": "Ako niste automatski preusmjereni, {{ link }}.",
+          "refresh_this_page": "osvježite ovu stranicu"
+        }
+      },
+      "failed_payment": {
+        "page_title": "Plaćanje nije moguće obraditi",
+        "title": "Plaćanje nije moguće obraditi",
+        "payment_not_processed_title": "Vaša uplata nije mogla biti obrađena",
+        "payment_not_processed_text": "Niste terećeni za narudžbu. Vratite se u košaricu kako biste dovršili kupnju.",
+        "return_to_cart_button_label": "Povratak u košaricu"
+      },
+      "payment_gateway": {
+        "credit_card_label": "Kreditna kartica",
+        "bank_deposit_label": "Depozit banke",
+        "cash_on_delivery_label": "Plaćanje pouzećem",
+        "money_order_label": "Novčani nalog"
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Informirajte me o vijestima i ekskluzivnim ponudama",
+        "unsubscribe": {
+          "title": "Otkazali ste pretplatu",
+          "description": "Nećete primati više podsjetnika iz košarice od nas."
+        }
+      },
+      "shop_policies": {
+        "refund_policy": "Pravila povrata",
+        "privacy_policy": "Pravila o privatnosti",
+        "terms_of_service": "Uvjeti pružanja usluge",
+        "legal_notice": "Pravna obavijest",
+        "shipping_policy": "Pravila dostave",
+        "terms_of_sale": "Uvjeti prodaje"
+      },
+      "remember_me": {
+        "shopify_pay_label": "Shopify Pay",
+        "authorize_purchase": "Autorizirajte kupnju",
+        "save": "Spremanje",
+        "title": "Zapamti me",
+        "label": "Spremite moje podatke za bržu naplatu",
+        "description_html": "Sljedeći put kada budete plaćali narudžbu ovdje ili na drugim trgovinama koje pokreće Shopify, primit ćete kôd u obliku tekstualne poruke kako biste sigurno kupovali pomoću usluge Shopify Pay.",
+        "mobile_phone_icon_alt": "Mobitel",
+        "mobile_phone_number": "Broj mobitela",
+        "terms_and_privacy_html": "Ako nastavite, slažete se s <a class=\"link--muted\" data-modal data-remember-policy-link=\"privacy_policy\" title=\"Shopify politikom privatnosti za plaćanje\" href=\"{{ privacy_href }}\">Pravilima privatnosti<\/a> i <a class=\"link--muted\" data-modal data-remember-policy-link=\"terms\" title=\"Shopify uvjetima pružanja usluge za plaćanje\" href=\"{{ terms_href }}\">Uvjetima korištenja<\/a>.",
+        "modal": {
+          "guest": {
+            "title": "Brza naplata",
+            "paragraph": "Unesite kôd poslan na {{ phone }} da biste sigurno upotrebljavali svoje spremljene pojedinosti.",
+            "paragraph_aria": "Da biste izvršili plaćanje sa svojim spremljenim detaljima, unesite kontrolni kôd poslan na broj mobitela koji završava s: {{ phone }}."
+          },
+          "accelerated": {
+            "title": "Unesite kontrolni kôd",
+            "paragraph": "Da biste dovršili kupnju, unesite kôd poslan na {{ phone }}."
+          },
+          "verification_code_label": "Kontrolni kôd",
+          "footer": "Pokreće Shopify Pay",
+          "errors": {
+            "enter_valid_code": "Ovaj kôd nije valjan. Pokušajte ponovno.",
+            "enter_a_code": "Unesite važeći kontrolni kôd",
+            "code_not_received": {
+              "body": "Ne radi?",
+              "contact_information_step": {
+                "link": "Nastavite s regularnim plaćanjem"
+              },
+              "payment_information_step": {
+                "link": "Unesite način plaćanja"
+              }
+            },
+            "server": {
+              "title": "Shopify Pay nije dostupan",
+              "body": "Spremljene informacije ne mogu se upotrijebiti za ovu kupnju. Unesite podatke za nastavak."
+            },
+            "throttle": {
+              "title": "Previše pokušaja",
+              "body": "Previše puta ste unijeli nevažeći kôd. Unesite svoje podatke da biste nastavili s kupnjom."
+            },
+            "authorize": {
+              "title": "Shopify Pay nije dostupan",
+              "body": "Spremljene informacije ne mogu se upotrijebiti za ovu kupnju. Za nastavak unesite podatke o plaćanju.",
+              "link": "Unesite podatke o plaćanju"
+            },
+            "shipping_address": {
+              "title": "Ova trgovina ne dostavlja na Vašem području",
+              "body": "Adresa koju ste spremili s uslugom Shopify Pay ne može se upotrijebiti za ovu kupnju. Unesite svoje podatke da biste nastavili s kupnjom."
+            }
+          },
+          "fill_manually": "Zatvoriti",
+          "code_sending": "Slanje koda...",
+          "code_sent": "Kod je poslan",
+          "resend_code": "Ponovno pošalji kôd"
+        }
+      },
+      "notifications": {
+        "title": "Obavijesti"
+      },
+      "order_payment_collection": {
+        "custom_line_item_description": "Iznos za plaćanje narudžbe {{ order_name }}",
+        "changes_summary": {
+          "added": {
+            "one": "Dodano",
+            "other": "{{ count }} dodano"
+          },
+          "removed": "Uklonjeno",
+          "subtracted": "{{ count }} uklonjeno"
+        },
+        "additional_payment_requested": "Potrebna je dodatna uplata od {{ total_outstanding }}",
+        "checkout_review_and_pay": "Vaša je narudžba {{ order_name }} ažurirana i potrebno je dodatno plaćanje. Pregledajte ove izmjene, a zatim platite potvrdu narudžbe.",
+        "order_updated_on": "Vaša je narudžba ažurirana na {{ last_edited_at }}.",
+        "order_review_and_pay": "Vaša je narudžba ažurirana i potrebno joj je dodatno plaćanje. Pregledajte i platite za potvrdu narudžbe.",
+        "pay_now": "Platite sada"
+      },
+      "landed_cost": {
+        "duties_taxes_value": "+ {{ amount }} carine i poreza",
+        "paid_on_delivery": "Carina i porezi plaćeni prilikom dostave"
+      }
+    },
+    "page_titles": {
+      "shopping_cart": "Vaša košarica",
+      "account": "Račun",
+      "create_account": "Kreirajte račun",
+      "reset_account": "Resetirajte račun",
+      "addresses": "Adrese",
+      "search": "Pretraga",
+      "products": "Proizvodi",
+      "order": "Narudžba {{ name }}",
+      "collections": "Kolekcije",
+      "not_found": "404 nije pronađeno",
+      "challenge": "Izazov"
+    },
+    "notices": {
+      "customer": {
+        "password_reset_error": "Pogreška pri poništavanju zaporke",
+        "no_account_found": "Nije pronađen korisnički račun s tom e-poštom.",
+        "invalid_credentials": "Nevažeći podaci za prijavu."
+      },
+      "address": {
+        "updated": "Adresa je uspješno ažurirana.",
+        "error_updating": "Pogreška prilikom ažuriranja adrese",
+        "created": "Adresa je uspješno kreirana",
+        "error_creating": "Pogreška pri izradi adrese.",
+        "deleted": "Adresa je uspješno izbrisana",
+        "error_deleting": "Pogreška pri brisanju adrese."
+      },
+      "order": {
+        "not_available": "Ova narudžba nije dostupna",
+        "financial_status": {
+          "authorized": "Odobreno",
+          "pending": "U tijeku",
+          "paid": "Plaćeno",
+          "unpaid": "Neplaćeno",
+          "voided": "Poništeno",
+          "partially_paid": "Djelomično plaćeno",
+          "partially_refunded": "Djelomično vraćeno",
+          "refunded": "Refundirano"
+        },
+        "fulfillment_status": {
+          "fulfilled": "Ispunjena",
+          "complete": "Završena",
+          "partial": "Djelomično",
+          "unfulfilled": "Nekompletirana",
+          "restocked": "Obnovljena"
+        },
+        "transaction_status": {
+          "success": "Uspjeh",
+          "pending": "U tijeku",
+          "failure": "Neuspjeh",
+          "error": "Greška"
+        },
+        "cancel_reason": {
+          "declined": "Plaćanje odbijeno",
+          "inventory": "Proizvodi nisu dostupni",
+          "fraud": "Lažna narudžba",
+          "customer": "Narudžba kupca je promijenjena \/ otkazana",
+          "other": "Ostalo"
+        }
+      },
+      "cart": {
+        "only_n_items_available": "Možete dodati samo {{ count }} {{ name }} u košaricu.",
+        "too_many_items_in_cart": "Ne možete dodati više {{ name }} u košaricu.",
+        "all_items_in_cart": "Svi {{ count }} {{ name }} se nalaze u vašoj košarici.",
+        "empty_update": "ne može se ažurirati prazna košarica",
+        "missing_parameters": "nema važećeg ID-a ili parametra linije",
+        "generic_error": "Pogreška košarice",
+        "too_many_line_items_error": "Vaša košarica ne može sadržavati više od {{ max }} stavki.",
+        "link_expired": "Veza je istekla",
+        "link_no_longer_exists": "Veza više ne postoji.",
+        "stock_problems_html": "Jedna ili više stavki više nisu dostupne. Izvolite pogledati <a href='{{ link }}'>ažuriranu košaricu<\/a>.",
+        "changed": "Sadržaj košarice je izmijenjen",
+        "items_changed": "Promijenjena je jedna ili više stavki.",
+        "product_sold_out": "Proizvod '{{ name }}' je već rasprodan.",
+        "variant_not_found": "Nije moguće pronaći varijantu",
+        "shipping_address_not_required": "Ova košarica ne zahtijeva dostavu",
+        "shipping_address_invalid": "Adresa za dostavu nije važeća"
+      },
+      "storefront": {
+        "invalid_password": "Zaporka nije točna. Pokušajte ponovno."
+      }
+    },
+    "cart": {
+      "discounts_with_count": "Primijenjeno je {{ count }} popusta"
+    },
+    "challenge": {
+      "message": "Da biste nastavili, dokažite nam da niste robot.",
+      "error": "Vaš odgovor nije bio točan, pokušajte ponovno.",
+      "submit_button_text": "Prihvati"
+    },
+    "pagination": {
+      "previous": "Prethodni",
+      "next": "Sljedeći"
+    },
+    "links": {
+      "powered_by_shopify": "Pokreće Shopify",
+      "learn_more": "Saznajte više"
+    },
+    "feed": {
+      "more": "Više"
+    },
+    "attributes": {
+      "email": "email",
+      "password": "zaporka",
+      "password_confirmation": "Potvrda zaporke",
+      "first_name": "Ime",
+      "last_name": "Prezime",
+      "body": "tijelo"
+    },
+    "addresses": {
+      "zip_code": "Poštanski broj",
+      "postal_code": "Poštanski broj",
+      "postcode": "Poštanski broj",
+      "pincode": "PIN",
+      "region": "Regija",
+      "prefecture": "Prefektura",
+      "province": "Pokrajina",
+      "state": "Država",
+      "state_and_territory": "Država \/ Područje",
+      "county": "Okrug",
+      "emirate": "Emirat",
+      "governorate": "Guvernerat",
+      "confirm": "Jeste li sigurni da želite izbrisati ovu adresu?"
+    },
+    "collections": {
+      "sorting": {
+        "manual": "Istaknuto",
+        "best_selling": "Najprodavaniji",
+        "az": "Abecedno, A-Z",
+        "za": "Abecedno, Z-A",
+        "price_ascending": "Cijena, niska do visoka",
+        "price_descending": "Cijena, visoka do niska",
+        "date_ascending": "Datum, od starijeg",
+        "date_descending": "Datum, od novijeg"
+      }
+    },
+    "errors": {
+      "blank": "ne može biti prazno",
+      "credit_card_session_expired": "Autorizacija kreditne kartice je istekla, ponovno unesite podatke o plaćanju. Vaša kartica nije naplaćena.",
+      "empty": "ne može biti prazno",
+      "invalid_email": "Mora biti valjana e-mail adresa",
+      "discount_disabled": "Ovaj popust je onemogućen",
+      "discount_expired": "Ovaj popust više ne vrijedi",
+      "discount_limit_reached": "Ovaj popust je dostigao limit upotrebe",
+      "discount_not_found": "Nije moguće pronaći važeći popust koji odgovara unesenom kodu",
+      "customer_already_used_once_per_customer_discount_notice": "Ovaj popust je dostigao limit upotrebe",
+      "gift_card_already_applied": "Kôd je već primijenjen na vašu provjeru",
+      "gift_card_code_invalid": "Kôd je nevažeći",
+      "gift_card_currency_mismatch": "Poklon kartice {{ gift_card_currency }} ne mogu se primijeniti na narudžbe {{ checkout_currency }}",
+      "gift_card_depleted": "Nema sredstava na ovoj poklon kartici",
+      "gift_card_disabled": "Poklon kartica je onemogućena",
+      "gift_card_expired": "Poklon kartica istekla",
+      "invalid": "je nevažeća",
+      "bad_domain": "sadrži nevažeći naziv domene",
+      "taken": "već je zauzeto",
+      "contains_html_tags": "ne može sadržavati HTML oznake",
+      "too_short": "je prekratak (minimalno je {{ count }} znakova)",
+      "too_long": "je predugačak (maksimum je {{ count }} znakova)",
+      "password_mismatch": "mora odgovarati točnoj zaporci.",
+      "contains_spaces": "počinje ili završava s razmacima.",
+      "email_domain_invalid": "davatelj usluga nije podržan",
+      "invalid_for_country": "ne vrijedi za {{ country }}",
+      "invalid_for_country_and_province": "ne vrijedi za {{ province }} i {{ country }}",
+      "invalid_province_in_country": "nije važeća pokrajina u {{ country }}",
+      "invalid_state_in_country": "nije valjana država u {{ country }}",
+      "invalid_region_in_country": "nije važeća regija u {{ country }}",
+      "less_than_or_equal_to": "mora biti manja od ili jednaka {{ count }}",
+      "not_supported": "nije podržan",
+      "full_name_required": "Unesite ime i prezime",
+      "invalid_for_card_type": "nije važeće",
+      "invalid_type": "ispričavamo se, ne prihvaćamo kartice ove vrste",
+      "invalid_format": "format nije valjan",
+      "expired": "je istekao",
+      "invalid_start_date_or_issue_number_for_debit": "potreban je valjani datum početka ili broj izdavanja",
+      "invalid_expiry_year": "nije valjana godina isteka",
+      "reset_password_html": "Ova adresa e-pošte već je povezana s računom. Ako je ovaj račun vaš, možete <a href=\"\/account\/login#recover\">poništiti zaporku<\/a>",
+      "verify_email": "Poslali smo poruku e-pošte na adresu {{ customer_email }}, kliknite na link za potvrdu kako biste potvrdili svoju adresu e-pošte."
+    },
+    "sentence": {
+      "two_words_connector": "i",
+      "last_word_connector": ", i",
+      "words_connector": ","
+    },
+    "dates": {
+      "abbr_day_names": {
+        "sunday": "Ned",
+        "monday": "Pon",
+        "tuesday": "Uto",
+        "wednesday": "Sri",
+        "thursday": "Čet",
+        "friday": "Pet",
+        "saturday": "Sub"
+      },
+      "day_names": {
+        "sunday": "Nedjelja",
+        "monday": "Ponedjeljak",
+        "tuesday": "Utorak",
+        "wednesday": "Srijeda",
+        "thursday": "Četvrtak",
+        "friday": "Petak",
+        "saturday": "Subota"
+      },
+      "abbr_month_names": {
+        "january": "Sij",
+        "february": "Vel",
+        "march": "Ožu",
+        "april": "Tra",
+        "may": "Svi",
+        "june": "Lip",
+        "july": "Srp",
+        "august": "Kol",
+        "september": "Ruj",
+        "october": "Lis",
+        "november": "Stu",
+        "december": "Pro"
+      },
+      "month_names": {
+        "january": "Siječanj",
+        "february": "Veljača",
+        "march": "Ožujak",
+        "april": "Travanj",
+        "may": "Svibanj",
+        "june": "Lipanj",
+        "july": "Srpanj",
+        "august": "Kolovoz",
+        "september": "Rujan",
+        "october": "Listopad",
+        "november": "Studeni",
+        "december": "Prosinac"
+      },
+      "am": "am",
+      "pm": "pm",
+      "formats": {
+        "default": "%a, %b %-d, %Y, %-l:%M %P %z",
+        "long": "%B %d, %Y %H:%M",
+        "short": "%d %b %H:%M",
+        "month_day": "%B %-d"
+      }
+    }
+  }
+}

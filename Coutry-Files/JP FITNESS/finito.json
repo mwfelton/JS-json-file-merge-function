@@ -1,0 +1,610 @@
+{
+    "sections": {
+        "header": {
+            "announcement": "支払い",
+            "menu": "",
+            "cart_count": {
+                "one": "{{ count }} comment",
+                "other": "{{ count }} comments"
+            }
+        },
+        "cart": {
+            "title": "Leave a comment",
+            "caption": "",
+            "remove_title": "削除",
+            "subtotal": "小計",
+            "new_subtotal": "",
+            "note": "注文にメモを追加する",
+            "checkout": "チェックアウト",
+            "empty": "カートを使うためにCookieを有効にする",
+            "cart_error": "",
+            "cart_quantity_error_html": "Quantity",
+            "cart_additional_terms_text": "住所を追加する",
+            "i_agree_with_the": "同意します",
+            "terms_and_conditions": "規約と条件",
+            "taxes_and_shipping_policy_at_checkout_html": "税",
+            "taxes_included_but_shipping_at_checkout": "送料と税はチェックアウトの際に自動計算されます",
+            "taxes_included_and_shipping_policy_html": "",
+            "taxes_and_shipping_at_checkout": "",
+            "headings": {
+                "product": "商品",
+                "price": "価格",
+                "total": "",
+                "quantity": ""
+            },
+            "update": "注文の日付 {{ date }}",
+            "login": {
+                "title": "",
+                "paragraph_html": ""
+            },
+            "featured_collection": {
+                "title": ""
+            }
+        },
+        "footer": {
+            "payment": "",
+            "footer_text": ""
+        },
+        "featured_blog": {
+            "view_all": "すべての商品",
+            "onboarding_title": "",
+            "onboarding_content": ""
+        },
+        "featured_collection": {
+            "view_all": "",
+            "view_all_label": ""
+        },
+        "collection_list": {
+            "view_all": ""
+        },
+        "collection_template": {
+            "empty": "",
+            "title": "",
+            "use_fewer_filters_html": ""
+        },
+        "video": {
+            "load_video": ""
+        },
+        "slideshow": {
+            "load_slide": "",
+            "previous_slideshow": "前のスライド",
+            "next_slideshow": "次のスライド",
+            "pause_slideshow": "スライドショーを止める",
+            "play_slideshow": "スライドショーを再生する",
+            "carousel": "",
+            "slide": ""
+        }
+    },
+    "ecomplete": {
+        "product_page": {
+            "zero_thc": "THCゼロ（検出限界以下）",
+            "low_thc": "Ultra Low THC",
+            "gmo_free": "GMOフリー",
+            "3rd_party": "Third Party Testing",
+            "100_vegan": "7ステップテスト",
+            "vegetarian": "100% ベジタリアン",
+            "labdoor": "A+ Labdoor Rating",
+            "one_tree_planted": "Buy One Plant One",
+            "bundles": "Bundle Deal",
+            "free_delivery": "100% USA Grown Hemp"
+        },
+        "country_selector": {
+            "country_name": "日本",
+            "country_emoji": "🇯🇵"
+        },
+        "homepage_h1": "コンテンツにスキップする"
+    },
+    "general": {
+        "password_page": {
+            "login_form_heading": "パスワード",
+            "login_password_button": "",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_error": "",
+            "login_form_submit": "",
+            "admin_link_html": "あなたはストアのオーナーですか？<a href=\"/admin\" class=\"text-link\">こちらからログインする</a>",
+            "powered_by_shopify_html": "このお店は{{ shopify }}を使用しています"
+        },
+        "social": {
+            "alt_text": {
+                "share_on_facebook": "Facebookでシェアする",
+                "share_on_twitter": "Twitterに投稿する",
+                "share_on_pinterest": "\"{{ terms }}\"の検索に一致する商品はありませんでした。"
+            },
+            "links": {
+                "twitter": "",
+                "facebook": "",
+                "pinterest": "",
+                "instagram": "",
+                "tumblr": "",
+                "snapchat": "",
+                "youtube": "",
+                "vimeo": "",
+                "tiktok": "",
+                "line": ""
+            }
+        },
+        "tags": {
+            "google_tag_manager": "Tags:",
+            "site_verification": "z98n5Witw9cYJvaWS4x_utvqfHwvtMRdMGBiv3ej34w",
+            "pingdom": "-",
+            "google_optimize": "",
+            "google_analytics": "",
+            "quora": "-"
+        },
+        "continue_shopping": "ご注文を続行することで規約およびプライバシーポリシー（個人情報保護方針）に同意する",
+        "pagination": {
+            "label": "",
+            "page": "",
+            "next": "",
+            "previous": ""
+        },
+        "search": {
+            "search": "拡大/縮小"
+        },
+        "cart": {
+            "view": "",
+            "item_added": ""
+        },
+        "share": {
+            "close": "",
+            "copy_to_clipboard": "",
+            "share_url": "",
+            "success_message": "Your comment was posted successfully! Thank you!"
+        },
+        "slider": {
+            "of": "",
+            "next_slide": "",
+            "previous_slide": ""
+        }
+    },
+    "newsletter": {
+        "title": "メールマガジンに登録しましょう",
+        "paragraph": "お得な情報をいち早くゲット！",
+        "email_placeholder": "メールアドレス",
+        "submit_button": "登録する",
+        "payment_icons_title": "",
+        "label": "",
+        "success": "ご登録ありがとうございます",
+        "button_label": ""
+    },
+    "accessibility": {
+        "skip_to_text": "",
+        "skip_to_product_info": "",
+        "close": "",
+        "unit_price_separator": "",
+        "vendor": "",
+        "error": "",
+        "refresh_page": "",
+        "link_messages": {
+            "new_window": "",
+            "external": ""
+        },
+        "loading": "",
+        "total_reviews": "",
+        "star_reviews_info": ""
+    },
+    "blogs": {
+        "article": {
+            "blog": "",
+            "read_more_title": "Read more",
+            "comments": {
+                "one": "",
+                "other": ""
+            },
+            "moderated": "Please note, comments must be approved before they are published",
+            "comment_form_title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "Post comment",
+            "back_to_blog": "Back to {{ title }}",
+            "share": "",
+            "success": "",
+            "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated."
+        }
+    },
+    "onboarding": {
+        "product_title": "このエリアはあなたの商品の詳細を記載するために使うことができます。お客様に商品についての情報を伝えましょう。色や材料、サイズ、どこで作られたのかなどの情報も追加しましょう。",
+        "collection_title": "筆者"
+    },
+    "products": {
+        "product": {
+            "add_to_cart": "Add to cart",
+            "description": "",
+            "on_sale": "Sale",
+            "product_variants": "",
+            "media": {
+                "gallery_viewer": "",
+                "load_image": "",
+                "load_model": "",
+                "load_video": "",
+                "image_available": "",
+                "open_media": "",
+                "play_model": "",
+                "play_video": "あなたのGoogle Mapsのアカウント認証で問題が発生しました。"
+            },
+            "quantity": {
+                "label": "",
+                "input_label": "",
+                "increase": "",
+                "decrease": ""
+            },
+            "pickup_availability": {
+                "view_store_info": "",
+                "check_other_stores": "",
+                "pick_up_available": "",
+                "pick_up_available_at_html": "",
+                "pick_up_unavailable_at_html": "Unavailable",
+                "unavailable": "",
+                "refresh": ""
+            },
+            "price": {
+                "from_price_html": "No products found in this collection",
+                "regular_price": "Regular price",
+                "sale_price": "",
+                "unit_price": "",
+                "price_per_mg": "チェックアウト"
+            },
+            "share": "",
+            "sold_out": "Sold out",
+            "unavailable": "",
+            "vendor": "",
+            "video_exit_message": "",
+            "view_full_details": "アカウントの詳細",
+            "xr_button": "",
+            "xr_button_label": "",
+            "include_taxes": "",
+            "shipping_policy_html": "",
+            "product_recommendations_header": ""
+        },
+        "modal": {
+            "label": ""
+        },
+        "facets": {
+            "apply": "Show Result",
+            "clear": "Clear",
+            "clear_all": "Clear All",
+            "from": "",
+            "filter_and_sort": "",
+            "filter_by_label": "",
+            "filter_button": "",
+            "filters_selected": {
+                "one": "",
+                "other": ""
+            },
+            "max_price": "",
+            "product_count": {
+                "one": "",
+                "other": ""
+            },
+            "product_count_simple": {
+                "one": "",
+                "other": ""
+            },
+            "reset": "",
+            "sort_button": "",
+            "sort_by_label": "",
+            "to": "",
+            "clear_filter": ""
+        }
+    },
+    "templates": {
+        "404": {
+            "title": "",
+            "subtext": ""
+        },
+        "search": {
+            "no_results": "",
+            "page": "",
+            "products": "",
+            "results_with_count": {
+                "one": "",
+                "other": ""
+            },
+            "results_with_count_and_term": {
+                "one": "",
+                "other": ""
+            },
+            "title": "",
+            "search_for": ""
+        },
+        "cart": {
+            "cart": ""
+        },
+        "contact": {
+            "form": {
+                "name": "",
+                "email": "",
+                "phone": "",
+                "comment": "",
+                "send": "",
+                "post_success": "お問い合わせをいただき、ありがとうございます。内容を確認後、早急にご返信させて頂きます。",
+                "error_heading": ""
+            }
+        }
+    },
+    "localization": {
+        "country_label": "",
+        "language_label": "",
+        "update_language": "",
+        "update_country": ""
+    },
+    "customer": {
+        "account": {
+            "title": "アカウント",
+            "details": "",
+            "view_addresses": "住所を確認する",
+            "return": "アカウントの詳細に戻る",
+            "referrals": ""
+        },
+        "account_fallback": "",
+        "activate_account": {
+            "title": "",
+            "subtext": "{{ email }}の新しいパスワードを入力してください",
+            "password": "",
+            "password_confirm": "パスワードの確認",
+            "submit": "",
+            "cancel": "キャンセル"
+        },
+        "addresses": {
+            "title": "",
+            "default": "標準設定",
+            "add_new": "新しい住所を追加する",
+            "edit_address": "編集",
+            "first_name": "名",
+            "last_name": "姓",
+            "company": "会社名",
+            "address1": "住所",
+            "address2": "住所",
+            "city": "市町村",
+            "country": "",
+            "province": "都道府県",
+            "zip": "郵便番号",
+            "phone": "電話番号",
+            "set_default": "この住所をデフォルトとして設定する",
+            "add": "",
+            "update": "",
+            "cancel": "",
+            "edit": "",
+            "delete": "削除",
+            "delete_confirm": "この住所を削除してもよろしいですか？"
+        },
+        "log_in": "ログイン",
+        "log_out": "ログアウト",
+        "login_page": {
+            "cancel": "",
+            "create_account": "アカウントを作成する",
+            "email": "",
+            "forgot_password": "パスワードをお忘れですか？",
+            "guest_continue": "続ける",
+            "guest_title": "ゲストとして購入",
+            "password": "",
+            "title": "",
+            "sign_in": "ログイン",
+            "submit": "",
+            "create_account_description": "",
+            "create_account_button": ""
+        },
+        "order": {
+            "title": "",
+            "date_html": "",
+            "cancelled_html": "注文がキャンセルされた日付 {{ date }}",
+            "cancelled_reason": "理由: {{ reason }}",
+            "billing_address": "請求先住所",
+            "payment_status": "お支払いの状況",
+            "shipping_address": "配送先住所",
+            "fulfillment_status": "フルフィルメントの状況",
+            "discount": "ディスカウント",
+            "shipping": "",
+            "tax": "",
+            "product": "",
+            "sku": "SKU",
+            "price": "",
+            "quantity": "",
+            "total": "",
+            "fulfilled_at_html": "フルフィルメントされた日付 {{ date }}",
+            "track_shipment": "荷物を追跡",
+            "tracking_url": "",
+            "tracking_company": "",
+            "tracking_number": "",
+            "subtotal": ""
+        },
+        "orders": {
+            "title": "",
+            "order_number": "注文",
+            "order_number_link": "",
+            "date": "",
+            "payment_status": "",
+            "fulfillment_status": "",
+            "total": "",
+            "none": "まだ注文を確定していません。"
+        },
+        "recover_password": {
+            "title": "",
+            "subtext": "",
+            "success": ""
+        },
+        "register": {
+            "title": "",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "password": "",
+            "submit": ""
+        },
+        "reset_password": {
+            "title": "",
+            "subtext": "",
+            "password": "",
+            "password_confirm": "",
+            "submit": ""
+        }
+    },
+    "gift_cards": {
+        "issued": {
+            "title": "",
+            "subtext": "",
+            "gift_card_code": "",
+            "shop_link": "買い物を始める",
+            "remaining_html": "残り{{ balance }}使用可能です",
+            "add_to_apple_wallet": "Hide Filter",
+            "qr_image_alt": "",
+            "copy_code": "",
+            "expired": "{{ expiry }}が有効期限です",
+            "copy_code_success": "",
+            "print_gift_card": ""
+        }
+    },
+    "pagefly": {
+        "products": {
+            "product": {
+                "regular_price": "",
+                "sold_out": "",
+                "unavailable": "",
+                "on_sale": "",
+                "quantity": "",
+                "add_to_cart": "",
+                "back_to_collection": "Back to {{ title }}",
+                "view_details": "View details"
+            }
+        },
+        "article": {
+            "tags": "",
+            "all_topics": "All topics",
+            "by_author": "by {{ author }}",
+            "posted_in": "Posted in",
+            "read_more": "",
+            "back_to_blog": ""
+        },
+        "comments": {
+            "title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "",
+            "moderated": "",
+            "success_moderated": "",
+            "success": "",
+            "comments_with_count": {
+                "one": "",
+                "other": ""
+            }
+        },
+        "password_page": {
+            "login_form_message": "Enter store using password:",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_submit": "",
+            "signup_form_email_label": "Eメール (@docomoなどの携帯メールアドレスは当店からメールが届かない可能性があります。ご使用を控えてください。)",
+            "signup_form_success": "We will send you an email right before we open!",
+            "password_link": "Enter using password"
+        }
+    },
+    "opp-subscription": {
+        "subscriptions": "",
+        "header": "",
+        "list": {
+            "return_to_account": "",
+            "column": {
+                "subscription": "",
+                "date": "",
+                "status": ""
+            }
+        },
+        "view": {
+            "header": "",
+            "return_to_list": "",
+            "created_on": "",
+            "last_orders": "",
+            "billing_information": "",
+            "payment_information": "",
+            "billing_address": "",
+            "shipping_address": "",
+            "next_order": "",
+            "frequency": {
+                "header": "",
+                "minute": {
+                    "one": "",
+                    "other": ""
+                },
+                "hour": {
+                    "one": "",
+                    "other": ""
+                },
+                "day": {
+                    "one": "",
+                    "other": ""
+                },
+                "week": {
+                    "one": "",
+                    "other": ""
+                },
+                "week_weekday": {
+                    "one": "",
+                    "other": ""
+                },
+                "month": {
+                    "one": "",
+                    "other": ""
+                },
+                "month_day": {
+                    "one": "",
+                    "other": ""
+                },
+                "year": {
+                    "one": "",
+                    "other": ""
+                }
+            },
+            "address": {
+                "first_name": "",
+                "last_name": "",
+                "company": "",
+                "address": "",
+                "city": "",
+                "country": "",
+                "province": "",
+                "postal_code": "",
+                "phone": ""
+            },
+            "button": {
+                "suspend": "",
+                "reactivate": "",
+                "terminate": "",
+                "edit": "",
+                "cancel": "",
+                "update": ""
+            },
+            "column": {
+                "product": "",
+                "price": "",
+                "quantity": "",
+                "order": "",
+                "date": "",
+                "payment_status": "",
+                "fulfillment_status": "",
+                "total": ""
+            },
+            "info": {
+                "terminated": "",
+                "terminating": {
+                    "zero": "",
+                    "other": ""
+                },
+                "suspended_reactivate": "",
+                "suspended_terminate": ""
+            },
+            "terminate": {
+                "header": "",
+                "info": "",
+                "missing_cycles": ""
+            },
+            "suspend": {
+                "header": "",
+                "input_label": "",
+                "info": ""
+            }
+        }
+    }
+}

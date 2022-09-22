@@ -1,0 +1,627 @@
+{
+    "opp-subscription": {
+      "header": "Spar-Abo",
+      "list": {
+        "return_to_account": "Zurück zu deinem Account",
+        "column": {
+          "subscription": "Spar-Abo",
+          "date": "Datum",
+          "status": "Status"
+        }
+      },
+      "view": {
+        "header": "Spar-Abo #{{ id }}",
+        "return_to_list": "Zurück zur Abo-liste",
+        "created_on": "Erstellt am {{ createdOn }}",
+        "last_orders": "Letzte Bestellungen",
+        "billing_information": "Rechnungsdaten ",
+        "payment_information": "Zahlungsdaten",
+        "billing_address": "Rechnungsadresse",
+        "shipping_address": "Lieferadresse",
+        "next_order": "Nächste Bestellung:",
+        "frequency": {
+          "header": "Lieferung:",
+          "minute": {
+            "one": "Jede Minute",
+            "other": "alle {{ count }} Minuten"
+          },
+          "hour": {
+            "one": "Jede Stunde",
+            "other": "alle {{ count }} Stunden"
+          },
+          "day": {
+            "one": "Täglich",
+            "other": "alle {{ count }} Tage"
+          },
+          "week": {
+            "one": "Wöchentlich",
+            "other": "alle {{ count }} Wochen"
+          },
+          "week_weekday": {
+            "one": "Wöchentlich an einem {weekday}",
+            "other": "alle {{ count }} Wochen an einem {{ weekday }}"
+          },
+          "month": {
+            "one": "Monatlich",
+            "other": "alle {{ count }} Monate"
+          },
+          "month_day": {
+            "one": "Monatlich an Tag {dayOfMonth} des Monats",
+            "other": "alle {{ count }} Monate an Tag {{ dayOfMonth }} des Monats"
+          },
+          "year": {
+            "one": "Jährlich",
+            "other": "Alle {{ count }} Jahre"
+          }
+        },
+        "address": {
+          "first_name": "Vorname",
+          "last_name": "Nachname",
+          "company": "Firma",
+          "address": "Addresse",
+          "city": "Stadt",
+          "country": "Land",
+          "province": "Region",
+          "postal_code": "Postleitzahl",
+          "phone": "Telefon"
+        },
+        "button": {
+          "suspend": "Pausieren",
+          "reactivate": "Reactivieren",
+          "terminate": "Beenden",
+          "edit": "Bearbeiten",
+          "cancel": "Beenden",
+          "update": "Aktualisieren"
+        },
+        "column": {
+          "product": "Produkt",
+          "price": "Preis",
+          "quantity": "Menge",
+          "order": "Preis",
+          "date": "Datum",
+          "payment_status": "Zahlungsstatus",
+          "fulfillment_status": "Erfüllungsstatus",
+          "total": "Summe"
+        },
+        "info": {
+          "terminated": "Das Spar-Abo wurde beendet am {{ terminatedOn }}.",
+          "terminating": {
+            "zero": "Die Beendigung des Spar-Abos wurde beantragt.",
+            "other": "Das Spar-Abo wird nach {{ count }} weiteren Bestellungen beendet."
+          },
+          "suspended_reactivate": "Das Spar-Abo wurde pausiert und wird am {{ plannedEndDate }} reaktiviert.",
+          "suspended_terminate": "Das Spar-Abo wurde pausiert und wird am {{ plannedEndDate }} beendet."
+        },
+        "terminate": {
+          "header": "Du bist dabei das Spar-Abo zu beenden.",
+          "info": "Dies kann nicht rückgängig gemacht werden.",
+          "missing_cycles": "Das Spar-Abo läuft für {{ missingCyclesToTermination }} weitere Bestellungen, nachdem die Beendigung beantragt wurde."
+        },
+        "suspend": {
+          "header": "Du bist dabei das Spar-Abo zu pausieren.",
+          "input_label": "Gib an, bis wann das Spar-Abo pausiert werden soll:",
+          "info": "Solange das Spar-Abo pausiert ist, werden keine weiteren Bestellungen erstellt."
+        }
+      }
+    },
+    "opp-checkout": {
+      "payment": {
+        "header": "Zahlung",
+        "cancel": "Zahlung abbrechen",
+        "confirm": "Bezahlen",
+        "unavailable": "Es tut uns Leid, aber wir können dir keine Zahlungsmöglichkeit anbieten. Bitte an support-de@naturecan.com wenden."
+      }
+    },
+    "custom": {
+      "tags": {
+        "gtm": "GTM-TRM43QV",
+        "site_verification": "ONYaSEZWVK4xpVqfFcMAnohDmUXrzisr4b647faKDX8",
+        "pingdom": "-",
+        "quora": "-",
+        "google_optimize": "OPT-TT6Q2W6"
+      },
+      "wording": {
+        "country_name": "DE",
+        "country_emoji": "🇩🇪",
+        "price_per_mg": "Preis pro mg CBD",
+        "checkout_now": "Jetzt zum Checkout",
+        "low_thc": "<0.01% THC",
+        "vegetarian": "100% Vegetarian",
+        "labdoor": "A+ Labdoor Rating",
+        "one_tree_planted": "1 Baum pro Bestellung",
+        "hemp": "100% Hanf aus den USA",
+        "zero_thc": "THC Frei",
+        "gmo_free": "GMO Frei",
+        "3rd_party": "Unabhängige Zertifizierung",
+        "100_vegan": "100% Vegan",
+        "7_step_test": "7 Stufiger Testprozess",
+        "bundles": "Beste Preis-Leistung",
+        "free_delivery": "Versandfrei ab 20€",
+        "i_agree_with_the": "Ich bin +18 Jahre alt und stimme den",
+        "terms_and_conditions": "Nutzungsbedingungen zu",
+        "important_message": "Zur Zeit können wir Visa Kreditkarten leider nicht als Zahlungsmittel annehmen. Bitte benutze deine MasterCard oder Banküberweisung als Zahlungsmittel. Wir entschuldigen uns für jegliche Unannehmlichkeiten. Bei Fragen gerne an support-de@naturecan.com wenden.",
+        "t1_footer_text": "This product is not for use by or sale to persons under the age of 18. This product should be used only as directed on the label. It should not be used if you are pregnant or nursing. Consult with a physician before use if you have a serious medical condition or use prescription medications. A Doctor's advice should be sought before using this and any supplemental dietary product. All trademarks and copyrights are property of their respective owners and are not affiliated with nor do they endorse this product. These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure or prevent any disease. Individual weight loss results will vary. By using this site, you agree to follow the Privacy Policy and all Terms & Conditions printed on this site. Void Where Prohibited by Law",
+        "homepage_h1": "Naturecan - Zertifiziertes CBD Öl Kaufen",
+        "dispatch": "DHL Lieferung innerhalb von 2 - 4 Werktagen."
+      }
+    },
+    "general": {
+      "404": {
+        "title": "Seite nicht gefunden",
+        "subtext": "Die von Ihnen angeforderte Seite existiert nicht.",
+        "link": "Einkauf fortzusetzen"
+      },
+      "accessibility": {
+        "skip_to_content": "Direkt zum Inhalt",
+        "close_modal": "Schließen (Esc)"
+      },
+      "meta": {
+        "tags": "Getaggt \"{{ tags }}\"",
+        "page": "Seite {{ page }}"
+      },
+      "pagination": {
+        "previous": "Zurück",
+        "next": "Vorwärts",
+        "current_page": "Seite {{ current }} von {{ total }}"
+      },
+      "password_page": {
+        "opening_soon": "Eröffnet demnächst",
+        "login_form_heading": "Shop mit Passwort betreten",
+        "login_form_password_label": "Passwort",
+        "login_form_password_placeholder": "Ihr Passwort",
+        "login_form_submit": "Betreten",
+        "signup_form_email_label": "E-Mail",
+        "signup_form_success": "Wir senden Ihnen eine E-Mail, kurz bevor wir eröffnen!",
+        "admin_link_html": "Sind Sie der Geschäftsinhaber? <a href=\"\/admin\" class=\"text-link\">Melden Sie sich hier an<\/a>",
+        "password_link": "Mit Passwort betreten",
+        "powered_by_shopify_html": "Dieser Shop wird mit Hilfe von {{ shopify }} betrieben werden"
+      },
+      "social": {
+        "share_on_facebook": "Teilen",
+        "share_on_twitter": "Twittern",
+        "share_on_pinterest": "Pinnen",
+        "alt_text": {
+          "share_on_facebook": "Auf Facebook teilen",
+          "share_on_twitter": "Auf Twitter twittern",
+          "share_on_pinterest": "Auf Pinterest pinnen"
+        }
+      },
+      "search": {
+        "no_results_html": "Ihre Suche nach \"{{ terms }}\" hat keine Ergebnisse hervorgebracht.",
+        "results_with_count": {
+          "one": "{{ count }} Ergebnis für \"{{ terms }}\"",
+          "other": "{{ count }} Ergebnisse für \"{{ terms }}\""
+        },
+        "title": "Suchen Sie auf unserer Seite",
+        "placeholder": "Suchen",
+        "submit": "Suchen",
+        "close": "Schließen (esc)",
+        "from": "from"
+      },
+      "newsletter_form": {
+        "newsletter_email": "Melde dich jetzt bei unserem Newsletter an!",
+        "email_placeholder": " E-Mail-Adresse ",
+        "confirmation": " Danke für deine Anmeldung ",
+        "submit": "Anmelden"
+      },
+      "filters": {
+        "show_more": "Mehr anzeigen",
+        "show_less": "Weniger anzeigen"
+      }
+    },
+    "sections": {
+      "slideshow": {
+        "next_slide": "Nächster Schieber",
+        "previous_slide": "Vorheriger Schieber",
+        "pause_slideshow": "Diashow pausieren",
+        "play_slideshow": "Diashow abspielen",
+        "play_video": "Video abspielen",
+        "close_video": "Video schliessen"
+      },
+      "map": {
+        "address_error": "Kann die Adresse nicht finden",
+        "address_no_results": "Keine Ergebnisse für diese Adresse",
+        "address_query_limit_html": "Sie haben die Google- API-Nutzungsgrenze überschritten. Betrachten wir zu einem <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium-Paket<\/a> zu aktualisieren.",
+        "auth_error_html": "Es gab ein Problem bei Google Maps Konto zu authentifizieren."
+      }
+    },
+    "blogs": {
+      "article": {
+        "view_all": "Alle anzeigen",
+        "all_topics": "Alle Themen",
+        "by_author": "von {{ author }}",
+        "posted_in": "Veröffentlicht in",
+        "read_more": "Weiterlesen",
+        "back_to_blog": "Zurück zu {{ title }}"
+      },
+      "comments": {
+        "title": "Hinterlasse einen Kommentar",
+        "name": "Name",
+        "email": "E-Mail",
+        "message": "Nachricht",
+        "post": "Kommentar posten",
+        "moderated": "Bitte beachte, dass Kommentare vor der Veröffentlichung freigegeben werden müssen",
+        "success_moderated": "Dein Kommentar wurde erfolgreich gepostet. Da unser Blog moderiert wird, werden wir ihn erst kurze Zeit später veröffentlichen.",
+        "success": "Dein Kommentar wurde erfolgreich gepostet. Danke!",
+        "comments_with_count": {
+          "one": "{{ count }} Kommentar",
+          "other": "{{ count }} Kommentare"
+        }
+      }
+    },
+    "cart": {
+      "general": {
+        "title": "Warenkorb",
+        "remove": "Entfernen",
+        "subtotal": "Zwischensumme",
+        "savings": "Du sparst",
+        "shipping_at_checkout": "Liefer- und Preisnachlässe an der Kasse berechnet",
+        "update": "Warenkorb aktualisieren",
+        "checkout": "Zur Kasse",
+        "empty": "Dein Warenkorbist im Moment leer.",
+        "cookies_required": "Aktiviere deine Cookies, um den Warenkorb benutzen zu können",
+        "cancel": "Abbrechen",
+        "edit": "Bearbeiten",
+        "continue_shopping": "Weiter einkaufen"
+      },
+      "label": {
+        "product": "Artikel",
+        "price": "Preis",
+        "quantity": "Menge",
+        "total": "Gesamt"
+      },
+      "additional": {
+        "cart_note": "Einen Hinweis zu Deiner Bestellung hinzufügen",
+        "cart_subtitle": "-",
+        "cart_important_message": "If you have problems placing an order via a card (e.g. Visa, Mastercard) please use the bank transfer option",
+        "cart_additional_terms_text": "-",
+        "cart_discount_message": "Liefer- und Preisnachlässe an der Kasse berechnet",
+        "cart_bottom_text": "-",
+        "cart_agree_alert": "You must agree with the terms and conditions of sales to check out."
+      }
+    },
+    "checkout": {
+      "confirmation_page": {
+        "create_an_account": "Create an account",
+        "create_account_description": "Create an account with us today where you can track your order and join our referral scheme.",
+        "create_account_button": "Sign up",
+        "view_your_account": "View your account",
+        "view_account_description": "You can track your order from your account page.",
+        "view_account_button": "View account"
+      }
+    },
+    "collections": {
+      "general": {
+        "view_all": "Alle anzeigen",
+        "no_matches": "Es tut uns leid, aber deine Suche nach Produkten hat keine Treffer ergeben.",
+        "items_with_count": {
+          "one": "{{ count }} Produkt",
+          "other": "{{ count }} Produkte"
+        }
+      },
+      "sorting": {
+        "title": "Sortieren",
+        "featured": "Ausgewählt",
+        "best_selling": "Meistverkauft",
+        "az": "Alphabetisch, A-Z",
+        "za": "Alphabetisch, Z-A",
+        "price_ascending": "Preis, niedrig nach hoch",
+        "price_descending": "Preis, hoch nach niedrig",
+        "date_descending": "Datum, neu nach alt",
+        "date_ascending": "Datum, alt nach neu"
+      },
+      "filters": {
+        "title_tags": "Filtern",
+        "all_tags": "Alle Produkte"
+      }
+    },
+    "contact": {
+      "form": {
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Telefonnummer",
+        "message": "Nachricht",
+        "submit": "Absenden",
+        "post_success": "Danke, dass du uns kontaktiert hast. Wir werden uns so schnell wie möglich bei dir melden."
+      }
+    },
+    "customer": {
+      "account": {
+        "title": "Mein Account",
+        "details": "Account-Details",
+        "view_addresses": "Deine Adressen",
+        "return": "Zurück zu Account-Details",
+        "subscriptions": "Deine Spar-Abos",
+        "subscription_title": "Spar-Abos"
+      },
+      "activate_account": {
+        "title": "Account aktivieren",
+        "subtext": "Erstelle  ein Passwort, um deinen Account zu aktiveren.",
+        "password": "Passwort",
+        "password_confirm": "Passwort bestätigen",
+        "submit": "Account aktivieren",
+        "cancel": "Einladung ablehnen"
+      },
+      "addresses": {
+        "title": "Deine Adressen",
+        "default": "Standard",
+        "add_new": "Neue Adresse hinzufügen",
+        "edit_address": "Adresse bearbeiten",
+        "first_name": "Vorname",
+        "last_name": "Nachname",
+        "company": "Firma",
+        "address1": "Adresse1",
+        "address2": "Adresse2",
+        "city": "Stadt",
+        "country": "Land",
+        "province": "Bundesland",
+        "zip": "PLZ",
+        "phone": "Telefon",
+        "set_default": "Als Standard-Adresse festlegen",
+        "add": "Adresse hinzufügen",
+        "update": "Adresse aktualisieren",
+        "cancel": "Abbrechen",
+        "edit": "Bearbeiten",
+        "delete": "Löschen",
+        "delete_confirm": "Bist du sicher, dass du diese Adresse löschen möchten?"
+      },
+      "login": {
+        "title": "Login",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "forgot_password": "Hast du dein Passwort vergessen?",
+        "sign_in": "Anmelden",
+        "guest_title": "Als Gast fortsetzen",
+        "guest_continue": "Fortsetzen"
+      },
+      "orders": {
+        "title": "Bestellungen",
+        "order_number": "Bestellung",
+        "date": "Datum",
+        "payment_status": "Zahlungsstatus",
+        "fulfillment_status": "Lieferstatus",
+        "total": "Gesamt",
+        "none": "Du hast noch keine Bestellungen aufgegeben."
+      },
+      "order": {
+        "title": "Bestellung {{ name }}",
+        "date": "Aufgegeben am {{ date }}",
+        "cancelled": "Bestellung storniert am {{ date }}",
+        "cancelled_reason": "Grund: {{ reason }}",
+        "billing_address": "Rechnungsadresse",
+        "payment_status": "Zahlungsstatus",
+        "shipping_address": "Lieferadresse",
+        "fulfillment_status": "Lieferstatus",
+        "discount": "Rabatt",
+        "shipping": "Versand",
+        "tax": "Steuern",
+        "product": "Artikel",
+        "sku": "SKU",
+        "price": "Preis",
+        "quantity": "Menge",
+        "total": "Gesamt",
+        "fulfilled_at": "Geliefert am {{ date }}",
+        "subtotal": "Zwischensumme",
+        "track_shipment": "Sendung verfolgen"
+      },
+      "recover_password": {
+        "title": "Passwort zurücksetzen",
+        "email": "E-Mail",
+        "submit": "Absenden",
+        "cancel": "Abbrechen",
+        "subtext": "Wir werden dir eine E-Mail zum Zurücksetzen des Passworts schicken.",
+        "success": "Wir haben dir eine E-Mail mit einem Link zum Aktualisieren des Passworts geschickt."
+      },
+      "reset_password": {
+        "title": "Account-Passwort zurücksetzen",
+        "subtext": "Gib ein neues Passwort für {{ email }} ein",
+        "password": "Passwort",
+        "password_confirm": "Passwort bestätigen",
+        "submit": "Passwort zurücksetzen"
+      },
+      "register": {
+        "title": "Account erstellen",
+        "first_name": "Vorname",
+        "last_name": "Nachname",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "submit": "Erstellen"
+      }
+    },
+    "homepage": {
+      "onboarding": {
+        "product_title": "Der Name deines Produkts",
+        "product_description": "Diesen Abschnitt kannst du nutzen, um die Details deines Produkts zu beschreiben. Erzähle anderen Kunden, wie dein Produkt aussieht, sich anfühlt und designt ist. Füge Einzelheiten zu Farbe, verwendeten Materialien, Größe und Produktionsort hinzu.",
+        "collection_title": "Der Name deiner Kollektion",
+        "blog_title": "Der Titel deines Posts",
+        "blog_excerpt": "Dein Laden hat noch keine Blogposts veröffentlicht. Ein Blog kann genutzt werden, um über die Einführung neuer Produkte, Tipps oder andere Neuigkeiten, die Sie mit Ihren Kunden teilen möchten, zu berichten. Für Inspiration und Ratschläge für Ihren eigenen Laden und Blog kannst du den E-Commerce-Blog von Shopify besuchen.",
+        "blog_author": "Name des Autors",
+        "no_content": "Dieser Bereich hat zur Zeit keinen Inhalt. Füge diesem Bereich über die Seitenleiste Inhalte hinzu."
+      }
+    },
+    "layout": {
+      "navigation": {
+        "search": "Suchen",
+        "toggle": "erweitern\/zusammenklappen",
+        "expand": "ausklappen",
+        "collapse": "einklappen"
+      },
+      "cart": {
+        "title": "Einkaufswagen",
+        "items_count": {
+          "one": "Produkt",
+          "other": "Produkte"
+        }
+      },
+      "customer": {
+        "account": "Account",
+        "log_out": "Ausloggen",
+        "log_in": "Einloggen",
+        "create_account": "Account erstellen"
+      },
+      "footer": {
+        "social_platform": "{{ name }} auf {{ platform }}"
+      }
+    },
+    "products": {
+      "product": {
+        "regular_price": "Normaler Preis",
+        "sold_out": "Ausverkauft",
+        "unavailable": "Nicht verfügbar",
+        "on_sale": "Angebot",
+        "quantity": "Menge",
+        "add_to_cart": "Zum Warenkorb hinzufügen",
+        "back_to_collection": "Zurück zu {{ title }}"
+      },
+      "reviews": {
+        "average": "Durchschnitt",
+        "reviews": "Erfahrungen",
+        "no_reviews": "Noch keine Bewertungen",
+        "more_ratings": "Mehr Bewertungen",
+        "no_comments": "Keine Bewertungen.",
+        "reply_from": "Antworten",
+        "posted": "Gepostet",
+        "write_review": "Schreibe eine Bewertung",
+        "show": "Anzeigen",
+        "details": "Details",
+        "rate_this_product": "Bewerte dieses Produkt",
+        "select_product": "Wähle das Produkt aus",
+        "write_review_placeholder": "Schreibe deine Bewertung hier",
+        "submit_review": "Bewertung abgeben",
+        "your_name_placeholder": "Dein Name",
+        "email_address_placeholder": "Email Address",
+        "thank_you_for_your_review": "<strong>Vielen Dank für deine Bewertung.<\/strong>",
+        "your_review_has_been_submitted": "Deine Bewertung wurde abgeschickt.",
+        "reviews_count": "Bewertungen",
+        "verified_buyer": " ",
+        "verified_buyer_yes": "Verifizierter Käufer: Ja",
+        "verified_buyer_no": "Verifizierter Käufer: Nein",
+        "anonymous_reviewer_name": "Anonym"
+      }
+    },
+    "gift_cards": {
+      "issued": {
+        "title_html": "Hier ist deine {{ value }} Geschenkkarte für {{ shop }}!",
+        "subtext": "Hier ist deine Geschenkkarte!",
+        "disabled": "Deaktiviert",
+        "expired": "Abgelaufen am {{ expiry }}",
+        "active": "Läuft ab am {{ expiry }}",
+        "redeem_html": "Nutze an der Kasse diesen Code, um deine {{ value }} Geschenkkarte einzulösen",
+        "shop_link": "Einkauf beginnen",
+        "print": "Diesen Geschenkgutschein ausdrucken",
+        "remaining_html": "{{ balance }} übrig",
+        "add_to_apple_wallet": "Hinzufügen zu Apple Wallet"
+      }
+    },
+    "date_formats": {
+      "month_day_year": "%B %d, %Y"
+    },
+    "product_filter_search": {
+      "refine": "Verfeinern mit",
+      "refine_mobile": "Verfeinern mit",
+      "refine_mobile_collapse": "Filter verbergen",
+      "clear": "Löschen",
+      "clear_all": "Alle löschen",
+      "apply": "Anwenden",
+      "close": "Schließen",
+      "show_result": "Ergebnisse anzeigen",
+      "sale": "Sale",
+      "sold_out": "Ausverkauft",
+      "from": "von",
+      "breadcrumb_home": "Home",
+      "load_more": "Mehr laden",
+      "show_limit": "Anzeigen",
+      "collection_all": "Alle",
+      "price_under": "Unter",
+      "price_above": "Über",
+      "search_general_title": "Suchen",
+      "search_result_header": "Suche nach Restultate für \"{{ terms }}\"",
+      "search_result_empty": "Deine Suche nach \"{{ terms }}\" hat keine Ergebnisse geliefert",
+      "search_result_number": "Zeige{{ count }} Ergebnisse für \"{{ terms }}\"",
+      "suggestion_popular_header": "Vorschläge",
+      "suggestion_product_header": "Produkte",
+      "suggestion_did_you_mean_header": "Meintest du",
+      "suggestion_view_all": "Alle Ergebnisse ansehen",
+      "error_no_filter_result": "Tut uns leid, es konnten keine Produkte passend zu deiner Auswahl gefunden werden. ",
+      "error_no_search_result": "Tut uns leid, es konnten keine Produkte passend zu deiner Suche gefunden werden. ",
+      "error_no_products": "Tut uns leid, es konnten keine Produkte passend zu deiner Auswahl gefunden werden. "
+    },
+    "pagefly": {
+      "products": {
+        "product": {
+          "regular_price": "Regular price",
+          "sold_out": "Sold out",
+          "unavailable": "Unavailable",
+          "on_sale": "Sale",
+          "quantity": "Quantity",
+          "add_to_cart": "Add to cart",
+          "back_to_collection": "Back to {{ title }}",
+          "view_details": "View details"
+        }
+      },
+      "article": {
+        "tags": "Tags:",
+        "all_topics": "All topics",
+        "by_author": "by {{ author }}",
+        "posted_in": "Posted in",
+        "read_more": "Read more",
+        "back_to_blog": "Back to {{ title }}"
+      },
+      "comments": {
+        "title": "Leave a comment",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "post": "Post comment",
+        "moderated": "Please note, comments must be approved before they are published",
+        "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+        "success": "Your comment was posted successfully! Thank you!",
+        "comments_with_count": {
+          "one": "{{ count }} comment",
+          "other": "{{ count }} comments"
+        }
+      },
+      "password_page": {
+        "login_form_message": "Enter store using password:",
+        "login_form_password_label": "Password",
+        "login_form_password_placeholder": "Your password",
+        "login_form_submit": "Enter",
+        "signup_form_email_label": "Email",
+        "signup_form_success": "We will send you an email right before we open!",
+        "password_link": "Enter using password"
+      }
+    },
+    "shopify": {
+      "checkout": {
+        "contact": {
+          "address_title": "Straße",
+          "address1_label": "Straße (oder Packstation)",
+          "address2_label": "Hausnummer und ggfs. Wohnung, Zimmer (oder Postnummer) ",
+          "optional_address2_label": "Hausnummer und ggfs. Wohnung, Zimmer (oder Postnummer)   - optional",
+          "civic_number_warning": "Hausnummer bitte nur im unteren Feld einfügen."
+        },
+        "field_errors": {
+          "address_city_blank": "Gib eine Stadt ein",
+          "address_address1_blank": "Gib deine Straße hier ein",
+          "address_address2_blank": "Gib deine Hausnummer (und ggfs. Wohnung, Zimmer usw.) hier ein"
+        },
+        "payment": {
+          "card_security_notice": "Alle Transaktionen sind sicher und verschlüsselt. Bei Fragen, einfach support-de@naturecan.com kontaktieren."
+        },
+        "order_summary": {
+          "cart_does_not_meet_discount_requirements_notice": "Der Rabattcode <strong>{{ code }}<\/strong> ist für die Artikel in deinem Warenkorb nicht gültig. Bei Fragen, support-de@naturecan.com schreiben.",
+          "customer_does_not_meet_discount_requirements_notice": "Der Rabattcode <strong>{{ code }}<\/strong> ist derzeit für dich nicht verfügbar. Bei Fragen, support-de@naturecan.com schreiben."
+        },
+        "general": {
+          "close_modal_label": "ejtttttttjkrnjtjrbtj"
+        }
+      }
+    },
+    "klaviyo": {
+      "product_page_text": "Ich möchte benachrichtigt werden, wenn das Produkt verfügbar ist.",
+      "body_content": "Registriere dich, um eine Benachrichtigung zu erhalten, wenn dieser Artikel wieder auf Lager ist.",
+      "email_field_label": "Email",
+      "button_label": "Jetzt registrieren",
+      "subscription_success_label": "Vielen Dank für deine Registrierung. Wir sagen dir Bescheid, sobald das Produkt wieder auf Lager ist."
+    }
+  }

@@ -1,0 +1,611 @@
+{
+    "sections": {
+        "header": {
+            "announcement": "",
+            "menu": "",
+            "cart_count": {
+                "one": "Dodano",
+                "other": "Primijenjeno je {{ count }} popusta"
+            }
+        },
+        "cart": {
+            "title": "Iznos za plaćanje narudžbe {{ order_name }}",
+            "caption": "",
+            "remove_title": "Uklonite",
+            "subtotal": "Suma stavke",
+            "new_subtotal": "",
+            "note": "Dodajte bilješku svojoj narudžbi",
+            "checkout": "Naplata",
+            "empty": "format nije valjan",
+            "cart_error": "Prihvati",
+            "cart_quantity_error_html": "Quantity",
+            "cart_additional_terms_text": "Dodajte adresu",
+            "i_agree_with_the": "Slažem se sa",
+            "terms_and_conditions": "Ovaj proizvod nije za upotrebu ili prodaju osobama mlađim od 18 godina. Ovaj proizvod treba koristiti samo prema uputama na naljepnici. Ne biste ga trebali koristiti ako ste trudni ili dojite. Prije uporabe posavjetujte se s liječnikom ako imate ozbiljno zdravstveno stanje ili koristite lijekove na recept. Prije uporabe ovog i bilo kojeg dodatka prehrani potrebno je potražiti savjet liječnika. Svi zaštitni znakovi i autorska prava vlasništvo su njihovih vlasnika i nisu povezani niti podržavaju ovaj proizvod. FDA nije procijenila ove izjave. Ovaj proizvod nije namijenjen dijagnosticiranju, liječenju, liječenju ili sprječavanju bilo koje bolesti. Pojedinačni rezultati mršavljenja će se razlikovati. Korištenjem ove stranice slažete se da ćete slijediti Politiku privatnosti i sve Uvjete i odredbe tiskane na ovoj stranici. Nevažeći tamo gdje je zakonom zabranjeno.",
+            "taxes_and_shipping_policy_at_checkout_html": "Spremanje",
+            "taxes_included_but_shipping_at_checkout": "Kodovi za popuste, dostava i porezi se kalkuliraju prilikom naplate",
+            "taxes_included_and_shipping_policy_html": "",
+            "taxes_and_shipping_at_checkout": "",
+            "headings": {
+                "product": "Proizvod",
+                "price": "Cijena",
+                "total": "",
+                "quantity": ""
+            },
+            "update": "Naručeno dana {{ date }}",
+            "login": {
+                "title": "Trenutno mjesto isporuke",
+                "paragraph_html": "Kontrolni kôd"
+            },
+            "featured_collection": {
+                "title": ""
+            }
+        },
+        "footer": {
+            "payment": "Ne radi?",
+            "footer_text": ""
+        },
+        "featured_blog": {
+            "view_all": "Svi proizvodi",
+            "onboarding_title": "",
+            "onboarding_content": ""
+        },
+        "featured_collection": {
+            "view_all": "",
+            "view_all_label": "Ako nastavite, slažete se s <a class=\"link--muted\" data-modal data-remember-policy-link=\"privacy_policy\" title=\"Shopify politikom privatnosti za plaćanje\" href=\"{{ privacy_href }}\">Pravilima privatnosti</a> i <a class=\"link--muted\" data-modal data-remember-policy-link=\"terms\" title=\"Shopify uvjetima pružanja usluge za plaćanje\" href=\"{{ terms_href }}\">Uvjetima korištenja</a>."
+        },
+        "collection_list": {
+            "view_all": ""
+        },
+        "collection_template": {
+            "empty": "",
+            "title": "",
+            "use_fewer_filters_html": ""
+        },
+        "video": {
+            "load_video": ""
+        },
+        "slideshow": {
+            "load_slide": "Prikaži",
+            "previous_slideshow": "Prethodni",
+            "next_slideshow": "Poštanski broj",
+            "pause_slideshow": "Pauzirajte slideshow",
+            "play_slideshow": "Započnite slideshow",
+            "carousel": "",
+            "slide": ""
+        }
+    },
+    "ecomplete": {
+        "product_page": {
+            "zero_thc": "Obnovljena",
+            "low_thc": "<0.2% THC",
+            "gmo_free": "Bez GMO-a",
+            "3rd_party": "Testirano od strane neovisnih laboratorija",
+            "100_vegan": "7 koraka Test",
+            "vegetarian": "100% vegetarijanski",
+            "labdoor": " A+ Labdoor ocjena",
+            "one_tree_planted": "Sadimo stablo za svaku kupnju",
+            "bundles": "Paketna ponuda",
+            "free_delivery": "100% USA konoplja"
+        },
+        "country_selector": {
+            "country_emoji": "🇭🇷",
+            "country_name": "Hrvatska"
+        },
+        "homepage_h1": "Preskočite na sadržaj"
+    },
+    "general": {
+        "password_page": {
+            "login_form_heading": "Zaporka",
+            "login_password_button": "",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_error": "",
+            "login_form_submit": "",
+            "admin_link_html": "Unesite podatke o plaćanju",
+            "powered_by_shopify_html": "Ova trgovina bit će pokrenuta putem {{ shopify }}"
+        },
+        "social": {
+            "alt_text": {
+                "share_on_facebook": "Podijelite na Facebooku",
+                "share_on_twitter": "Tweetajte na Twitteru",
+                "share_on_pinterest": "Vaše pretraživanje za \"{{ terms }}\" nije donijelo nikakve rezultate."
+            },
+            "links": {
+                "twitter": "",
+                "facebook": "",
+                "pinterest": "",
+                "instagram": "",
+                "tumblr": "",
+                "snapchat": "",
+                "youtube": "",
+                "vimeo": "",
+                "tiktok": "",
+                "line": ""
+            }
+        },
+        "tags": {
+            "google_tag_manager": "Tags:",
+            "site_verification": "2kCGI4aHFkMzoKXyf0I3UQAc6VWcVS5AFY7_1OXIAmk",
+            "pingdom": "-",
+            "google_optimize": "-",
+            "google_analytics": "",
+            "quora": "-"
+        },
+        "continue_shopping": "Nastavite kupovati",
+        "pagination": {
+            "label": "",
+            "page": "",
+            "next": "",
+            "previous": ""
+        },
+        "search": {
+            "search": "Pretraga"
+        },
+        "cart": {
+            "view": "",
+            "item_added": ""
+        },
+        "share": {
+            "close": "",
+            "copy_to_clipboard": "",
+            "share_url": "",
+            "success_message": "Neuspjeh"
+        },
+        "slider": {
+            "of": "",
+            "next_slide": "",
+            "previous_slide": ""
+        }
+    },
+    "newsletter": {
+        "title": "SAZNAJTE PRVI O NOVIM PROIZVODIMA!",
+        "paragraph": "Pretplatite se na naš email i mi ćemo vas obavijestiti kada lansiramo nove proizvode!",
+        "email_placeholder": "Email adresa",
+        "submit_button": "PRETPLATITE SE",
+        "payment_icons_title": "SIGURNA KUPOVINA UZ:",
+        "label": "",
+        "success": "",
+        "button_label": "Obrada naloga"
+    },
+    "accessibility": {
+        "skip_to_text": "",
+        "skip_to_product_info": "",
+        "close": "",
+        "unit_price_separator": "",
+        "vendor": "",
+        "error": "",
+        "refresh_page": "",
+        "link_messages": {
+            "new_window": "Otvara se u novom prozoru",
+            "external": "Nastavite s kupovinom"
+        },
+        "loading": "",
+        "total_reviews": "Odgovor od",
+        "star_reviews_info": ""
+    },
+    "blogs": {
+        "article": {
+            "blog": "",
+            "read_more_title": "Read more",
+            "comments": {
+                "one": "",
+                "other": ""
+            },
+            "moderated": "Please note, comments must be approved before they are published",
+            "comment_form_title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "Post comment",
+            "back_to_blog": "Back to {{ title }}",
+            "share": "",
+            "success": "",
+            "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated."
+        }
+    },
+    "onboarding": {
+        "product_title": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+        "collection_title": "Author name"
+    },
+    "products": {
+        "product": {
+            "add_to_cart": "Proizvodi",
+            "description": "Pravna obavijest",
+            "on_sale": "Sale",
+            "product_variants": "",
+            "media": {
+                "gallery_viewer": "",
+                "load_image": "",
+                "load_model": "",
+                "load_video": "",
+                "image_available": "",
+                "open_media": "",
+                "play_model": "",
+                "play_video": "Došlo je do problema s autorizacijom vašeg Google Maps računa."
+            },
+            "quantity": {
+                "label": "",
+                "input_label": "",
+                "increase": "",
+                "decrease": ""
+            },
+            "pickup_availability": {
+                "view_store_info": "",
+                "check_other_stores": "",
+                "pick_up_available": "Podizanje",
+                "pick_up_available_at_html": "",
+                "pick_up_unavailable_at_html": "Unavailable",
+                "unavailable": "",
+                "refresh": ""
+            },
+            "price": {
+                "from_price_html": "U ovoj kolekciji nisu pronađeni proizvodi",
+                "regular_price": "Regular price",
+                "sale_price": "Već je primijenjen popust veće vrijednosti.",
+                "unit_price": "",
+                "price_per_mg": "Izvršite naplatu"
+            },
+            "share": "",
+            "sold_out": "Sold out",
+            "unavailable": "",
+            "vendor": "",
+            "video_exit_message": "",
+            "view_full_details": "Anonimni kupac",
+            "xr_button": "",
+            "xr_button_label": "",
+            "include_taxes": "",
+            "shipping_policy_html": "",
+            "product_recommendations_header": ""
+        },
+        "modal": {
+            "label": ""
+        },
+        "facets": {
+            "apply": "Prikaži rezultate",
+            "clear": "Očistite",
+            "clear_all": "Očistite sve",
+            "from": "",
+            "filter_and_sort": "",
+            "filter_by_label": "",
+            "filter_button": "",
+            "filters_selected": {
+                "one": "",
+                "other": ""
+            },
+            "max_price": "",
+            "product_count": {
+                "one": "",
+                "other": ""
+            },
+            "product_count_simple": {
+                "one": "",
+                "other": ""
+            },
+            "reset": "",
+            "sort_button": "",
+            "sort_by_label": "",
+            "to": "",
+            "clear_filter": ""
+        }
+    },
+    "templates": {
+        "404": {
+            "title": "",
+            "subtext": ""
+        },
+        "search": {
+            "no_results": "",
+            "page": "",
+            "products": "",
+            "results_with_count": {
+                "one": "",
+                "other": ""
+            },
+            "results_with_count_and_term": {
+                "one": "",
+                "other": ""
+            },
+            "title": "",
+            "search_for": ""
+        },
+        "cart": {
+            "cart": ""
+        },
+        "contact": {
+            "form": {
+                "name": "",
+                "email": "",
+                "phone": "",
+                "comment": "",
+                "send": "",
+                "post_success": "Hvala što ste nas kontaktirali. Javiti ćemo vam se što je prije moguće.",
+                "error_heading": ""
+            }
+        }
+    },
+    "localization": {
+        "country_label": "Država/Teritorij",
+        "language_label": "",
+        "update_language": "",
+        "update_country": ""
+    },
+    "customer": {
+        "account": {
+            "title": "Narudžba kupca je promijenjena / otkazana",
+            "details": "",
+            "view_addresses": "Adrese",
+            "return": "Povratak na pojedinosti o računu",
+            "referrals": ""
+        },
+        "account_fallback": "",
+        "activate_account": {
+            "title": "",
+            "subtext": "Unesite novu zaporku za {{ email }}",
+            "password": "",
+            "password_confirm": "Autorizacija kreditne kartice je istekla, ponovno unesite podatke o plaćanju. Vaša kartica nije naplaćena.",
+            "submit": "",
+            "cancel": "Otkažite"
+        },
+        "addresses": {
+            "title": "",
+            "default": "%a, %b %-d, %Y, %-l:%M %P %z",
+            "add_new": "Dodajte novu adresu",
+            "edit_address": "Uredite",
+            "first_name": "Ime",
+            "last_name": "Prezime",
+            "company": "Tvrtka",
+            "address1": "Adresa 1",
+            "address2": "Adresa 2",
+            "city": "Grad",
+            "country": "",
+            "province": "Guvernerat",
+            "zip": "Poštanski broj",
+            "phone": "Telefon",
+            "set_default": "Postavite kao zadanu adresu",
+            "add": "",
+            "update": "",
+            "cancel": "",
+            "edit": "",
+            "delete": "Izbrišite",
+            "delete_confirm": "Jeste li sigurni da želite izbrisati ovu adresu?"
+        },
+        "log_in": "Prijava",
+        "log_out": "Odjava",
+        "login_page": {
+            "cancel": "",
+            "create_account": "Resetirajte račun",
+            "email": "",
+            "forgot_password": "Zaboravili ste zaporku?",
+            "guest_continue": "Nastavite",
+            "guest_title": "Nastavite kao gost",
+            "password": "",
+            "title": "",
+            "sign_in": "Prijavite se",
+            "submit": "",
+            "create_account_description": "Stvorite račun kod nas već danas na kojem možete pratiti svoju narudžbu i pridružiti se našoj shemi preporuka.",
+            "create_account_button": "Prikaži račun"
+        },
+        "order": {
+            "title": "Pogreška prilikom ažuriranja adrese",
+            "date_html": "",
+            "cancelled_html": "Narudžba je otkazana {{ date }}",
+            "cancelled_reason": "Razlog: {{ reason }}",
+            "billing_address": "Adresa za naplatu",
+            "payment_status": "Status plaćanja",
+            "shipping_address": "Problemi sa zalihama",
+            "fulfillment_status": "Status pakiranja",
+            "discount": "Popust",
+            "shipping": "",
+            "tax": "",
+            "product": "",
+            "sku": "Šifra",
+            "price": "",
+            "quantity": "",
+            "total": "",
+            "fulfilled_at_html": "Ispunjena",
+            "track_shipment": "Poklon kartice poslane",
+            "tracking_url": "",
+            "tracking_company": "",
+            "tracking_number": "Niste {{ name }}? Možete {{ link }}",
+            "subtotal": ""
+        },
+        "orders": {
+            "title": "",
+            "order_number": "Narudžba",
+            "order_number_link": "",
+            "date": "",
+            "payment_status": "",
+            "fulfillment_status": "",
+            "total": "",
+            "none": "Niste još ništa naručili."
+        },
+        "recover_password": {
+            "title": "",
+            "subtext": "",
+            "success": ""
+        },
+        "register": {
+            "title": "",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "password": "",
+            "submit": ""
+        },
+        "reset_password": {
+            "title": "",
+            "subtext": "",
+            "password": "",
+            "password_confirm": "",
+            "submit": ""
+        }
+    },
+    "gift_cards": {
+        "issued": {
+            "title": "",
+            "subtext": "",
+            "gift_card_code": "",
+            "shop_link": "Počnite kupovati",
+            "remaining_html": "{{ balance }} je ostalo",
+            "add_to_apple_wallet": "Sakrijte Filter",
+            "qr_image_alt": "",
+            "copy_code": "",
+            "expired": "Listopad",
+            "copy_code_success": "",
+            "print_gift_card": ""
+        }
+    },
+    "pagefly": {
+        "products": {
+            "product": {
+                "regular_price": "",
+                "sold_out": "",
+                "unavailable": "",
+                "on_sale": "",
+                "quantity": "",
+                "add_to_cart": "",
+                "back_to_collection": "Back to {{ title }}",
+                "view_details": "View details"
+            }
+        },
+        "article": {
+            "tags": "",
+            "all_topics": "All topics",
+            "by_author": "by {{ author }}",
+            "posted_in": "Posted in",
+            "read_more": "",
+            "back_to_blog": ""
+        },
+        "comments": {
+            "title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "",
+            "moderated": "",
+            "success_moderated": "",
+            "success": "",
+            "comments_with_count": {
+                "one": "",
+                "other": ""
+            }
+        },
+        "password_page": {
+            "login_form_message": "Enter store using password:",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_submit": "",
+            "signup_form_email_label": "Email",
+            "signup_form_success": "We will send you an email right before we open!",
+            "password_link": "Enter using password"
+        }
+    },
+    "opp-subscription": {
+        "subscriptions": "",
+        "header": "",
+        "list": {
+            "return_to_account": "",
+            "column": {
+                "subscription": "",
+                "date": "",
+                "status": ""
+            }
+        },
+        "view": {
+            "header": "",
+            "return_to_list": "",
+            "created_on": "Refundirano",
+            "last_orders": "",
+            "billing_information": "",
+            "payment_information": "",
+            "billing_address": "",
+            "shipping_address": "",
+            "next_order": "",
+            "frequency": {
+                "header": "",
+                "minute": {
+                    "one": "",
+                    "other": ""
+                },
+                "hour": {
+                    "one": "",
+                    "other": ""
+                },
+                "day": {
+                    "one": "",
+                    "other": ""
+                },
+                "week": {
+                    "one": "",
+                    "other": ""
+                },
+                "week_weekday": {
+                    "one": "",
+                    "other": ""
+                },
+                "month": {
+                    "one": "",
+                    "other": ""
+                },
+                "month_day": {
+                    "one": "",
+                    "other": ""
+                },
+                "year": {
+                    "one": "",
+                    "other": ""
+                }
+            },
+            "address": {
+                "first_name": "",
+                "last_name": "",
+                "company": "",
+                "address": "",
+                "city": "",
+                "country": "",
+                "province": "",
+                "postal_code": "Prefektura",
+                "phone": ""
+            },
+            "button": {
+                "suspend": "",
+                "reactivate": "",
+                "terminate": "",
+                "edit": "",
+                "cancel": "",
+                "update": ""
+            },
+            "column": {
+                "product": "",
+                "price": "",
+                "quantity": "",
+                "order": "",
+                "date": "",
+                "payment_status": "",
+                "fulfillment_status": "",
+                "total": ""
+            },
+            "info": {
+                "terminated": "",
+                "terminating": {
+                    "zero": "",
+                    "other": ""
+                },
+                "suspended_reactivate": "",
+                "suspended_terminate": ""
+            },
+            "terminate": {
+                "header": "",
+                "info": "",
+                "missing_cycles": ""
+            },
+            "suspend": {
+                "header": "",
+                "input_label": "",
+                "info": ""
+            }
+        }
+    },
+    "null": "GTM-KFRTLWC"
+}

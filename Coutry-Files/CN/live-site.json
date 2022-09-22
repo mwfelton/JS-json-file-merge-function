@@ -1,0 +1,548 @@
+{
+    "custom": {
+      "tags": {
+        "gtm": "GTM-PR8GV7C",
+        "site_verification": "siLo-jYTCawMy1Dt_XHcPT5fmzeeD1eifvSSI_XOAwE",
+        "pingdom": "-",
+        "quora": "-",
+        "google_optimize": "-"
+      },
+      "wording": {
+        "country_name": "China",
+        "price_per_mg": "Price Per mg",
+        "checkout_now": "立即结账",
+        "low_thc": "不含THC",
+        "3rd_party": "第三方实验室测试",
+        "vegetarian": "100%素食主义者",
+        "labdoor": "A+ Labdoor Rating",
+        "one_tree_planted": "Buy One Plant One",
+        "bundles": "Bundle Deal",
+        "free_delivery": "Free Delivery",
+        "hemp": "100% USA Grown Hemp",
+        "zero_thc": "Zero THC",
+        "gmo_free": "GMO Free",
+        "100_vegan": "100% Vegan",
+        "7_step_test": "7 Step Test",
+        "i_agree_with_the": "我同意",
+        "terms_and_conditions": "条款和条件",
+        "important_message": "If you have problems placing an order via a card (e.g. Visa, Mastercard) please use the bank transfer option",
+        "country_emoji": "🇨🇳",
+        "t1_footer_text": "This product is not for use by or sale to persons under the age of 18. This product should be used only as directed on the label. It should not be used if you are pregnant or nursing. Consult with a physician before use if you have a serious medical condition or use prescription medications. A Doctor's advice should be sought before using this and any supplemental dietary product. All trademarks and copyrights are property of their respective owners and are not affiliated with nor do they endorse this product. These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure or prevent any disease. Individual weight loss results will vary. By using this site, you agree to follow the Privacy Policy and all Terms & Conditions printed on this site. Void Where Prohibited by Law.",
+        "cart_notice": "请确保在付款信息页填写的全名与账单信息页填写的全名保持一致.",
+        "homepage_h1": "英国运动营养品牌",
+        "dispatch": "Ready for dispatch 3 - 5 working days Delivery Time. Shipped by DHL"
+      }
+    },
+    "general": {
+      "404": {
+        "title": "404页面未找到",
+        "subtext": "您要求的页面不存在。",
+        "link": "继续购物"
+      },
+      "accessibility": {
+        "skip_to_content": "Skip to content",
+        "close_modal": "Close (esc)"
+      },
+      "meta": {
+        "tags": "Tagged \"{{ tags }}\"",
+        "page": "Page {{ page }}"
+      },
+      "pagination": {
+        "previous": "Previous",
+        "next": "Next",
+        "current_page": "Page {{ current }} of {{ total }}"
+      },
+      "password_page": {
+        "opening_soon": "Opening Soon",
+        "login_form_heading": "Enter store using password",
+        "login_form_password_label": "Password",
+        "login_form_password_placeholder": "Your password",
+        "login_form_submit": "Enter",
+        "signup_form_email_label": "Email",
+        "signup_form_success": "We will send you an email right before we open!",
+        "admin_link_html": "Are you the store owner? <a href=\"\/admin\" class=\"text-link\">Log in here<\/a>",
+        "password_link": "Enter using password",
+        "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "search": {
+        "no_results_html": "Your search for \"{{ terms }}\" did not yield any results.",
+        "results_with_count": {
+          "one": "{{ count }} result for \"{{ terms }}\"",
+          "other": "{{ count }} results for \"{{ terms }}\""
+        },
+        "title": "Search our site",
+        "placeholder": "Search",
+        "submit": "Submit",
+        "close": "Close search",
+        "from": "from"
+      },
+      "newsletter_form": {
+        "newsletter_email": "Join our mailing list",
+        "email_placeholder": "Email address",
+        "confirmation": "Thanks for subscribing",
+        "submit": "Subscribe"
+      },
+      "filters": {
+        "show_more": "Show More",
+        "show_less": "Show Less"
+      }
+    },
+    "sections": {
+      "slideshow": {
+        "next_slide": "Next slide",
+        "previous_slide": "Previous slide",
+        "pause_slideshow": "Pause slideshow",
+        "play_slideshow": "Play slideshow",
+        "play_video": "Play video",
+        "close_video": "Close video"
+      },
+      "map": {
+        "address_error": "Error looking up that address",
+        "address_no_results": "No results for that address",
+        "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a>.",
+        "auth_error_html": "There was a problem authenticating your Google Maps account."
+      }
+    },
+    "blogs": {
+      "article": {
+        "view_all": "View all",
+        "all_topics": "All topics",
+        "by_author": "by {{ author }}",
+        "posted_in": "Posted in",
+        "read_more": "Read more",
+        "back_to_blog": "Back to {{ title }}"
+      },
+      "comments": {
+        "title": "Leave a comment",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "post": "Post comment",
+        "moderated": "Please note, comments must be approved before they are published",
+        "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+        "success": "Your comment was posted successfully! Thank you!",
+        "comments_with_count": {
+          "one": "{{ count }} comment",
+          "other": "{{ count }} comments"
+        }
+      }
+    },
+    "cart": {
+      "general": {
+        "title": "您的购物车",
+        "remove": "移除",
+        "subtotal": "合计",
+        "savings": "共节省",
+        "shipping_at_checkout": "折扣码，运费将在支付页面显示",
+        "update": "更新",
+        "checkout": "安全支付",
+        "empty": "您的购物车目前没有任何商品",
+        "cookies_required": "启用 cookie 以使用购物车",
+        "edit": "编辑",
+        "cancel": "取消",
+        "continue_shopping": "继续购物"
+      },
+      "label": {
+        "product": "商品",
+        "price": "价格",
+        "quantity": "数量",
+        "total": "总共"
+      },
+      "additional": {
+        "cart_note": "",
+        "cart_subtitle": "-",
+        "cart_important_message": "如果下单时遇到任何问题，请发送邮件至support-cn@naturecan.com",
+        "cart_additional_terms_text": "-",
+        "cart_discount_message": "折扣码，运费将在支付页面显示",
+        "cart_bottom_text": "Payments will appear on your statement as NaturecanCN441615330707"
+      }
+    },
+    "checkout": {
+      "confirmation_page": {
+        "create_an_account": "建立新账号",
+        "create_account_description": "Create an account with us today where you can track your order and join our referral scheme.",
+        "create_account_button": "注册",
+        "view_your_account": "查看账号",
+        "view_account_description": "You can track your order from your account page.",
+        "view_account_button": "查看账号"
+      }
+    },
+    "collections": {
+      "general": {
+        "view_all": "查看全部",
+        "no_matches": "抱歉，此页面暂时没有产品",
+        "items_with_count": {
+          "one": "{{ count }} product",
+          "other": "{{ count }} products"
+        }
+      },
+      "sorting": {
+        "title": "排序",
+        "featured": "Featured",
+        "best_selling": "热卖",
+        "az": "按字母排序从A到Z",
+        "za": "按字母排序从Z到A",
+        "price_ascending": "按价格从低到高",
+        "price_descending": "按价格从高到低",
+        "date_descending": "日期：最新上架",
+        "date_ascending": "日期：最早上架"
+      },
+      "filters": {
+        "title_tags": "Filter",
+        "all_tags": "所有商品"
+      }
+    },
+    "contact": {
+      "form": {
+        "name": "姓名",
+        "email": "邮件",
+        "phone": "电话号码",
+        "message": "消息",
+        "submit": "发送",
+        "post_success": "非常感谢您的信息，我们相关团队会尽快回复您。"
+      }
+    },
+    "customer": {
+      "account": {
+        "title": "我的账户",
+        "details": "账户信息",
+        "view_addresses": "查看地址",
+        "return": "返回账户信息"
+      },
+      "activate_account": {
+        "title": "激活账户",
+        "subtext": "创建密码激活账户",
+        "password": "密码",
+        "password_confirm": "确认密码",
+        "submit": "激活账户",
+        "cancel": "拒绝邀请"
+      },
+      "addresses": {
+        "title": "您的地址",
+        "default": "默认",
+        "add_new": "添加新地址",
+        "edit_address": "编辑地址",
+        "first_name": "名",
+        "last_name": "姓",
+        "company": "公司",
+        "address1": "第一行",
+        "address2": "第二行",
+        "city": "城市",
+        "country": "国家",
+        "province": "省",
+        "zip": "邮编",
+        "phone": "电话",
+        "set_default": "设为默认地址",
+        "add": "添加",
+        "update": "更新",
+        "cancel": "取消",
+        "edit": "编辑",
+        "delete": "删除",
+        "delete_confirm": "您确定删除此地址吗？"
+      },
+      "login": {
+        "title": "登录",
+        "email": "邮件",
+        "password": "密码",
+        "forgot_password": "忘记密码？",
+        "sign_in": "注册",
+        "guest_title": "以访客身份结账",
+        "guest_continue": "继续"
+      },
+      "orders": {
+        "title": "订单历史",
+        "order_number": "订单号",
+        "date": "日期",
+        "payment_status": "付款状态",
+        "fulfillment_status": "Fulfillment Status",
+        "total": "总共",
+        "none": "您还未下单"
+      },
+      "order": {
+        "title": "Order {{ name }}",
+        "date": "Placed on {{ date }}",
+        "cancelled": "Order Cancelled on {{ date }}",
+        "cancelled_reason": "Reason: {{ reason }}",
+        "billing_address": "Billing Address",
+        "payment_status": "Payment Status",
+        "shipping_address": "寄送地址",
+        "fulfillment_status": "Fulfillment Status",
+        "discount": "节省金额",
+        "shipping": "Shipping",
+        "tax": "Tax",
+        "product": "Product",
+        "sku": "SKU",
+        "price": "Price",
+        "quantity": "Quantity",
+        "total": "Total",
+        "fulfilled_at": "Fulfilled {{ date }}",
+        "subtotal": "合计",
+        "track_shipment": "Track shipment"
+      },
+      "recover_password": {
+        "title": "Reset your password",
+        "email": "Email",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "subtext": "We will send you an email to reset your password.",
+        "success": "We've sent you an email with a link to update your password."
+      },
+      "reset_password": {
+        "title": "重设账户密码",
+        "subtext": "Enter a new password for {{ email }}",
+        "password": "密码",
+        "password_confirm": "确认密码",
+        "submit": "重设密码"
+      },
+      "register": {
+        "title": "创建账户",
+        "first_name": "名",
+        "last_name": "姓",
+        "email": "邮箱地址",
+        "password": "密码",
+        "submit": "提交"
+      }
+    },
+    "homepage": {
+      "onboarding": {
+        "product_title": "Your product's name",
+        "product_description": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+        "collection_title": "Your collection's name",
+        "blog_title": "Your post's title",
+        "blog_excerpt": "Your store hasn’t published any blog posts yet. A blog can be used to talk about new product launches, tips, or other news you want to share with your customers. You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and blog.",
+        "blog_author": "Author name",
+        "no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar."
+      }
+    },
+    "layout": {
+      "navigation": {
+        "search": "搜索",
+        "toggle": "展开\/收起",
+        "expand": "展开",
+        "collapse": "收起"
+      },
+      "cart": {
+        "title": "Cart",
+        "items_count": {
+          "one": "item",
+          "other": "items"
+        }
+      },
+      "customer": {
+        "account": "账户",
+        "log_out": "登出",
+        "log_in": "登入",
+        "create_account": "创建账户"
+      },
+      "footer": {
+        "social_platform": "{{ name }} on {{ platform }}"
+      }
+    },
+    "products": {
+      "product": {
+        "regular_price": "零售价",
+        "sold_out": "已售罄",
+        "unavailable": "Unavailable",
+        "on_sale": "特价",
+        "quantity": "数量",
+        "add_to_cart": "加入购物车",
+        "back_to_collection": "返回 {{ title }}"
+      },
+      "reviews": {
+        "average": "分数",
+        "reviews": "评论",
+        "no_reviews": "暂无评论",
+        "more_ratings": "More ratings",
+        "no_comments": "暂无评论",
+        "reply_from": "Reply from",
+        "posted": "评论来自",
+        "write_review": "写评论",
+        "show": "展示",
+        "details": "",
+        "rate_this_product": "为商品打分",
+        "select_product": "选择商品",
+        "write_review_placeholder": "请在这里填写评论",
+        "submit_review": "提交评论",
+        "your_name_placeholder": "姓名",
+        "email_address_placeholder": "邮箱地址",
+        "thank_you_for_your_review": "<strong>Thank you for your review.<\/strong>",
+        "your_review_has_been_submitted": "Your review has been submitted.",
+        "reviews_count": "Reviews count",
+        "verified_buyer": "Verified buyer",
+        "verified_buyer_yes": "Verified buyer: Yes",
+        "verified_buyer_no": "Verified buyer: No",
+        "anonymous_reviewer_name": "Anonymous"
+      }
+    },
+    "gift_cards": {
+      "issued": {
+        "title_html": "Here's your {{ value }} gift card for {{ shop }}!",
+        "subtext": "Your gift card",
+        "disabled": "Disabled",
+        "expired": "Expired on {{ expiry }}",
+        "active": "Expires on {{ expiry }}",
+        "redeem_html": "Use this code at checkout to redeem your {{ value }} gift card",
+        "shop_link": "Start shopping",
+        "print": "Print this gift card",
+        "remaining_html": "{{ balance }} left",
+        "add_to_apple_wallet": "Add to Apple Wallet"
+      }
+    },
+    "date_formats": {
+      "month_day_year": "%B %d, %Y"
+    },
+    "product_filter_search": {
+      "refine": "Refine By",
+      "refine_mobile": "Refine By",
+      "refine_mobile_collapse": "Hide Filter",
+      "clear": "Clear",
+      "clear_all": "Clear All",
+      "apply": "Apply",
+      "close": "Close",
+      "show_result": "Show Result",
+      "sale": "Sale",
+      "sold_out": "Sold Out",
+      "from": "from",
+      "breadcrumb_home": "Home",
+      "load_more": "Load more",
+      "show_limit": "Show",
+      "collection_all": "All",
+      "price_under": "Under",
+      "price_above": "Above",
+      "search_general_title": "Search",
+      "search_result_header": "Search Results for \"{{ terms }}\"",
+      "search_result_empty": "Your search for \"{{ terms }}\" didn't match any results",
+      "search_result_number": "Showing {{ count }} results for \"{{ terms }}\"",
+      "suggestion_popular_header": "Popular Suggestions",
+      "suggestion_product_header": "Products",
+      "suggestion_did_you_mean_header": "Did you mean",
+      "suggestion_view_all": "View all results",
+      "error_no_filter_result": "Sorry, no products matched your selection",
+      "error_no_search_result": "Sorry, no products matched the keyword",
+      "error_no_products": "No products found in this collection"
+    },
+    "pagefly": {
+      "products": {
+        "product": {
+          "regular_price": "Regular price",
+          "sold_out": "Sold out",
+          "unavailable": "Unavailable",
+          "on_sale": "Sale",
+          "quantity": "Quantity",
+          "add_to_cart": "Add to cart",
+          "back_to_collection": "Back to {{ title }}",
+          "view_details": "View details"
+        }
+      },
+      "article": {
+        "tags": "Tags:",
+        "all_topics": "All topics",
+        "by_author": "by {{ author }}",
+        "posted_in": "Posted in",
+        "read_more": "Read more",
+        "back_to_blog": "Back to {{ title }}"
+      },
+      "comments": {
+        "title": "Leave a comment",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "post": "Post comment",
+        "moderated": "Please note, comments must be approved before they are published",
+        "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+        "success": "Your comment was posted successfully! Thank you!",
+        "comments_with_count": {
+          "one": "{{ count }} comment",
+          "other": "{{ count }} comments"
+        }
+      },
+      "password_page": {
+        "login_form_message": "Enter store using password:",
+        "login_form_password_label": "Password",
+        "login_form_password_placeholder": "Your password",
+        "login_form_submit": "Enter",
+        "signup_form_email_label": "Email",
+        "signup_form_success": "We will send you an email right before we open!",
+        "password_link": "Enter using password"
+      }
+    },
+    "shopify": {
+      "checkout": {
+        "contact": {
+          "shipping_address_title": "寄送地址",
+          "email_label": "邮箱地址",
+          "email_or_phone_label": "邮箱地址或微信号",
+          "email_or_phone_placeholder": "邮箱地址或微信号",
+          "first_name_label": "名",
+          "optional_first_name_label": "名",
+          "last_name_label": "姓",
+          "company_label": "公司",
+          "optional_company_label": "公司（选填）",
+          "address1_label": "地址",
+          "address2_label": "楼层 \/ 门牌",
+          "optional_address2_label": "楼层 \/ 门牌",
+          "city_label": "城市",
+          "country_label": "国家\/地区",
+          "country_code": "国家\/地区",
+          "province_label": "省份",
+          "province_placeholder": "省份",
+          "phone_label": "手机号\/微信号",
+          "postcode_label": "邮编",
+          "postcode_placeholder": "邮编",
+          "phone_tooltip": "客服将通过这个方式联系您完成订单"
+        },
+        "delivery_options": {
+          "shipping_address": "寄送地址"
+        },
+        "payment": {
+          "same_billing_address_label": "与寄送地址相同"
+        },
+        "thank_you": {
+          "contact_information_title": "联系方式"
+        },
+        "order_summary": {
+          "subtotal_label": "合计",
+          "discount_title": "节省金额",
+          "discount_label": "折扣码",
+          "discount_placeholder": "输入折扣码",
+          "apply_discount_button_label": "添加",
+          "shipping_label": "运费",
+          "shipping_default_value": "将在下一步计算"
+        },
+        "marketing": {
+          "accept_marketing_checkbox_label": "如填写邮箱，勾选即代表同意接收上新，大促等消息"
+        }
+      }
+    },
+    "customer_accounts": {
+      "B2B": {
+        "draft_order_details": {
+          "payment_status": {
+            "confirmed": {
+              "overdue": {
+                "one": "",
+                "other": ""
+              },
+              "soon": {
+                "one": "",
+                "other": ""
+              },
+              "title": "",
+              "today": ""
+            },
+            "notification": ""
+          }
+        }
+      }
+    }
+  }

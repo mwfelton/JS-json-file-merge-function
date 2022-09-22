@@ -1,0 +1,693 @@
+{
+  "custom": {
+    "tags": {
+      "gtm": "GTM-P6SQDJT",
+      "site_verification": "-",
+      "pingdom": "-",
+      "quora": "-",
+      "google_optimize": "-"
+    },
+    "wording": {
+      "country_name": "Filipino",
+      "country_emoji": "PH",
+      "price_per_mg": "Price Per Mg",
+      "checkout_now": "Checkout Now",
+      "low_thc": "Ultra Low THC",
+      "3rd_party": "Third Party Testing",
+      "vegetarian": "100% Vegetarian",
+      "labdoor": "A+ Labdoor Rating",
+      "one_tree_planted": "Buy One Plant One",
+      "bundles": "Bundle Deal",
+      "free_delivery": "Free Delivery",
+      "hemp": "100% USA Grown Hemp",
+      "zero_thc": "Zero THC",
+      "gmo_free": "GMO Free",
+      "100_vegan": "100% Vegan",
+      "7_step_test": "7 Step Test",
+      "i_agree_with_the": "Sumasang-ayon ako sa ",
+      "terms_and_conditions": "Mga Tuntunin at Kundisyon",
+      "discount_message": "Ang mga diskwento, pagpapadala at mga tax code ay kinakalkula sa pag-checkout",
+      "important_message": "If you have problems placing an order via a card (e.g. Visa, Mastercard) please use the bank transfer option",
+      "homepage_h1": "Bumili ng CBD Oil Philippines",
+      "dispatch": "Ready for dispatch 3 - 5 working days Delivery Time. Shipped by DHL"
+    }
+  },
+  "general": {
+    "404": {
+      "title": "Pahinang  404 Hindi Natagpuan ang Pahina",
+      "subtext": "Ang pahinang iyong hiniling ay wala",
+      "link": "Ipagpatuloy Ang Pamimili"
+    },
+    "accessibility": {
+      "skip_to_content": "Lumaktaw sa nilalaman",
+      "close_modal": "Isara (esc)"
+    },
+    "meta": {
+      "tags": "Tagged \"{{ tags }}\"",
+      "page": "Pahina {{ page }}"
+    },
+    "pagination": {
+      "previous": "Nakaraan",
+      "next": "Susunod",
+      "current_page": "Pahina {{ current }} of {{ total }}"
+    },
+    "password_page": {
+      "opening_soon": "Opening Soon",
+      "login_form_heading": "Enter store using password",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "admin_link_html": "Are you the store owner? <a href=\"\/admin\" class=\"text-link\">Log in here<\/a>",
+      "password_link": "Enter using password",
+      "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
+    },
+    "social": {
+      "share_on_facebook": "Share",
+      "share_on_twitter": "Tweet",
+      "share_on_pinterest": "Pin it",
+      "alt_text": {
+        "share_on_facebook": "Share on Facebook",
+        "share_on_twitter": "Tweet on Twitter",
+        "share_on_pinterest": "Pin on Pinterest"
+      }
+    },
+    "search": {
+      "no_results_html": "Ang iyong paghahanap para sa \"{{ terms }}\" ay hindi tumugma sa anumang mga resulta.",
+      "results_with_count": {
+        "one": "{{ count }} result for \"{{ terms }}\"",
+        "other": "{{ count }} results for \"{{ terms }}\""
+      },
+      "title": "Maghanap sa aming site",
+      "placeholder": "Paghahanap",
+      "submit": "Submit",
+      "close": "Isara ang paghahanap",
+      "from": "from"
+    },
+    "newsletter_form": {
+      "newsletter_email": " Sumali sa aming listahan ng pag-email",
+      "email_placeholder": "Email address",
+      "confirmation": "Salamat sa pag-subscribe",
+      "submit": "Mag-subscribe"
+    },
+    "filters": {
+      "show_more": "Ipakita ang Higit Pa",
+      "show_less": "Ipakita ang Mas kaunti"
+    }
+  },
+  "sections": {
+    "slideshow": {
+      "next_slide": "Next slide",
+      "previous_slide": "Previous slide",
+      "pause_slideshow": "Pause slideshow",
+      "play_slideshow": "Play slideshow",
+      "play_video": "Play video",
+      "close_video": "Isara video"
+    },
+    "map": {
+      "address_error": "Error looking up that address",
+      "address_no_results": "No results for that address",
+      "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a>.",
+      "auth_error_html": "There was a problem authenticating your Google Maps account."
+    }
+  },
+  "blogs": {
+    "article": {
+      "view_all": "Tingnan lahat",
+      "all_topics": "Lahat ng Mga Paksa",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Magbasa nang higit pa",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Ang iyong cart",
+      "note": "Add a note to your order",
+      "remove": "Remove",
+      "subtotal": "Subtotal",
+      "savings": "You're saving",
+      "shipping_at_checkout": "Ang mga diskwento, pagpapadala at mga code sa buwis ay kinakalkula sa pag-checkout",
+      "update": "I-Update",
+      "checkout": "Check out",
+      "empty": "Ang iyong cart ay kasalukuyang walang laman",
+      "cookies_required": "Enable cookies to use the shopping cart",
+      "edit": "I-edit",
+      "cancel": "Ikansela",
+      "continue_shopping": "Ipagpatuloy Ang Pamimili"
+    },
+    "label": {
+      "product": "Produkto",
+      "price": "Presyo",
+      "quantity": "Dami",
+      "total": "Kabuuan"
+    },
+    "additional": {
+      "cart_note": "Add a note to your order",
+      "cart_subtitle": "-",
+      "cart_important_message": "If you have problems placing an order via a card (e.g. Visa, Mastercard) please use the bank transfer option",
+      "cart_additional_terms_text": "-",
+      "cart_discount_message": "Ang mga diskwento, pagpapadala at mga code sa buwis ay kinakalkula sa pag-checkout",
+      "cart_bottom_text": "-"
+    }
+  },
+  "checkout": {
+    "confirmation_page": {
+      "create_an_account": "Create an account",
+      "create_account_description": "Create an account with us today where you can track your order and join our referral scheme.",
+      "create_account_button": "Sign up",
+      "view_your_account": "View your account",
+      "view_account_description": "You can track your order from your account page.",
+      "view_account_button": "View account"
+    }
+  },
+  "collections": {
+    "general": {
+      "view_all": "Tingnan lahat",
+      "no_matches": "Paumanhin, walang mga produkto sa koleksyon na ito",
+      "items_with_count": {
+        "one": "{{ count }} product",
+        "other": "{{ count }} products"
+      }
+    },
+    "sorting": {
+      "title": "Sort",
+      "featured": "Featured",
+      "best_selling": "Best Selling",
+      "az": "Alphabetically, A-Z",
+      "za": "Alphabetically, Z-A",
+      "price_ascending": "Price, low to high",
+      "price_descending": "Price, high to low",
+      "date_descending": "Date, new to old",
+      "date_ascending": "Date, old to new"
+    },
+    "filters": {
+      "title_tags": "Filter",
+      "all_tags": "All products"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Pangalan",
+      "email": "Email",
+      "phone": "Numero ng telepono",
+      "message": "Mensahe",
+      "submit": "Magpadala",
+      "post_success": "Thanks for contacting us. We'll get back to you as soon as possible."
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Aking Account",
+      "details": "Mga Detalye ng Account",
+      "view_addresses": "Tingnan ang Mga Adres",
+      "return": "Bumalik sa mga detalye ng account"
+    },
+    "activate_account": {
+      "title": "Paganahin ang account",
+      "subtext": "Lumikha ng iyong password upang maging aktibo ang iyong account",
+      "password": "Password",
+      "password_confirm": "Kumpirmahin ang password",
+      "submit": "Paganahin ang account",
+      "cancel": "Tanggihan ang paanyaya"
+    },
+    "addresses": {
+      "title": "Ang iyong Adres",
+      "default": "Default",
+      "add_new": "Magdagdag ng isang bagong adres",
+      "edit_address": "I-edit ang adres",
+      "first_name": "Pangalan",
+      "last_name": "Huling pangalan",
+      "company": "Company",
+      "address1": "Address1",
+      "address2": "Address2",
+      "city": "Lungsod",
+      "country": "Bansa",
+      "province": "Province",
+      "zip": "Postal\/Zip Code",
+      "phone": "Telepono",
+      "set_default": "Itakda bilang default na adres",
+      "add": "Magdagdag ng adres",
+      "update": "I-update ang adres",
+      "cancel": "Ikansela",
+      "edit": "I-edit",
+      "delete": "Tanggalin",
+      "delete_confirm": "Sigurado ka bang nais mong tanggalin ang adres na ito?"
+    },
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "forgot_password": "Nakalimutan ang iyong password?",
+      "sign_in": "Mag-sign in",
+      "guest_title": "Magpatuloy bilang isang panauhin",
+      "guest_continue": "Magpatuloy"
+    },
+    "orders": {
+      "title": "Kasaysayan ng Order",
+      "order_number": "Order",
+      "date": "Petsa",
+      "payment_status": "Katayuan sa Pagbabayad",
+      "fulfillment_status": "Katayuan ng katuparan",
+      "total": "Total",
+      "none": "You haven't placed any orders yet."
+    },
+    "order": {
+      "title": "Order {{ name }}",
+      "date": "Placed on {{ date }}",
+      "cancelled": "Order Cancelled on {{ date }}",
+      "cancelled_reason": "Reason: {{ reason }}",
+      "billing_address": "Adres sa Pagsingil",
+      "payment_status": "Katayuan sa Pagbabayad",
+      "shipping_address": "Adres sa Pagpapadala",
+      "fulfillment_status": "Katayuan ng katuparan",
+      "discount": "Diskwento",
+      "shipping": "Pagpapadala",
+      "tax": "Buwis",
+      "product": "Produkto",
+      "sku": "SKU",
+      "price": "Presyo",
+      "quantity": "Dami",
+      "total": "Kabuuan",
+      "fulfilled_at": "Fulfilled {{ date }}",
+      "subtotal": "Subtotal",
+      "track_shipment": "Subaybayan ang pagpapadala"
+    },
+    "recover_password": {
+      "title": "I-reset ang iyong password",
+      "email": "Email",
+      "submit": "Submit",
+      "cancel": "Ikansela",
+      "subtext": "Padadalhan ka namin ng isang email upang i-reset ang iyong password.",
+      "success": "We've sent you an email with a link to update your password."
+    },
+    "reset_password": {
+      "title": "I-reset ang iyong password",
+      "subtext": "Enter a new password for {{ email }}",
+      "password": "Password",
+      "password_confirm": "Confirm Password",
+      "submit": "Reset Password"
+    },
+    "register": {
+      "title": "Create Account",
+      "first_name": "Pangalan",
+      "last_name": "Huling pangalan",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Create"
+    }
+  },
+  "homepage": {
+    "onboarding": {
+      "product_title": "Your product's name",
+      "product_description": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+      "collection_title": "Your collection's name",
+      "blog_title": "Your post's title",
+      "blog_excerpt": "Your store hasn’t published any blog posts yet. A blog can be used to talk about new product launches, tips, or other news you want to share with your customers. You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and blog.",
+      "blog_author": "Author name",
+      "no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar."
+    }
+  },
+  "layout": {
+    "navigation": {
+      "search": "Paghahanap",
+      "toggle": "expand\/collapse",
+      "expand": "expand",
+      "collapse": "collapse"
+    },
+    "cart": {
+      "title": "Cart",
+      "items_count": {
+        "one": "item",
+        "other": "items"
+      }
+    },
+    "customer": {
+      "account": "Account",
+      "log_out": "Mag-log out",
+      "log_in": "Mag log in",
+      "create_account": "Create account"
+    },
+    "footer": {
+      "social_platform": "{{ name }} on {{ platform }}"
+    }
+  },
+  "products": {
+    "product": {
+      "regular_price": "Regular price",
+      "sold_out": "Ubos na",
+      "unavailable": "Hindi magagamit",
+      "on_sale": "Sale",
+      "quantity": "Dami",
+      "add_to_cart": "Idagdag sa cart",
+      "back_to_collection": "Back to {{ title }}"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title_html": "Here's your {{ value }} gift card for {{ shop }}!",
+      "subtext": "Your gift card",
+      "disabled": "Disabled",
+      "expired": "Expired on {{ expiry }}",
+      "active": "Expires on {{ expiry }}",
+      "redeem_html": "Use this code at checkout to redeem your {{ value }} gift card",
+      "shop_link": "Start shopping",
+      "print": "Print this gift card",
+      "remaining_html": "{{ balance }} left",
+      "add_to_apple_wallet": "Add to Apple Wallet"
+    }
+  },
+  "date_formats": {
+    "month_day_year": "%B %d, %Y"
+  },
+  "product_filter_search": {
+    "refine": "Refine By",
+    "refine_mobile": "Refine By",
+    "refine_mobile_collapse": "Hide Filter",
+    "clear": "Clear",
+    "clear_all": "Clear All",
+    "apply": "Mag-apply",
+    "close": "Isara",
+    "show_result": "Show Result",
+    "sale": "Sale",
+    "sold_out": "Ubos na",
+    "from": "from",
+    "breadcrumb_home": "Home",
+    "load_more": "Load more",
+    "show_limit": "Show",
+    "collection_all": "All",
+    "price_under": "Under",
+    "price_above": "Above",
+    "search_general_title": "Search",
+    "search_result_header": "Search Results for \"{{ terms }}\"",
+    "search_result_empty": "Ang iyong paghahanap para sa \"{{ terms }}\" ay hindi tumugma sa anumang mga resulta.",
+    "search_result_number": "Showing {{ count }} results for \"{{ terms }}\"",
+    "suggestion_popular_header": "Popular Suggestions",
+    "suggestion_product_header": "Products",
+    "suggestion_did_you_mean_header": "Did you mean",
+    "suggestion_view_all": "View all results",
+    "error_no_filter_result": "Sorry, no products matched your selection",
+    "error_no_search_result": "Sorry, no products matched the keyword",
+    "error_no_products": "No products found in this collection"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "cart": "Cart",
+        "back_to_cart": "Bumalik sa cart",
+        "continue_to_payment_method": "Magpatuloy sa pagbabayad",
+        "back_to_contact_information": "Bumalik sa impormasyon",
+        "back_to_shipping_method": "Bumalik sa pagpapadala",
+        "complete_purchase_button_label": "Kumpletong order",
+        "continue_to_shipping_method": "Magpatuloy sa Pagpapadala",
+        "page_title": "Checkout",
+        "error_page_title": "Error",
+        "pay_now_button_label": "Bayaran na ngayon",
+        "expand_notice_label": "Tingnan pa",
+        "continue_to_review": "Suriin ang order",
+        "choose_payment_method": "Pumili ng paraan ng pagbabayad",
+        "choose_billing_address": "Pumili ng isang adres sa pagsingil",
+        "autocomplete_title": "Mga Mungkahi",
+        "contact_us_html": "Makipag-ugnayan sa amin para sa karagdagang impormasyon",
+        "forwarding_indicator": {
+          "new_window": "Magbubukas sa isang bagong window",
+          "external": "Magbubukas ng panlabas na website"
+        },
+        "skip_to_content": "Lumaktaw sa nilalaman",
+        "close_modal_label": "Isara",
+        "close_notice_label": "Isara",
+        "edit_link_label": "I-edit",
+        "continue_button_label": "Magpatuloy",
+        "back_to_payment_method": "Bumalik sa pagbabayad"
+      },
+      "payment": {
+        "same_billing_address_label": "Kapareho ng address sa pagpapadala",
+        "different_billing_address_label": "Gumamit ng ibang address sa pagsingil",
+        "name_on_card_label": "Pangalan sa card",
+        "name_on_card_placeholder": "Pangalan sa card",
+        "billing_address_title": "Adres sa Pagsingil",
+        "discount_button_action_label": "Mag-apply ng code ng diskwento",
+        "apply_gift_card_button_label": "Mag-apply",
+        "card_change_label": "Magbago",
+        "billing_address_description": "Piliin ang address na tumutugma sa iyong card o paraan ng pagbabayad.",
+        "card_security_notice": "Ang lahat ng mga transaksyon ay ligtas at naka-encrypt.",
+        "card_information_notice": "Ang lahat ng mga transaksyon ay ligtas at naka-encrypt. Ang impormasyon sa credit card ay hindi kailanman naimbak.",
+        "offsite_gateway_redirect_hint": "Matapos i-click ang “{{ button_label }}”, mai-redirect ka sa Credit at Credit Card upang ligtas na makumpleto ang iyong pagbili.",
+        "amazon_payments_could_not_enqueue_authorize": "Nagkaroon ng isyu sa pagpoproseso ng iyong pagbabayad. Subukang muli o gumamit ng ibang paraan ng pagbabayad",
+        "card_start_label": "Petsa ng pag-isyu (MM\/YY)",
+        "card_start_placeholder": "Petsa ng pag-isyu (MM\/YY)",
+        "card_expiry_label": "Petsa ng pag-expire (MM\/YY)",
+        "card_expiry_placeholder": "Petsa ng pag-expire (MM\/YY)"
+      },
+      "failed_payment": {
+        "return_to_cart_button_label": "Bumalik sa cart"
+      },
+      "thank_you": {
+        "return_to_store_link_label": "Ipagpatuloy Ang Pamimili",
+        "login": "Mag log in",
+        "contact_information_title": "Impormasyon sa pakikipag-ugnay",
+        "contact_us": "Makipag-ugnayan sa amin",
+        "contact_us_lowercase": "Makipag-ugnayan sa amin",
+        "billing_address_title": "Address sa pagsingil",
+        "shipping_address_title": "Address sa pagpapadala",
+        "marker": {
+          "shipping": "Address sa pagpapadala"
+        },
+        "shipping_method_title": "Pamamaraan ng Pagpapadala",
+        "page_title_no_name": "Salamat!",
+        "title": "Salamat sa iyong pagbili!",
+        "track_shipment": "Subaybayan ang pagpapadala"
+      },
+      "contact": {
+        "contact_method_title": "Impormasyon sa pakikipag-ugnay",
+        "title": "Impormasyon",
+        "address_title": "Address ",
+        "shipping_address_title": "Adres sa Pagpapadala",
+        "first_name_label": "Pangalan",
+        "optional_first_name_label": "Pangalan (opsyonal)",
+        "last_name_label": "Huling pangalan",
+        "address1_label": "Address",
+        "address2_label": "Apartment, suite, atbp.",
+        "optional_address2_label": "Apartment, suite, atbp.(opsyonal)",
+        "city_label": "Lungsod",
+        "country_label": "Bansa \/ rehiyon",
+        "country_code": "Code ng bansa \/ rehiyon",
+        "region_label": "Rehiyon",
+        "region_placeholder": "Rehiyon",
+        "phone_label": "Telepono",
+        "optional_phone_label": "Telepono (opsyonal)",
+        "phone_placeholder": "Telepono",
+        "postal_code_label": "Postcode",
+        "postal_code_placeholder": "Postcode",
+        "postcode_label": "Postcode",
+        "postcode_placeholder": "Postcode",
+        "email_or_phone_label": "Email o numero ng mobile phone",
+        "email_or_phone_placeholder": "Email o numero ng mobile phone",
+        "email_label": "Email",
+        "email_placeholder": "Email",
+        "stored_addresses_label": "Nai-save na mga adres",
+        "new_address_label": "Gumamit ng isang bagong adres"
+      },
+      "delivery_options": {
+        "shipping_address": "Adres sa Pagpapadala"
+      },
+      "customer_account": {
+        "have_an_account_label": "Mayroon nang account?",
+        "save_my_information_label": "I-save ang impormasyong ito para sa ibang pagkakataon",
+        "sign_in_link_label": "Mag log in",
+        "sign_out_link_label": "Mag-log out"
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Panatilihing napapanahon ako sa mga balita at eksklusibong alok"
+      },
+      "order_summary": {
+        "subtotal_label": "Subtotal",
+        "discount_label": "Code ng diskwento",
+        "discount_placeholder": "Code ng diskwento",
+        "apply_discount_button_label": "Mag-apply",
+        "applied_free_shipping_discount_label": "Inilapat",
+        "shipping_default_value": "Nakalkula sa susunod na hakbang",
+        "total_label": "Kabuuan",
+        "partial_total_label": "Kabuuan",
+        "product_change_label": "Magbago",
+        "title": "Buod ng order",
+        "order_name_label": "Order {{ name }}",
+        "discount_title": "Diskwento",
+        "shipping_label": "Pagpapadala",
+        "taxes_label": "Buwis"
+      },
+      "field_errors": {
+        "address_first_name_blank": "Maglagay ng unang pangalan",
+        "address_last_name_blank": "Maglagay ng apelyido"
+      },
+      "payment_summary": {
+        "billing_address_title": "Address sa pagsingil"
+      },
+      "stock": {
+        "go_back_to_cart_button_label": "Bumalik sa cart",
+        "title": "Wala nang stock",
+        "product_column_header": "Mga produkto",
+        "quantity_column_header": "Dami",
+        "price_column_header": "Presyo",
+        "sold_out_label": "Ubos na",
+        "items_unavailable_notice": "Ang ilang mga item ay hindi na magagamit. Ang iyong cart ay nai-update",
+        "removed_from_cart_notice": "Inalis mula sa cart",
+        "remove_from_cart_button_label": "Alisin mula sa cart",
+        "continue_shopping_button_label": "Magpatuloy"
+      },
+      "review": {
+        "blocks": {
+          "change_link_label": "Magbago",
+          "billing_address_title": "Pagsingil"
+        },
+        "checkout_as_guest": "Pag-checkout bilang panauhin"
+      },
+      "shipping": {
+        "shipping_method_title": "Pamamaraan ng Pagpapadala",
+        "title": "Pagpapadala"
+      },
+      "processing": {
+        "continue_to_payment_gateway_button_label": "Magpatuloy sa pagbabayad",
+        "continue_to_payment_gateway_notice": "Magpatuloy sa pagbabayad upang idagdag ang iyong impormasyon sa pagbabayad",
+        "your_order_has_been_received_title": "Salamat sa iyong order"
+      },
+      "payment_errors": {
+        "order_total_changed": "Ang kabuuan ng iyong order ay nagbago. I-refresh ang iyong cart at subukang muli."
+      },
+      "post_purchase": {
+        "components": {
+          "close": "Isara",
+          "expand": "Ipakita ang Higit Pa"
+        }
+      },
+      "alternative_payment_method_banner": {
+        "or": "at"
+      },
+      "customer_payment_methods": {
+        "delete_customer_mandate": {
+          "generic_error": "Mayroong isang isyu sa pagpoproseso ng iyong kahilingan"
+        }
+      }
+    },
+    "page_titles": {
+      "search": "TINGNAN",
+      "not_found": "404 Hindi Natagpuan ang Pahina",
+      "shopping_cart": "Ang iyong cart",
+      "products": "Produkto",
+      "addresses": "Adres"
+    },
+    "attributes": {
+      "first_name": "Unang pangalan",
+      "last_name": "Huling pangalan",
+      "signature": "Address"
+    },
+    "addresses": {
+      "postcode": "Postcode",
+      "pincode": "Postcode",
+      "postal_code": "Postcode",
+      "region": "Rehiyon",
+      "confirm": "Sigurado ka bang nais mong tanggalin ang adres na ito?"
+    },
+    "collections": {
+      "sorting": {
+        "price_ascending": "Presyo, mababa hanggang mataas",
+        "price_descending": "Presyo, mataas hanggang mababa",
+        "date_ascending": "Date, low to high",
+        "date_descending": "Date, low to high",
+        "best_selling": "Pinakamahusay na nagbebenta",
+        "manual": "Itinatampok",
+        "az": "Alphabetikal, A-Z",
+        "za": "Alphabetikal, Z-A"
+      }
+    },
+    "filters": {
+      "availability": {
+        "value": {
+          "out_of_stock": "Wala nang stock"
+        }
+      },
+      "price": {
+        "label": "Presyo"
+      }
+    },
+    "sentence": {
+      "two_words_connector": " at",
+      "last_word_connector": ", at",
+      "words_connector": ","
+    },
+    "pagination": {
+      "previous": "Nakaraan",
+      "next": "Susunod"
+    },
+    "feed": {
+      "more": "Ipakita ang Higit Pa"
+    },
+    "search": {
+      "sorting": {
+        "price_ascending": "Presyo, mababa hanggang mataas",
+        "price_descending": "Presyo, mataas hanggang sa mababa"
+      }
+    }
+  }
+}

@@ -1,0 +1,1307 @@
+{
+  "custom": {
+    "tags": {
+      "gtm": "GTM-56QJG55",
+      "site_verification": "taV0mvXhKAo2QsZVxNf2UfcwGD2ESu6ZyDohF4v2APk",
+      "pingdom": "-",
+      "quora": "-",
+      "google_optimize": "-"
+    },
+    "wording": {
+      "country_name": "Bulgaria",
+      "country_emoji": "🇧🇬",
+      "price_per_mg": "Price Per Mg",
+      "checkout_now": "Checkout Now",
+      "low_thc": "<0.2% THC",
+      "3rd_party": "Third Party Testing",
+      "vegetarian": "100% Vegetarian",
+      "labdoor": "A+ Labdoor Rating",
+      "one_tree_planted": "Buy One Plant One",
+      "bundles": "Bundle Deal",
+      "free_delivery": "Free Delivery",
+      "hemp": "100% USA Grown Hemp",
+      "zero_thc": "Zero THC",
+      "gmo_free": "GMO Free",
+      "100_vegan": "100% Vegan",
+      "7_step_test": "7 Step Test",
+      "i_agree_with_the": "Съгласен съм с",
+      "terms_and_conditions": "общите условия",
+      "important_message": "If you have problems placing an order via a card (e.g. Visa, Mastercard) please use the bank transfer option",
+      "t1_footer_text": "CBD продуктите не са лекарства и не могат да диагностицират, лекуват или излекуват заболявания. Винаги се консултирайте със собствения си лекар, преди да започнете нова хранителна програма.",
+      "homepage_h1": "Купи масло от кбд България",
+      "dispatch": "Ready for dispatch 3 - 5 working days Delivery Time. Shipped by DHL"
+    }
+  },
+  "general": {
+    "404": {
+      "title": "404 Страницата не е открита",
+      "subtext": "Страницата, която търсите, не съществува",
+      "link": "Продължете да пазарувате"
+    },
+    "accessibility": {
+      "skip_to_content": "Преминете към съдържанието",
+      "close_modal": "Затворете страницата (esc)"
+    },
+    "meta": {
+      "tags": "Отблеязване \"{{ tags }}\"",
+      "page": "Страница {{ page }}"
+    },
+    "pagination": {
+      "previous": "Предишна",
+      "next": "Следваща",
+      "current_page": "Страница {{ current }} от {{ total }}"
+    },
+    "password_page": {
+      "opening_soon": "Отваряме скоро",
+      "login_form_heading": "Влезте в магазина с парола ",
+      "login_form_password_label": "Парола",
+      "login_form_password_placeholder": "Вашата парола",
+      "login_form_submit": "Въведете",
+      "signup_form_email_label": "Имейл адрес",
+      "signup_form_success": "Ние ще ви изпратим съобщение веднага след като отворим!",
+      "admin_link_html": "Вие ли сте собственика? <a href=\"\/admin\" class=\"text-link\">Логнете се оттук<\/a>",
+      "password_link": "Въведете парола",
+      "powered_by_shopify_html": "Този магазин се поддържа от {{ shopify }}"
+    },
+    "social": {
+      "share_on_facebook": "Споделете",
+      "share_on_twitter": "Tweet",
+      "share_on_pinterest": "Pin it",
+      "alt_text": {
+        "share_on_facebook": "Споделете във Facebook",
+        "share_on_twitter": "Споделете в Twitter",
+        "share_on_pinterest": "Споделете в Pinterest"
+      }
+    },
+    "search": {
+      "no_results_html": "Вашето търсене за \"{{ terms }}\" не откри нищо.",
+      "results_with_count": {
+        "one": "{{ count }} резултати за \"{{ terms }}\"",
+        "other": "{{ count }} резултати за \"{{ terms }}\""
+      },
+      "title": "Потърсете в нашия сайт",
+      "placeholder": "Търсете",
+      "submit": "Изпращане",
+      "close": "Затворете търсачката",
+      "from": "from"
+    },
+    "newsletter_form": {
+      "newsletter_email": "Присъединете се за нашия бюлетин",
+      "email_placeholder": "Имейл адрес",
+      "confirmation": "Благодарим Ви, че се абонирахте",
+      "submit": "Абонирайте се"
+    },
+    "filters": {
+      "show_more": "Покажи повече",
+      "show_less": "Покажи по-малко"
+    }
+  },
+  "sections": {
+    "slideshow": {
+      "next_slide": "Next slide",
+      "previous_slide": "Previous slide",
+      "pause_slideshow": "Pause slideshow",
+      "play_slideshow": "Play slideshow",
+      "play_video": "Play video",
+      "close_video": "Close video"
+    },
+    "map": {
+      "address_error": "Error looking up that address",
+      "address_no_results": "No results for that address",
+      "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a>.",
+      "auth_error_html": "There was a problem authenticating your Google Maps account."
+    }
+  },
+  "blogs": {
+    "article": {
+      "view_all": "Вижте всичко",
+      "all_topics": "Всички дискусии",
+      "by_author": "от {{ author }}",
+      "posted_in": "Публикувано",
+      "read_more": "Прочетете повече",
+      "back_to_blog": "Връщане към {{ title }}"
+    },
+    "comments": {
+      "title": "Напишете коментар",
+      "name": "Име",
+      "email": "Имейл адрес",
+      "message": "Съобщение",
+      "post": "Публикувай коментар",
+      "moderated": "Коментарите трябва да бъдат одобрени преди да бъдат публикувани",
+      "success_moderated": "Вашият коментар беше публикуван успешно. Ще го публикуваме след малко.",
+      "success": "Вашият коментар беше публикуван успешно! Благодарим Ви!",
+      "comments_with_count": {
+        "one": "{{ count }} коментар",
+        "other": "{{ count }} коментари"
+      }
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Вашата кошница",
+      "remove": "Премахнете",
+      "subtotal": "Междинна сума",
+      "savings": "Спестявате",
+      "shipping_at_checkout": "Кодове за отстъпка, доставка и допълнителни такси на касата ",
+      "update": "Актуализация",
+      "checkout": "Преминете към плащане",
+      "empty": "Вашата количка е празна",
+      "cookies_required": "Активирайте бисквитките, за да използвате пазарската количка",
+      "edit": "Редактирайте",
+      "cancel": "Откажете",
+      "continue_shopping": "Продължете да пазарувате"
+    },
+    "label": {
+      "product": "Продукт",
+      "price": "Цена",
+      "quantity": "Количество",
+      "total": "Обща сума"
+    },
+    "additional": {
+      "cart_note": "Добавете бележка към вашата поръчка",
+      "cart_subtitle": "-",
+      "cart_important_message": "If you have problems placing an order via a card (e.g. Visa, Mastercard) please use the bank transfer option",
+      "cart_additional_terms_text": "-",
+      "cart_discount_message": "Кодове за отстъпка, доставка и допълнителни такси на касата",
+      "cart_bottom_text": "-"
+    }
+  },
+  "checkout": {
+    "confirmation_page": {
+      "create_an_account": "Create an account",
+      "create_account_description": "Create an account with us today where you can track your order and join our referral scheme.",
+      "create_account_button": "Sign up",
+      "view_your_account": "View your account",
+      "view_account_description": "You can track your order from your account page.",
+      "view_account_button": "View account"
+    }
+  },
+  "collections": {
+    "general": {
+      "view_all": "Вижте всички",
+      "no_matches": "В тази колекция няма продукти",
+      "items_with_count": {
+        "one": "{{ count }} продукт",
+        "other": "{{ count }} продукти"
+      }
+    },
+    "sorting": {
+      "title": "Сортирайте",
+      "featured": "Препоръчани",
+      "best_selling": "Най-продавани",
+      "az": "По азбучен ред A-Z",
+      "za": "По азбучен ред  Z-A",
+      "price_ascending": "Цена, от ниска до висока",
+      "price_descending": "Цена, от висока до ниска",
+      "date_descending": "По дата, нови към стари",
+      "date_ascending": "По дата, стари към нови"
+    },
+    "filters": {
+      "title_tags": "Филтрирайте",
+      "all_tags": "Всички продукти"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Име",
+      "email": "Имейл адрес",
+      "phone": "Телефонен номер",
+      "message": "Съобщение",
+      "submit": "Изпратете",
+      "post_success": "Благодарим ви, че се свързахте с нас. Ще се свържем обратно с вас възможно най-скоро."
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Моят акаунт",
+      "details": "Детайли за акаунт",
+      "view_addresses": "Адреси",
+      "return": "Върнете се към детайли за акаунт"
+    },
+    "activate_account": {
+      "title": "Активен акаунт",
+      "subtext": "Създайте парола, за да активирате акаунта си.",
+      "password": "Парола",
+      "password_confirm": "Потвърдете парола",
+      "submit": "Активирайте акаунт",
+      "cancel": "Отхвърлете поканата"
+    },
+    "addresses": {
+      "title": "Адреси",
+      "default": "Постоянен",
+      "add_new": "Добавете нов адрес",
+      "edit_address": "Редактирайте адреса си",
+      "first_name": "Име",
+      "last_name": "Фамилия",
+      "company": "Компания",
+      "address1": "Адрес 1",
+      "address2": "Адрес 2",
+      "city": "Град",
+      "country": "Държава",
+      "province": "Квартал",
+      "zip": "Пощенски код",
+      "phone": "Телефонен номер",
+      "set_default": "Изберете адрес",
+      "add": "Добавете адрес",
+      "update": "Актуализирайте адрес",
+      "cancel": "Откажете",
+      "edit": "Редактирайте",
+      "delete": "Изтрийте",
+      "delete_confirm": "Наистина ли искате да изтриете този адрес?"
+    },
+    "login": {
+      "title": "Влезте в акаунт",
+      "email": "Имейл адрес",
+      "password": "Парола",
+      "forgot_password": "Забравили сте паролата си?",
+      "sign_in": "Впишете се",
+      "guest_title": "Продължете като гост",
+      "guest_continue": "Продължете"
+    },
+    "orders": {
+      "title": "История на поръчки",
+      "order_number": "Поръчка",
+      "date": "Дата",
+      "payment_status": "Статус на плащане",
+      "fulfillment_status": "Състояние на изпълнение",
+      "total": "Обща сума",
+      "none": "Все още не сте направили поръчки."
+    },
+    "order": {
+      "title": "Поръчка {{ name }}",
+      "date": "Заявена {{ date }}",
+      "cancelled": "Поръчка отказана {{ date }}",
+      "cancelled_reason": "Причина: {{ reason }}",
+      "billing_address": "Адрес на плащане",
+      "payment_status": "Статус на плащането",
+      "shipping_address": "Адрес за доставка",
+      "fulfillment_status": "Състояние на изпълнение",
+      "discount": "Отстъпка",
+      "shipping": "Доставка",
+      "tax": "Данъци",
+      "product": "Продукт",
+      "sku": "SKU",
+      "price": "Цена",
+      "quantity": "Количество",
+      "total": "Обща сума",
+      "fulfilled_at": "Изпълнена {{ date }}",
+      "subtotal": "Междинна сума",
+      "track_shipment": "Проследете поръчка"
+    },
+    "recover_password": {
+      "title": "Променете паролата си",
+      "email": "Имейл адрес",
+      "submit": "Изпращане",
+      "cancel": "Отказ",
+      "subtext": "Ще ви изпратим имейл, за да промените паролата си.",
+      "success": "Изпратихме Ви имейл с връзка, за да актуализирате паролата си."
+    },
+    "reset_password": {
+      "title": "Променете паролата на акаунта",
+      "subtext": "Въведете нова парола за {{ email }}",
+      "password": "Парола",
+      "password_confirm": "Потвърдете паролата си",
+      "submit": "Промени паролата"
+    },
+    "register": {
+      "title": "Създайте акаунт",
+      "first_name": "Име",
+      "last_name": "Фамилия",
+      "email": "Имейл адрес",
+      "password": "Парола",
+      "submit": "Създаване на акаунт"
+    }
+  },
+  "homepage": {
+    "onboarding": {
+      "product_title": "Името на вашия продукт",
+      "product_description": "Тази област се използва за описание на детайлите на вашия продукт. Разкажете на  клиентите за външния вид, усещането и стила на вашия продукт. Добавете подробности за цвета, използваните материали, размера и мястото, където е направено.",
+      "collection_title": "Името на вашата колекция",
+      "blog_title": "Заглавието на вашата публикация",
+      "blog_excerpt": "Все още не сте публикували в блога. Блогът може да се използва, за да се говори за стартиране на нови продукти, съвети или други новини, които искате да споделите с вашите клиенти. Можете да проверите блога за електронна търговия на Shopify за вдъхновение и съвет за вашия собствен магазин и блог.",
+      "blog_author": "Име на автор",
+      "no_content": "Този раздел понастоящем не включва съдържание. Добавете съдържание в този раздел с помощта на страничната лента."
+    }
+  },
+  "layout": {
+    "navigation": {
+      "search": "Търсене",
+      "toggle": "разширяване\/свиване",
+      "expand": "разширяване",
+      "collapse": "свиване"
+    },
+    "cart": {
+      "title": "Kоличка",
+      "items_count": {
+        "one": "Артикул",
+        "other": "Артикули"
+      }
+    },
+    "customer": {
+      "account": "Акаунт",
+      "log_out": "Излезте от профила си",
+      "log_in": "Влезте в профила си",
+      "create_account": "Създайте акаунт"
+    },
+    "footer": {
+      "social_platform": "{{ name }} на {{ platform }}"
+    }
+  },
+  "products": {
+    "product": {
+      "regular_price": "Регулярна цена",
+      "sold_out": "Разпродадено",
+      "unavailable": "Не е налично",
+      "on_sale": "Разпродажба",
+      "quantity": "Количество",
+      "add_to_cart": "Добавете към количка",
+      "back_to_collection": "Върнете се към {{ title }}"
+    },
+    "reviews": {
+      "average": "Средно",
+      "reviews": "Отзиви",
+      "no_reviews": "Няма отзиви.",
+      "more_ratings": "Още оценки",
+      "no_comments": "Няма коментари.",
+      "reply_from": "Отговор от",
+      "posted": "Публикувано",
+      "write_review": "Напиши отзив",
+      "show": "Покажи",
+      "details": "Детайли",
+      "rate_this_product": "Оцени този продукт:",
+      "select_product": "Избери продукт:",
+      "write_review_placeholder": "Напиши отзива си тук",
+      "submit_review": "Изпрати отзива",
+      "your_name_placeholder": "Твоето име",
+      "email_address_placeholder": "Имейл адрес",
+      "thank_you_for_your_review": "Благодарим за твоя отзив.",
+      "your_review_has_been_submitted": "Твоят отзив беше изпратен.",
+      "reviews_count": "Брой отзиви",
+      "verified_buyer": "Проверен купувач",
+      "verified_buyer_yes": "Проверен купувач: Да",
+      "verified_buyer_no": "Проверен купувач: Не",
+      "anonymous_reviewer_name": "Анонимен"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title_html": "Вашата {{ value }} карта за подарък за {{ shop }}!",
+      "subtext": "Вашата карта за подарък",
+      "disabled": "Деактивиране",
+      "expired": "Изтекла на {{ expiry }}",
+      "active": "Изтича на {{ expiry }}",
+      "redeem_html": "Използвайте този код при плащане, за да получите вашата {{ value }} карта за подарък",
+      "shop_link": "Започнете да пазарувате",
+      "print": "Принтирайте тази карта за подаръци",
+      "remaining_html": "{{ balance }} останал баланс",
+      "add_to_apple_wallet": "Добавете в портфейл на Apple "
+    }
+  },
+  "date_formats": {
+    "month_day_year": "%B %d, %Y"
+  },
+  "product_filter_search": {
+    "refine": "Подреди от",
+    "refine_mobile": "Подреди от",
+    "refine_mobile_collapse": "Скрий филтър",
+    "clear": "Изчисти",
+    "clear_all": "Изчисти всичко",
+    "apply": "Приложи",
+    "close": "Затвори",
+    "show_result": "Покажи резултати",
+    "sale": "Разпродажба",
+    "sold_out": "Разпродадено",
+    "from": "от",
+    "breadcrumb_home": "Home",
+    "load_more": "Зареди повече",
+    "show_limit": "Покажи",
+    "collection_all": "Всички",
+    "price_under": "Под",
+    "price_above": "Над",
+    "search_general_title": "Търсене",
+    "search_result_header": "Покажи резултати за \"{{ terms }}\"",
+    "search_result_empty": "Вашето търсене за \"{{ terms }}\" не даде резултати",
+    "search_result_number": "Показване на {{ count }} резултати за \"{{ terms }}\"",
+    "suggestion_popular_header": "Популярни предложения",
+    "suggestion_product_header": "Продукти",
+    "suggestion_did_you_mean_header": "Може би имахте напредвид ",
+    "suggestion_view_all": "Покажи всички резултати",
+    "error_no_filter_result": "За съжаление, нито един продукт не отговаря на вашия избор",
+    "error_no_search_result": "За съжаление, нито един продукт не отговаря на ключовата дума",
+    "error_no_products": "В тази колекция няма намерени продукти"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
+  },
+  "shopify": {
+    "dates": {
+      "am": "am",
+      "abbr_day_names": {
+        "sunday": "Неделя",
+        "monday": "Понеделник",
+        "tuesday": "Вторник",
+        "wednesday": "Сряда",
+        "thursday": "Четвъртък",
+        "friday": "Петък",
+        "saturday": "Събота"
+      },
+      "day_names": {
+        "sunday": "Неделя",
+        "monday": "Понеделник",
+        "tuesday": "Вторник",
+        "wednesday": "Сряда",
+        "thursday": "Четвъртък",
+        "friday": "Петък",
+        "saturday": "Събота"
+      },
+      "abbr_month_names": {
+        "january": "Януари",
+        "february": "Февруари",
+        "march": "Март",
+        "april": "Април",
+        "may": "Май",
+        "june": "Юни",
+        "july": "Юли",
+        "august": "Август",
+        "september": "Септември",
+        "october": "Октомври",
+        "november": "Ноември",
+        "december": "Декември"
+      },
+      "month_names": {
+        "january": "Януари",
+        "february": "Февруари",
+        "march": "Март",
+        "april": "Април",
+        "may": "Май",
+        "june": "Юни",
+        "july": "Юли",
+        "august": "Август",
+        "september": "Септември",
+        "october": "Октомври",
+        "november": "Август",
+        "december": "Декември"
+      }
+    },
+    "sentence": {
+      "two_words_connector": "и",
+      "last_word_connector": "и"
+    },
+    "checkout": {
+      "general": {
+        "error_page_title": "Грешка",
+        "skip_to_content": "Преминете към съдържанието",
+        "continue_button_label": "Продължете ",
+        "complete_purchase_button_label": "Завършете поръчката си",
+        "pay_now_button_label": "Платете сега",
+        "authenticate_purchase_button_label": "Удостоверете плащането",
+        "edit_link_label": "Редактиране",
+        "all_rights_reserved": "Всички права запазени {{ shop_name }}",
+        "print_policies_link_label": "Принтиране",
+        "cart": "Количка",
+        "close_modal_label": "Затворете",
+        "close_notice_label": "Затворете",
+        "expand_notice_label": "Вижте повече",
+        "continue_to_shipping_method": "Преминете към доставка",
+        "continue_to_payment_method": "Преминете към плащане",
+        "continue_to_review": "Преглед на поръчката",
+        "back_to_cart": "Върнете се към количката",
+        "back_to_contact_information": "Обратно към информация за контакт",
+        "back_to_shipping_method": "Обратно към доставка",
+        "back_to_payment_method": "Обратно към плащане",
+        "choose_shipping_method": "Изберете начин на доставка",
+        "choose_payment_method": "Изберете метод на плащане",
+        "choose_billing_address": "Изберете адрес за фактуриране",
+        "contact_us_html": "Свържете се с нас за повече информация",
+        "autocomplete_title": "Предположения",
+        "autocomplete_single_item": "1 продукт наличен",
+        "autocomplete_multi_item": "{{number}} продукти налични",
+        "autocomplete_selection": "{{number}} от {{total}}",
+        "autocomplete_close": "Автоматично затваряне",
+        "forwarding_indicator": {
+          "new_window": "Отворете в нов прозорец",
+          "external": "Отваряне на външен уебсайт",
+          "external_and_new_window": "Отворен и нов прозорец"
+        },
+        "checkout_context": {
+          "step_one": "{{ shop_name }} - Плащане"
+        },
+        "page_title": "Checkout"
+      },
+      "contact": {
+        "title": "Информация",
+        "address_title": "Адрес",
+        "shipping_address_title": "Адрес за доставка",
+        "delivery_option_title": "Доставка",
+        "contact_method_title": "Информация за връзка",
+        "email_label": "Имейл адрес",
+        "email_placeholder": "Имейл адрес",
+        "email_or_phone_label": "Имейл адрес или телефонен номер",
+        "email_or_phone_placeholder": "Tелефонен номер",
+        "stored_addresses_label": "Запаметени адреси",
+        "new_address_label": "Използвайте различен адрес",
+        "optional_first_name_label": "Име",
+        "last_name_label": "Фамилия",
+        "company_label": "Фирма",
+        "optional_company_label": "Фирма",
+        "address1_label": "Адрес 1",
+        "address2_label": "Адрес 2",
+        "optional_address2_label": "Адрес 2 (по избор)",
+        "city_label": "Град",
+        "country_label": "Държава",
+        "zip_code_label": "Пощенски код",
+        "phone_placeholder": "Телефонен номер",
+        "optional_phone_label": "Телефонен номер",
+        "phone_label": "Телефонен номер"
+      },
+      "delivery_options": {
+        "ship": "Доставка",
+        "pick_up": "Вземане от офис"
+      },
+      "stock": {
+        "page_title": "Проблеми със складова наличност",
+        "title": "Не е налично",
+        "items_unavailable_notice": "Някои продукти вече не са налични. Вашата количка е актуализирана.",
+        "product_column_header": "Продукти",
+        "quantity_column_header": "Количество",
+        "price_column_header": "Цена",
+        "status_column_header": "Статус",
+        "removed_from_cart_notice": "Премахнете от количката",
+        "sold_out_label": "Разпродадено",
+        "reduced_label": "Намалено",
+        "reduced_with_quantity_label": "Само {{ quantity_available }} бройки останали",
+        "remove_from_cart_button_label": "Премахнете от количката",
+        "continue_shopping_button_label": "Продължете",
+        "go_back_to_cart_button_label": "Обратно към количката"
+      },
+      "customer_account": {
+        "not_user_label": "Не сте {{ first_name }}?",
+        "have_an_account_label": "Вече имате съществуващ акаунт",
+        "sign_in_link_label": "Логнете се",
+        "sign_out_link_label": "Излезте от профил",
+        "save_my_information_label": "Запази информацията за следващия път"
+      },
+      "order_summary": {
+        "title": "Информация за поръчка",
+        "order_name_label": "Поръчка {{ name }}",
+        "shopping_cart_label": "Карта за пазаруване",
+        "discount_title": "Отстъпка",
+        "discount_label": "Код за отстъпка",
+        "discount_placeholder": "Код за отстъпка",
+        "gift_card_title": "Карта подарък",
+        "gift_card_label": "Карта подарък",
+        "gift_card_placeholder": "Карта подарък",
+        "gift_card_and_discount_title": "Въведете код за отстъпка",
+        "gift_card_and_discount_label": "Въведете код за отстъпка",
+        "gift_card_and_discount_placeholder": "Въведете код за отстъпка",
+        "remove_gift_card_label": "Изчистете карта за подарък",
+        "remove_discount_label": "Премахнете отстъпката",
+        "free_shipping_discount_label": "Безплатна доставка",
+        "apply_discount_button_label": "Прилагане",
+        "applied_discount_message": "{{ amount }} отстъпка от цялата поръчка",
+        "discount_has_been_applied": "Отстъпката е добавена",
+        "discount_has_been_removed": "Отстъпката е премахната",
+        "gift_card_has_been_applied": "Карта подарък е добавена",
+        "gift_card_has_been_removed": "Карта подарък е премахната",
+        "discount_already_applied": "Вече сте добавили код за отстъпка. Не може да използвате повече от един промоционален код.",
+        "cart_does_not_meet_discount_requirements_notice": "<strong>{{ code }}<\/strong> Кодът за отстъпка не е валиден за продуктите във вашата количка ",
+        "discount_requires_customer_notice": "Въведете вашата информация за доставка, за да приложите <strong>{{ code }}<\/strong> код за отстъпка",
+        "customer_does_not_meet_discount_requirements_notice": "<strong>{{ code }}<\/strong> Кодът за отстъпка не е валиден ",
+        "shipping_information_does_not_meet_discount_requirements_notice": "<strong>{{ code }}<\/strong> Кодът за отстъпка не е валиден за избраното от вас място за доставка ",
+        "customer_already_used_once_per_customer_discount_notice": "Кодът за отстъпка  {{ code }} вече е използван",
+        "subtotal_label": "Междинна сума",
+        "shipping_label": "Доставка",
+        "shipping_default_value": "Изчислява се при следваща стъпка",
+        "shipping_pending_message": "Не е налично",
+        "shipping_policy_link": "Такси за доставка",
+        "taxes_label": "Такси",
+        "total_label": "Крайна сума",
+        "total_outstanding_label": "Сума за плащане",
+        "partial_total_label": "Обща сума",
+        "free_total_label": "Безплатно",
+        "paid_label": "Платено",
+        "payment_due_label": "Да се плати до",
+        "vat_label_html": "Включително {{ amount }} за данъци",
+        "discount_and_gift_card_savings_notice": "След {{ discount_amount }} отстъпка и {{ gift_card_amount }} от карта подарък",
+        "discount_savings_notice": "След {{ discount_amount }} в отстъпки",
+        "gift_card_savings_notice": "Сума след {{ gift_card_amount }} карта подарък",
+        "cost_table_title": "Обобщение на разходите",
+        "description_label": "Описание",
+        "price_label": "Цена",
+        "quantity_label": "Количество",
+        "product_change_label": "Смяна",
+        "product_image_label": "Снимка на продукта",
+        "scroll_order_summary": "Плъзнете надолу за повече продукти",
+        "expand_order_summary": "Обобщение на поръчката",
+        "collapse_order_summary": "Скрий обобщение за поръчка",
+        "total_updated_label": "Актуализиране на крайната цена",
+        "order_total_updated_label": "Крайна цена",
+        "total_already_paid_label": "Вече сте платили",
+        "unit_price": {
+          "accessible_separator": "на",
+          "content_html": "{{ price }}{{ accessible_separator }}{{ per_unit }}"
+        }
+      },
+      "shipping": {
+        "title": "Доставка",
+        "shipping_method_title": "Изберете начни на доставка",
+        "estimated_delivery_date": {
+          "one": "1 работен ден",
+          "other": "{{ count }} работни дни"
+        },
+        "other_method": {
+          "zero": "Не са налични други начини за доставка",
+          "one": "Изберете друг начин на доставка",
+          "other": "{{ count }} начини за доставка"
+        },
+        "waiting_on_rate_notice": "Изчисляване време за доставка",
+        "no_rates_for_cart_or_destination_notice": "Няма налични методи за доставка за вашата количка или адрес",
+        "no_pickup_location_notice": "Поне един от вашите продукти не е наличен за вземане",
+        "waiting_on_pickup_location_notice": "Получаване на достъпни места за вземане ...",
+        "no_rates_for_country_notice": "не предлагаме доставка до {{ country }}.\n",
+        "no_rates_contact_notice": "Свържете се с нас за повече информация",
+        "free_rate_label": "Безплатно",
+        "cheapest_rate_label": "Най-евтино",
+        "please_enter_your_shipping_information_notice": "Моля, въведете вашата информация за доставка.",
+        "estimated_delivery_date_range": "от {{ minimum }} до {{ maximum }} работни дни\n",
+        "shipping_line_phone_label": "Телефонен номер (изисква се)\n",
+        "shipping_line_phone": "Вашият куриер може да използва този номер, за да се свърже с вас.",
+        "shipping_rate_discounted_amount": "Беше: {{ original_amount }}. Сега: {{ amount }}"
+      },
+      "payment": {
+        "title": "Плащане",
+        "order_covered_by_gift_cards_notice": {
+          "one": "Вашата поръчка се покрива от вашата карта за подаръци.",
+          "other": "Вашата поръчка се покрива от вашата карта за подаръци."
+        },
+        "card_fields_unavailable_html": {
+          "one": "Плащания с кредитни и дебитни карти в момента не са налични.<br><a href=\"javascript:window.location.reload();\">Актуализирайте страницата<\/a> или опитайте по-късно.",
+          "other": "Плащания с кредитни и дебитни карти в момента не са налични.<br><a href=\"javascript:window.location.reload();\">Актуализирайте страницата<\/a> или изберете друг начин на плащане."
+        },
+        "amazon_payments_label": "Amazon Pay\n",
+        "amazon_payments_login_hint": "Логнете се с Amazon",
+        "amazon_payments_logout": "Излезте от Amazon ",
+        "amazon_payments_failed_mfa_challenge": "Избраният начин на плащане не може да се използва. Изберете различен метод или се свържете с вашата банка.",
+        "amazon_payments_abandoned_mfa_challenge": "Плащането не може да бъде извършено. Опитайте с друг начин на плащане или се свържете с вашата банка.",
+        "amazon_payments_could_not_enqueue_authorize": "При обработката на плащането възникна проблем. Опитайте отново или използвайте друг начин на плащане.",
+        "amount_left_to_pay_label": "Причина за плащане",
+        "discount_button_action_label": "Добавете код за отстъпка",
+        "gift_card_code_label": "Промоционален код от карта подарък",
+        "apply_gift_card_button_label": "Добавете",
+        "gift_card_balance_label": "Баланс",
+        "supported_card_brands_more_label": "Още...",
+        "detected_card_brand": "Марка на откритата карта: {brand}\n",
+        "card_number_label": "Номер на карта",
+        "card_number_placeholder": "Номер на карта",
+        "card_pay_with": "Платете с:",
+        "card_security_notice": "Всички транзакции са защитени и криптирани.",
+        "name_on_card_label": "Име на карта",
+        "name_on_card_placeholder": "Име на карта",
+        "card_expiry_label": "Валидност на картата (месец \/ година)\n",
+        "card_expiry_placeholder": "Валидност на картата (месец \/ година)",
+        "card_verification_value_label": "Код за сигурност",
+        "card_verification_value_placeholder": "Код за сигурност",
+        "card_expiry_date_explanation": "Дата на валидност на картата във формат: месец, месец, година, година",
+        "card_verification_value_explanation": "3-цифрен код за сигурност, който обикновено се намира на гърба на вашата карта. Картите на American Express имат 4-цифрен код, разположен отпред.",
+        "card_verification_value_explanation_amex": "4-цифрен код за сигурност от предната страна на вашата карта",
+        "card_verification_value_explanation_other": "3-цифрен код за сигурност на гърба на вашата карта",
+        "card_start_label": "Дата на издаване (месец \/ година)\n",
+        "card_start_placeholder": "Дата на издаване (месец \/ година)",
+        "card_issue_number_label": "Проблем с номера на картата",
+        "card_issue_number_placeholder": "Проблем с номера на картата",
+        "card_change_label": "Променете",
+        "ends_with_label": "Завършва с {{ last_digits }}",
+        "masked_digits_label": "•••• {{ last_digits }}",
+        "saved_by_payment_method": "Запазено от {{ payment_method }}\n",
+        "pay_with_payment_method": "Платете чрез {{ payment_method }}\n",
+        "same_billing_address_label": "Същият адрес за доставка",
+        "different_billing_address_label": "Използвайте различен адрес",
+        "free_order_notice_html": "Вашата поръчка е<strong>безплатна<\/strong>. Не е необходимо заплащане.\n",
+        "express_checkout_free_order": "Няма да бъдете таксувани за безплатна поръчка",
+        "offsite_gateway_redirect_hint": "След кликване на “{{ button_label }}”, ще бъдете пренасочени {{ gateway_label }} за да завършите поръчката си.\n",
+        "offsite_gateway_redirect_hint_multi_currency_html": "{{ gateway_label }} крайна цена {{ total_shop_price }}\n",
+        "billing_address_title": "Адрес за доставка",
+        "billing_address_description": "Изберете адреса, който съответства на вашата карта или начин на плащане.",
+        "billing_address_description_no_shipping_address": "Изберете адреса, който съответства на вашата карта или начин на плащане.",
+        "no_js_credit_card_fields_redirect_hint": "Ще бъдете пренасочени, за да добавите вашата платежна информация.",
+        "card_fields_container_prefix": "Полеви контейнер за:",
+        "card_fields_processing_error": "При обработката на плащането възникна проблем. Опитайте с друг начин на плащане или опитайте отново по-късно.",
+        "technical_error": "Плащанията не могат да бъдат обработени в момента поради технически проблем. Опитайте отново след няколко минути.",
+        "no_method_error": "Възникна проблем с плащането. Свържете се с нас, за да завършим вашата поръчка.",
+        "not_configured_error": "Възникна проблем с плащането. Свържете се с нас, за да завършим вашата поръчка.",
+        "missing_credit_card_error": "Въведете данните на картата си, за да завършите плащането",
+        "generic_incorrect_card_info": "Данните за плащане не могат да бъдат потвърдени. Проверете данните на картата си и опитайте отново.",
+        "sofort_label": "Банков превод",
+        "klarna_label": "Платете по-късно",
+        "ideal_label": "iDEAL",
+        "bank_picker_label": "Банка",
+        "subscription_agreement_label": "Съгласен съм, че моите данни ще се съхраняват за абонаментни плащания."
+      },
+      "payment_summary": {
+        "gift_card_current_balance_notice": "Текущ баланс {{ amount }}",
+        "credit_card_expires_on_notice": "Изтича на {{ month }}\/{{ year }}",
+        "express_payment_gateway_label": "Експресно",
+        "manual_payment_gateway_label": "Обикновено",
+        "billing_address_title": "Адрес за доставка",
+        "free_label": "Безплатно"
+      },
+      "field_errors": {
+        "handle_phone_invalid": "Въведете валиден телефонен номер",
+        "handle_email_invalid": "Въведете валиден имейл адрес",
+        "email_invalid": "Въведете валиден имейл адрес",
+        "email_or_phone_blank": "Въведете имейл адрес или телефонен номер",
+        "email_or_phone_invalid": "Въведете имейл адрес или телефонен номер",
+        "address_first_name_blank": "Въведете име",
+        "address_last_name_blank": "Въведете фамилия",
+        "address_address1_blank": "Въведете адрес",
+        "address_address2_blank": "Въведете апартамент",
+        "address_city_blank": "Град",
+        "address_country_blank": "Държава",
+        "address_country_not_supported": "В момента не изпращаме до тази държава \/ регион. Въведете нов адрес за доставка и опитайте отново.",
+        "address_province_blank": "Изберете щат \/ провинция",
+        "address_company_blank": "Въведете име на фирма",
+        "address_phone_blank": "Телефонен номер",
+        "address_zip_blank": "Пощенски код",
+        "address_zip_invalid_for_country": "Пощенски код за {{ country }}",
+        "address_zip_invalid_for_country_and_province": "Пощенски код за {{ province }}, {{ country }}\n",
+        "credit_card_name_blank": "Въведете името си точно както е написано на картата Ви",
+        "credit_card_name_invalid": "Въведете името си точно както е написано на картата Ви",
+        "credit_card_number_invalid": "Въведете валиден номер на карта",
+        "credit_card_expiry_invalid": "Въведете валидна дата на изтичане на картата",
+        "credit_card_month_invalid": "Въведете валиден месец на изтичане на картата",
+        "credit_card_year_invalid": "Въведете валидна година на изтичане на картата",
+        "credit_card_start_invalid": "Въведете валидна дата на издаване на картата",
+        "credit_card_start_month_invalid": "Въведете валиден месец на издаване на картата",
+        "credit_card_start_year_invalid": "Въведете валидна година на издаване на картата",
+        "credit_card_verification_value_blank": "Въведете CVV или код за сигурност на картата",
+        "reduction_code_code_not_found": "Въведете валиден код за отстъпка или карта за подарък",
+        "reduction_code_discount_not_found": "Въведете валиден код за отстъпка",
+        "reduction_code_gift_card_code_invalid": "Въведете валиден код на карта подарък",
+        "reduction_code_gift_card_unusable": "Не можете да използвате подаръчна карта, за да купите друга карта за подарък",
+        "shipping_line_phone_blank": "Въведете телефонен номер за доставка",
+        "shipping_line_phone_invalid": "Въведете телефонен номер за доставка",
+        "gift_card_already_applied": "Тази карта за подарък вече е приложена към вашата поръчка",
+        "gift_card_disabled": "Карта подарък вече не е налична",
+        "gift_card_expired": "Тази подаръчна карта е изтекла",
+        "gift_card_depleted": "В тази подаръчна карта няма налична сума",
+        "gift_card_currency_mismatch": "Само карта подарък {{ checkout_currency }} може да бъде използвана за тази поръчка",
+        "payment_gateway_needs_paid_plan_error": "Този метод на плащане в момента не е наличен в момента",
+        "payment_gateway_incompatible_with_multi_currency": "За да завършите тази каса в местната валута, трябва да платите с кредитна карта.",
+        "subscription_agreement_blank": "Потвърдете, че сте съгласни да продължите",
+        "physical_gift_card_invalid_quantity": "Подаръчните карти трябва да имат количество, което съответства на броя кодове на карти за подарък."
+      },
+      "payment_errors": {
+        "generic_error": "При обработката на плащането ви възникна проблем. Опитайте отново или използвайте друг начин на плащане.",
+        "rejected_transaction": "Плащането бе отхвърлено. Опитайте отново или използвайте друг начин на плащане.",
+        "credit_card_processing": "Плащането не може да бъде обработено поради технически причини. Опитайте отново след няколко минути или използвайте друг начин на плащане.",
+        "order_total_changed": "Общата стойност на вашата поръчка се промени. Актуализирайте количката и опитайте отново.",
+        "payment_processing": "Плащането не може да бъде обработено поради технически причини. Опитайте отново след няколко минути или използвайте друг начин на плащане.",
+        "paypal_zero_amount": "Не може да използвате PayPal за {{ amount }} поръчки. Проверете дали вашата поръчка е правилна и проверете без PayPal.\n",
+        "paypal_invalid_token": "PayPal не беше наличен. Опитайте отново или използвайте друг начин за плащане.",
+        "pay_later_failed": "Възникна грешка при обработката на плащането, моля опитайте по-късно или изберете друг начин на плащане и опитайте отново.",
+        "three_d_secure_failed": "Плащането не може да бъде потвърдено. Опитайте отново или използвайте друг начин на плащане.",
+        "three_d_secure_throttled": "Твърде много опити; моля изчакайте, преди да опитате отново",
+        "subscription_agreement_blank": "За да закупите абонамент, данните за плащане трябва да бъдат запазени. За да продължите, потвърдете, че сте съгласни или премахнете абонаментните артикули от вашата поръчка."
+      },
+      "shipping_errors": {
+        "shipping_method": "Вашата количка е актуализирана и предишната тарифа за доставка не е валидна. Изберете нова тарифа."
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "Експресно плащане",
+        "or": "OR\n"
+      },
+      "alternative_payment_method": {
+        "button_html": "Плащане с: {{ method }}\n",
+        "button_label": "Плащане с: {{ method }}"
+      },
+      "paypal": {
+        "button_html": "Плащане с {{ logo }}\n"
+      },
+      "apple_pay": {
+        "button_html": "Купете с {{ logo }}\n"
+      },
+      "processing": {
+        "redirecting_page_title": "Препращане",
+        "redirecting_title": "Препращане",
+        "redirecting_notice": "Изчакайте, докато Ви препратим",
+        "complete_your_purchase_title": "Завършете покупката си",
+        "continue_to_payment_gateway_notice": "Продължете към плащане, за да добавите вашата платежна информация.",
+        "continue_to_payment_gateway_button_label": "Преминете към плащане",
+        "complete_your_purchase_title_error": "Коригирайте данните си за плащане",
+        "continue_to_payment_gateway_notice_error": "Информацията за плащане не може да бъде потвърдена.",
+        "continue_to_payment_gateway_button_label_error": "Актуализирайте начин на плащане",
+        "page_title": "Обработване на поръчка",
+        "title": "Обработване на поръчка",
+        "your_order_has_been_received_title": "Благодарим ви за поръчката",
+        "you_will_receive_confirmation": "В момента получаваме много поръчки Ще получите потвърждение по имейл скоро. Ако не го получите в следващия час, уведомете ни.",
+        "wait": {
+          "short": "Вашата поръчка се обработва.",
+          "long": "Ще получите имейл веднага щом поръчката ви бъде обработена. ",
+          "no_auto_refresh_html": "Ако не сте автоматично пренасочени, кликнете {{ link }}.\n",
+          "refresh_this_page": "Актуализирайте страницата",
+          "medium": {
+            "one": "Поръчката ви се обработва. Приблизителното време за изчакване е 1 минута.",
+            "other": "Поръчката ви се обработва. Приблизителното време за изчакване е {{ count }} минути.\n"
+          }
+        }
+      },
+      "failed_payment": {
+        "page_title": "Плащането не може да бъде обработено",
+        "title": "Плащането не може да бъде обработено",
+        "payment_not_processed_title": "Плащането не може да бъде обработено",
+        "payment_not_processed_text": "Не сте таксувани. Върнете се в количката, за да завършите покупката си.",
+        "return_to_cart_button_label": "Върнете се към количката с продукти"
+      },
+      "payment_gateway": {
+        "credit_card_label": "Кредитна карта",
+        "bank_deposit_label": "Банков депозит",
+        "cash_on_delivery_label": "Наложен платеж",
+        "money_order_label": "Паричен превод"
+      },
+      "thank_you": {
+        "title": "Благодарим Ви за покупката!",
+        "confirmation_email_sent_text": "Изпратен е имейл за потвърждение {{ email }}\n",
+        "return_to_store_link_label": "Продължете да пазарувате",
+        "print_link_label": "Принтирайте",
+        "payment_information_title": "Информация за плащане",
+        "shipping_information_title": "Информация за доставка",
+        "page_title": "Благодарим Ви, {{ display_name }}!\n",
+        "page_title_no_name": "Благодарим Ви!",
+        "cancelled_page_title": "Поръчката е отказана",
+        "customer_information_title": "Информация за клиента",
+        "contact_information_title": "Информация за клиента",
+        "billing_address_title": "Адрес за фактуриране",
+        "shipping_address_title": "Адрес за изпращане",
+        "shipping_address_map_title": "Карта на Google, показваща пин точка на адреса за доставка: {{ address }}\n",
+        "payment_method_title": "Начин на плащане",
+        "shipping_method_title": "Начин за доставка",
+        "tracking_number": "Проследяващ номер:\n",
+        "company_tracking_number": "{{ company }} проследяващ номер:\n",
+        "estimated_arrival": "Очаквана дата за доставка:",
+        "re-order": "Поръчайте наново същите продукти",
+        "confirmed": "Потвърдено",
+        "thank_you_title": "Вашата поръчка е потвърдена",
+        "thank_you_confirmed_order_with_email": "Скоро ще получите имейл за потвърждение с номера на вашата поръчка.",
+        "thank_you_confirmed_order_with_phone": "Скоро ще получите текст за потвърждение с номера на поръчката си.",
+        "thank_you_confirmed_order_with_email_and_phone": "Скоро ще получите имейл за потвърждение и текст с номера на поръчката си.",
+        "thank_you_confirmed_order_with_missing": "Свържете се с нас по имейл или телефон, за да получите потвърждение на поръчката.",
+        "order_status_confirmed_order_with_email": "Ще получите имейл, когато вашата поръчка е готова.",
+        "order_status_confirmed_order_with_phone": "Ще получите текст, когато вашата поръчка е готова.",
+        "order_status_confirmed_order_with_email_and_phone": "Ще получите имейл и текст, когато вашата поръчка е готова.",
+        "order_status_updates_with_email": "Ще получите актуализации за доставка и доставка чрез имейл.",
+        "order_status_updates_with_phone": "Ще получите актуализации за доставка и доставка чрез текст.",
+        "order_status_updates_with_email_and_phone": "Ще получите актуализации за доставка и доставка чрез имейл и текст.",
+        "order_status_updates_with_missing": "Изберете как искате да получавате информация за доставка.",
+        "confirmed_title": "Поръчката ви е потвърдена",
+        "confirmed_description": "Приехме вашата поръчка и я подготвяме. Върнете се на тази страница за актуализации относно състоянието на вашата пратка.",
+        "order_updates_title": "Актуално състояние на поръчката",
+        "order_updates_description_html": "Информация ще бъде изпратена до {{ customer_contact }}\n",
+        "order_updates_current_step_prefix": "Текуща стъпка:",
+        "order_updates_past_step_prefix": "Минала стъпка:",
+        "order_updates_upcoming_step_prefix": "Следваща стъпка:",
+        "in_transit": "В транзит",
+        "in_transit_title": "Вашата пратка е на път",
+        "in_transit_description": "Върнете се на тази страница за актуална информация относно състоянието на вашата пратка.",
+        "in_transit_description_days": "Трябва да получите поръчката си в следващите {{number}} дни.",
+        "in_transit_description_today": "Трябва да получите пратката си днес.",
+        "in_transit_description_tomorrow": "Трябва да получите пратката си утре.",
+        "no_tracking_number": "Няма проследяващ номер за тази пратка.",
+        "out_for_delivery": "Изчакване за доставка",
+        "out_for_delivery_title": "Вашата пратка е в изчакване за доставка",
+        "out_for_delivery_description_html": "Вашата пратка е в изчакване за доставка - очаквайте да пристигне днес. Ако все още не сте я получили през следващите 2 дни, моля,  {{свържете се с нас}}.",
+        "attempted_delivery": "Опит за доставка",
+        "attempted_delivery_title": "Бе направен опит за доставка на вашата пратка",
+        "attempted_delivery_description_html": "Беше направен опит за доставка на вашата пратка, но тя не бе успешна. Моля, {{свържете се с нас}}, за да организирате друг опит за доставка.",
+        "delivered": "Доставено",
+        "delivered_title": "Вашата пратка е доставена",
+        "delivered_description_html": "Вашата пратка е доставена на посочения от вас адрес. Ако не сте го получили или имате някакви други проблеми, моля, {{свържете се с нас}}.",
+        "contact_us": "Свържете се с нас",
+        "contact_us_lowercase": "Свържете се с нас",
+        "contact_us_html": "Необходима Ви е помощ? {{ Свържете се с нас }}\n",
+        "updated_time": "Актуализирано преди {{ time_ago }} \n",
+        "failure": "Не е доставено",
+        "failed_title": "Вашата пратка не може да бъде доставена",
+        "failed_contact_merchant": "Свържете се с {{ company }} , за да уточните подходяща дата за доставка.\n",
+        "failed_contact_merchant_no_company": "Свържете се с нас, за да организираме доставка.",
+        "non_shippable_title": "Вашата поръчка е завършена",
+        "login_title": "Логнете се за информация относно поръчка",
+        "login_description": "Можете да намерите номера на поръчката си в разписката, която сте получили по имейл.",
+        "login_description_phone": "Можете да намерите номера на поръчката си в разписката, която сте получили чрез текст.",
+        "login_not_customer_html": "Не сте {{ name }}? Използвайте {{ link }}\n",
+        "customer_information_hidden_fields_message": "Логнете се за цялостна информация.",
+        "cancelled_title": "Вашата поръчка е отказана",
+        "cancelled_description": "Вашата поръчка е отказана НА {{ date }}. Свържете се с нас, ако имате въпроси.\n",
+        "order_number_label": "Номер на поръчка",
+        "customer_validation_error": "Въведете валиден имейл адрес или номер на поръчка.",
+        "customer_validation_error_phone": "Въведете валиден телефонен номер или номер на поръчка.",
+        "login": "Логнете се",
+        "unfulfilled_items_title": "Подготвяне за доставка",
+        "unfulfilled_items_description": "В момента подготвяме тези продукти за изпращане.",
+        "opt_in_message_html": "Информацията ви бе успешно запазена с {{ shopify_pay }}\n",
+        "order_updates_description_missing": "Не получавате актуална информация за доставка.",
+        "order_updates_subscribe_to_email_notifications": "Получавайте актуална информация за доставка чрез имейл.",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Получавайте актуална информация за доставка чрез имейл или текст.",
+        "order_updates_subscribe_to_phone_notifications": "Получавайте актуална информация за доставка чрез текст.",
+        "order_updates_submit_subscription": "Изпратете",
+        "track_shipment": "Проследяване на пратката",
+        "login_reorder_link_text": {
+          "one": "Купете също този продукт ",
+          "other": "Купете също тези продукти"
+        },
+        "marker": {
+          "current": "Текущо местоположение на пратката",
+          "shipping": "Адрес за доставка"
+        },
+        "fulfillment": {
+          "fulfilled_table_title": "Продукти в тази пратка",
+          "unfulfilled_table_title": "Продукти, подготвящи се за изпращане",
+          "product_image_label": "Снимка на продукта",
+          "description_label": "Описание",
+          "quantity_label": "Количество"
+        },
+        "shopify_pay": {
+          "order_completed_html": "Поръчката е завършена с {{ shopify_pay }}\n",
+          "learn_more_label": "Разберете повече за Shopify Pay\n"
+        }
+      },
+      "review": {
+        "title": "Преглед",
+        "review_title": "Преглед на поръчка",
+        "checkout_as_guest": "Преглед като гост",
+        "blocks": {
+          "contact_method_title": "Свържете се",
+          "billing_address_title": "Фактуриране",
+          "shipping_address_title": "Изпращане до",
+          "shipping_method_title": "Метод",
+          "payment_method_title": "Плащане",
+          "change_link_label": "Промяна",
+          "change_contact_method_link_label": "Промяна на информация за контакт",
+          "change_billing_address_link_label": "Промяна на адреса за фактуриране",
+          "change_shipping_address_link_label": "Промяна на адреса за доставка",
+          "change_shipping_method_link_label": "Промяна начин на доставка",
+          "change_payment_method_link_label": "Промяна на начина на плащане"
+        }
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Информирайте ме за новини и ексклузивни оферти",
+        "unsubscribe": {
+          "title": "Отписахте се от нашия бюлетин",
+          "description": "Няма да получавате повече напомняния от нас."
+        }
+      },
+      "shop_policies": {
+        "refund_policy": "Политика за връщане",
+        "privacy_policy": "Политика за поверителност",
+        "terms_of_service": "Условия за ползване",
+        "legal_notice": "Правна информация",
+        "shipping_policy": "Политика за доставка",
+        "terms_of_sale": "Условия за продажба",
+        "subscription_policy": "Политика за абонамент"
+      },
+      "remember_me": {
+        "shopify_pay_label": "Shopify плащане\n",
+        "authorize_purchase": "Оторизирайте покупката",
+        "save": "Запази",
+        "title": "Запомни ме",
+        "label": "Запазете моята информация за по-бързо обработване на следваща поръчка",
+        "description_html": "Следващият път, когато проверите тук или в други магазини, захранвани от Shopify, ще получите код чрез текстово съобщение, за да платите сигурно с Shopify Pay.",
+        "mobile_phone_icon_alt": "Телефонен номер",
+        "mobile_phone_number": "Телефонен номер",
+        "terms_and_privacy_html": "Продължавайки, вие се съгласявате с Shopify Pay’s <a class=\"link--muted\" data-modal data-remember-policy-link=\"privacy_policy\" title=\"Shopify Pay Privacy Policy\" href=\"{{ privacy_href }}\">Privacy Policy<\/a> and <a class=\"link--muted\" data-modal data-remember-policy-link=\"terms\" title=\"Shopify Pay Terms of Service\" href=\"{{ terms_href }}\">Terms of Service<\/a>.\n",
+        "modal": {
+          "guest": {
+            "title": "Бърза поръчка",
+            "paragraph": "Въведете кода, изпратен на {{ phone }} , за да използвате безопасно запазените си данни.\n",
+            "paragraph_aria": "За да проверите със запазените си данни, въведете кода за потвърждение, изпратен на мобилния номер, завършващ с: {{phone}}."
+          },
+          "accelerated": {
+            "title": "Въведете кода си за потвърждение",
+            "paragraph": "За да завършите покупката си, въведете кода, изпратен до {{phone}}."
+          },
+          "verification_code_label": "Код за потвърждение",
+          "footer": "Осъществено от Shopify Pay",
+          "fill_manually": "Затворете",
+          "code_sending": "Изпраща се код",
+          "code_sent": "Кодът е изпратен",
+          "resend_code": "Изпратете код отново",
+          "errors": {
+            "enter_valid_code": "Този код не е валиден. Опитай пак.",
+            "enter_a_code": "Въведете валиден код за верификация",
+            "code_not_received": {
+              "body": "Не работи?",
+              "contact_information_step": {
+                "link": "Продължете към обикновено плащане"
+              },
+              "payment_information_step": {
+                "link": "Изберете метод на плащане"
+              }
+            },
+            "server": {
+              "title": "Shopify Pay не е наличен\n",
+              "body": "Запазената ви информация не може да бъде използвана за тази покупка. Въведете вашите данни, за да продължите."
+            },
+            "throttle": {
+              "title": "Твърде много опити",
+              "body": "Използвахте всички опити за код. Въведете данните си, за да продължите с покупката си."
+            },
+            "authorize": {
+              "title": "Shopify Pay не е наличен",
+              "body": "Запазената Ви информация не може да бъде използвана за тази покупка. Въведете данни за плащане, за да продължите.",
+              "link": "Въведете информация за плащане"
+            },
+            "shipping_address": {
+              "title": "Този магазин не доставя до вашия район",
+              "body": "Адресът, който сте запазили с Shopify Pay, не може да бъде използван за тази покупка. Въведете данните си, за да продължите с покупката си."
+            }
+          }
+        }
+      },
+      "notifications": {
+        "title": "Известия"
+      },
+      "order_payment_collection": {
+        "custom_line_item_description": "Сума за плащане на поръчка {{ order_name }}\n",
+        "additional_payment_requested": "Необходимо е допълнително заплащане от {{ total_outstanding }} \n",
+        "checkout_review_and_pay": "Вашата поръчка {{order_name}} бе актуализирана и се нуждае от допълнително плащане. Прегледайте тези промени, след което заплатете, за да потвърдите поръчката си.",
+        "order_updated_on": "Поръчката ви беше актуализирана на {{last_edited_at}}.",
+        "order_review_and_pay": "Поръчката ви беше актуализирана и се нуждае от допълнително плащане. Прегледайте и заплатете, за да потвърдите поръчката си.",
+        "pay_now": "Платете сега",
+        "changes_summary": {
+          "added": {
+            "one": "Добавено",
+            "other": "{{ count }} добавено\n"
+          },
+          "removed": "Премахнато",
+          "subtracted": "{{ count }} премахнати"
+        }
+      }
+    },
+    "challenge": {
+      "message": "За да продължите, докажете, че не сте робот.",
+      "error": "Вашият отговор не беше верен, моля опитайте наново.",
+      "submit_button_text": "Изпращане"
+    },
+    "cart": {
+      "discounts_with_count": "{{ count }} Отстъпка"
+    },
+    "page_titles": {
+      "products": "Продукти",
+      "shopping_cart": "Вашата количка с продукти",
+      "account": "Акаунт",
+      "create_account": "Създаване на акаунт",
+      "reset_account": "Рестартиране на акаунт",
+      "addresses": "Адреси",
+      "order": "Поръчка {{ name }}\n",
+      "search": "Търсене",
+      "collections": "Колекции",
+      "challenge": "Предизвикателство",
+      "checkpoint": "Продължете"
+    },
+    "email_marketing": {
+      "unsubscribed": {
+        "confirmation": "Вие се отказахте от нашия имейл бюлетин.",
+        "disclaimer": "Няма да получавате повече маркетингови актуализации от нас. Можете да се абонирате отново по всяко време."
+      },
+      "subscribed": {
+        "confirmation": "Благодарим Ви, че се абонирахте за нашия имейл бюлетин.",
+        "disclaimer": "Може да се откажете по всяко време."
+      },
+      "visit_store": "Посетете магазин"
+    },
+    "notices": {
+      "storefront": {
+        "invalid_password": "Грешна парола, моля опитайте наново."
+      },
+      "customer": {
+        "password_reset_error": "Грешка при нулиране на парола",
+        "no_account_found": "Не е намерен акаунт на този имейл",
+        "invalid_credentials": "Невалиден имейл адрес или парола"
+      },
+      "address": {
+        "updated": "Адресът е актуализиран успешно.",
+        "error_updating": "Грешка при актуализиране на адрес",
+        "created": "Адресът е създаден успешно",
+        "error_creating": "Грешка при създаване на адрес",
+        "deleted": "Адресът е изтрит успешно",
+        "error_deleting": "Грешка при изтриване на адрес."
+      },
+      "order": {
+        "not_available": "Тази поръчка не е налична",
+        "financial_status": {
+          "authorized": "Упълномощен",
+          "pending": "В очакване ",
+          "paid": "Платено",
+          "unpaid": "Неплатено",
+          "voided": "Анулиране",
+          "partially_paid": "Частично платено",
+          "partially_refunded": "Частично възстановено",
+          "refunded": "Възстановено"
+        },
+        "fulfillment_status": {
+          "fulfilled": "Изпълнен",
+          "complete": "Завършено",
+          "partial": "Частично",
+          "unfulfilled": "Неизпълнен",
+          "restocked": "презареждане"
+        },
+        "transaction_status": {
+          "success": "Успех",
+          "pending": "В очакване на",
+          "failure": "Неуспех",
+          "error": "Грешка"
+        },
+        "cancel_reason": {
+          "declined": "Плащането е отхвърлено",
+          "inventory": "Продуктите не са налични",
+          "fraud": "Измамна поръчка",
+          "customer": "Клиентът промени \/ анулира поръчката",
+          "other": "Друго"
+        }
+      },
+      "cart": {
+        "only_n_items_available": "Може да добавите само {{ count }} {{ name }} към количката.\n",
+        "too_many_items_in_cart": "Не може да добавяте {{ name }} към количката.\n",
+        "all_items_in_cart": "Всички {{ count }} {{ name }} добавени към количката\n",
+        "empty_update": "Не може да актуализира празна количка",
+        "missing_parameters": "Няма валидно id или ред",
+        "generic_error": "Грешка в количката",
+        "too_many_line_items_error": "Вашата количка не може да съдържа повече от {{ max }} продукти\n",
+        "link_expired": "Връзката изтече",
+        "link_no_longer_exists": "Връзката вече не съществува.",
+        "stock_problems_html": "Един или повече артикули вече не са налични. Ние предоставихме <a href='{{ link }}'>updated cart<\/a>.\n",
+        "changed": "Количката е променена",
+        "items_changed": "Един или повече продукти са променени.",
+        "product_sold_out": "Продуктът '{{ name }}' вече е разпродаден.\n",
+        "variant_not_found": "Не може да се намери вариант",
+        "shipping_address_not_required": "Тази количка не изисква доставка",
+        "shipping_address_invalid": "Възникна проблем при изчисляването на тарифите ви за доставка. Продължете да плащате, за да изберете тарифа за доставка, преди да завършите поръчката си."
+      }
+    },
+    "pagination": {
+      "previous": "Предишна",
+      "next": "Следваща"
+    },
+    "links": {
+      "powered_by_shopify": "Осъществено от Shopify",
+      "learn_more": "Научете повече"
+    },
+    "feed": {
+      "more": "Повече"
+    },
+    "attributes": {
+      "email": "Имейл",
+      "password": "Парола",
+      "password_confirmation": "Потвърждение на парола",
+      "first_name": "Име",
+      "last_name": "Фамилия"
+    },
+    "addresses": {
+      "zip_code": "Пощенски код",
+      "postal_code": "Пощенски код",
+      "postcode": "Пощенски код",
+      "pincode": "Пин код",
+      "region": "Регион"
+    },
+    "collections": {
+      "sorting": {
+        "manual": "Включва",
+        "best_selling": "Най-продавани",
+        "az": "Азбучно, A-Z",
+        "za": "Азбучно,Z-A",
+        "price_ascending": "Цена, от ниска към висока",
+        "price_descending": "Цена, висока към ниска",
+        "date_ascending": "Дата, стара към нова",
+        "date_descending": "Дата, нова към стара"
+      }
+    },
+    "errors": {
+      "blank": "Празно поле",
+      "credit_card_session_expired": "Упълномощаването за кредитна карта е изтекло, моля, въведете данните за плащане отново. Вашата карта не е таксувана.",
+      "empty": "Празно поле",
+      "invalid_email": "Въведете валиден имейл адрес",
+      "discount_disabled": "Тази отстъпка е деактивирана",
+      "discount_expired": "Отстъпката вече не е валидна",
+      "discount_limit_reached": "Тази отстъпка достигна лимита си за използване",
+      "discount_not_found": "Не може да се намери валидна отстъпка, съответстваща на въведения код",
+      "customer_already_used_once_per_customer_discount_notice": "Тази отстъпка достигна лимита си за използване",
+      "gift_card_already_applied": "Кодът вече е приложен към вашата каса",
+      "gift_card_code_invalid": "Кодът не е валиден",
+      "gift_card_currency_mismatch": "{{ gift_card_currency }} карта подарък не може да бъде прибавена към {{ checkout_currency }} поръчка\n",
+      "gift_card_depleted": "В тази карта за подарък няма останали средства",
+      "gift_card_disabled": "Карта подарък е деактивирана",
+      "gift_card_expired": "Карта подарък е изтекла",
+      "invalid": "не е валидна",
+      "bad_domain": "съдържа невалидно име на домейн",
+      "taken": "вече е взето",
+      "contains_html_tags": "Не може да съдържа HTML тагове\n",
+      "too_short": "Твърде кратко (минимум {{ count }} знака)\n",
+      "too_long": "Твърде много (максимум {{ count }} знаци)\n",
+      "password_mismatch": "трябва да съответства на предоставената парола.",
+      "contains_spaces": "започва или завършва с интервали.",
+      "email_domain_invalid": "доставчикът не се поддържа",
+      "invalid_for_country": "Не е валидно за {{ country }}\n",
+      "invalid_for_country_and_province": "Не е валидно за{{ province }} и за {{ country }}\n",
+      "invalid_province_in_country": "Не е валидно за {{ country }}\n",
+      "invalid_state_in_country": "Не е валидно за {{ country }}\n",
+      "invalid_region_in_country": "Не е валидно за {{ country }}",
+      "less_than_or_equal_to": "трябва да бъде по-малко или равно на {{ count }}\n",
+      "not_supported": "Не се поддържа",
+      "full_name_required": "Въведете има и фамилия",
+      "invalid_for_card_type": "Не е валидно",
+      "invalid_type": "Съжаляваме, но не приемаме карти от този тип",
+      "invalid_format": "форматът не е валиден",
+      "expired": "е изтекла",
+      "invalid_start_date_or_issue_number_for_debit": "е необходима валидна начална дата или номер на издаване",
+      "invalid_expiry_year": "не е валидна година на изтичане",
+      "reset_password_html": "Този имейл адрес вече е свързан с акаунт. Ако този акаунт е ваш, можете <a href=\"\/account\/login#recover\">да възстановите паролата си<\/a>\n",
+      "verify_email": "Изпратихме имейл до {{customer_email}}, моля, кликнете върху включената връзка, за да потвърдите имейл адреса си."
+    },
+    "checkpoint": {
+      "message": "Solve Captcha to continue\n",
+      "error": "Captcha validation failed\n",
+      "submit_button_text": "Submit\n"
+    }
+  }
+}

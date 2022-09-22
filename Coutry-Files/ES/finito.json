@@ -1,0 +1,610 @@
+{
+    "sections": {
+        "header": {
+            "announcement": "",
+            "menu": "",
+            "cart_count": {
+                "one": "{{ count }} comment",
+                "other": "{{ count }} comments"
+            }
+        },
+        "cart": {
+            "title": "Leave a comment",
+            "caption": "",
+            "remove_title": "Quitar",
+            "subtotal": "Subtotal",
+            "new_subtotal": "",
+            "note": "",
+            "checkout": "Finalizar pedido",
+            "empty": "Habilite las cookies para usar el carrito de compras",
+            "cart_error": "",
+            "cart_quantity_error_html": "Quantity",
+            "cart_additional_terms_text": "Agregar dirección",
+            "i_agree_with_the": "Tengo +18 años y estoy de acuerdo con los",
+            "terms_and_conditions": "Si tiene problemas realizando su pedido utilizando tarjeta (visa o mastercard) sepa que también puede utilizar la opción de transferencia bancaria. ",
+            "taxes_and_shipping_policy_at_checkout_html": "Impuesto",
+            "taxes_included_but_shipping_at_checkout": "Gastos de envío y descuentos calculado al momento de pagar",
+            "taxes_included_and_shipping_policy_html": "",
+            "taxes_and_shipping_at_checkout": "",
+            "headings": {
+                "product": "Producto",
+                "price": "Precio",
+                "total": "",
+                "quantity": ""
+            },
+            "update": "Realizado en {{ date }}",
+            "login": {
+                "title": "",
+                "paragraph_html": ""
+            },
+            "featured_collection": {
+                "title": ""
+            }
+        },
+        "footer": {
+            "payment": "",
+            "footer_text": "Los productos de CBD no son medicamentos y no pueden diagnosticar, tratar o curar enfermedades. Consulte a su propio médico antes de comenzar un nuevo programa dietético."
+        },
+        "featured_blog": {
+            "view_all": "Todos los productos",
+            "onboarding_title": "",
+            "onboarding_content": ""
+        },
+        "featured_collection": {
+            "view_all": "",
+            "view_all_label": ""
+        },
+        "collection_list": {
+            "view_all": ""
+        },
+        "collection_template": {
+            "empty": "",
+            "title": "",
+            "use_fewer_filters_html": ""
+        },
+        "video": {
+            "load_video": ""
+        },
+        "slideshow": {
+            "load_slide": "Show",
+            "previous_slideshow": "Anterior diapositiva",
+            "next_slideshow": "Siguiente diapositiva",
+            "pause_slideshow": "Pausar la presentación",
+            "play_slideshow": "Reproducir la presentación",
+            "carousel": "",
+            "slide": ""
+        }
+    },
+    "ecomplete": {
+        "product_page": {
+            "zero_thc": "Cero THC",
+            "low_thc": "Ultra Bajo TCH",
+            "gmo_free": "Libre de GMO ",
+            "3rd_party": "Probado Laboratorios Terceros",
+            "100_vegan": "Test 7 Pasos",
+            "vegetarian": "100% Vegetariano",
+            "labdoor": "A+ Labdoor Rating",
+            "one_tree_planted": "Plantamos 1 árbol por pedido",
+            "bundles": "Bundle Deal",
+            "free_delivery": "100% USA Grown Hemp"
+        },
+        "country_selector": {
+            "country_name": "Mexico",
+            "country_emoji": "🇲🇽"
+        },
+        "homepage_h1": "Ir directamente al contenido"
+    },
+    "general": {
+        "password_page": {
+            "login_form_heading": "Contraseña",
+            "login_password_button": "",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_error": "",
+            "login_form_submit": "",
+            "admin_link_html": "¿Eres el dueño de la tienda? <a href=\"/admin\" class=\"text-link\">Regístrate aquí</a>",
+            "powered_by_shopify_html": "Esta tienda estará impulsada por {{ shopify }}"
+        },
+        "social": {
+            "alt_text": {
+                "share_on_facebook": "Compartir en Facebook",
+                "share_on_twitter": "Tuitear en Twitter",
+                "share_on_pinterest": "Su búsqueda de \"{{ terms }}\" no tuvo resultados."
+            },
+            "links": {
+                "twitter": "",
+                "facebook": "",
+                "pinterest": "",
+                "instagram": "",
+                "tumblr": "",
+                "snapchat": "",
+                "youtube": "",
+                "vimeo": "",
+                "tiktok": "",
+                "line": ""
+            }
+        },
+        "tags": {
+            "google_tag_manager": "Tags:",
+            "site_verification": "taV0mvXhKAo2QsZVxNf2UfcwGD2ESu6ZyDohF4v2APk",
+            "pingdom": "-",
+            "google_optimize": "-",
+            "google_analytics": "",
+            "quora": "-"
+        },
+        "continue_shopping": "Seguir comprando",
+        "pagination": {
+            "label": "",
+            "page": "",
+            "next": "",
+            "previous": ""
+        },
+        "search": {
+            "search": "expandir/colapsar"
+        },
+        "cart": {
+            "view": "",
+            "item_added": ""
+        },
+        "share": {
+            "close": "",
+            "copy_to_clipboard": "",
+            "share_url": "",
+            "success_message": "Your comment was posted successfully! Thank you!"
+        },
+        "slider": {
+            "of": "",
+            "next_slide": "",
+            "previous_slide": ""
+        }
+    },
+    "newsletter": {
+        "title": "SUSCRÍBETE A NUESTRA NEWSLETTER",
+        "paragraph": "Y recibe un código 10% para tu próxima compra",
+        "email_placeholder": "Email",
+        "submit_button": "SUSCRÍBETE",
+        "payment_icons_title": "PAGO SEGURO:",
+        "label": " ",
+        "success": "Gracias por su suscripción",
+        "button_label": "SUSCRÍBETE"
+    },
+    "accessibility": {
+        "skip_to_text": "",
+        "skip_to_product_info": "",
+        "close": "",
+        "unit_price_separator": "",
+        "vendor": "",
+        "error": "",
+        "refresh_page": "",
+        "link_messages": {
+            "new_window": "",
+            "external": ""
+        },
+        "loading": "",
+        "total_reviews": "Reply from",
+        "star_reviews_info": ""
+    },
+    "blogs": {
+        "article": {
+            "blog": "",
+            "read_more_title": "Read more",
+            "comments": {
+                "one": "",
+                "other": ""
+            },
+            "moderated": "Please note, comments must be approved before they are published",
+            "comment_form_title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "Post comment",
+            "back_to_blog": "Back to {{ title }}",
+            "share": "",
+            "success": "",
+            "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated."
+        }
+    },
+    "onboarding": {
+        "product_title": " Este campo se utiliza para describir los detalles de tu producto. Informa a los clientes acerca de la apariencia, percepción y estilo de tu producto. Incluye detalles sobre el color, los materiales utilizados, el tamaño y donde se hizo.",
+        "collection_title": "Nombre del autor"
+    },
+    "products": {
+        "product": {
+            "add_to_cart": "Add to cart",
+            "description": "",
+            "on_sale": "Sale",
+            "product_variants": "",
+            "media": {
+                "gallery_viewer": "",
+                "load_image": "",
+                "load_model": "",
+                "load_video": "",
+                "image_available": "",
+                "open_media": "",
+                "play_model": "",
+                "play_video": "Hubo un problema de autenticación con su cuenta de Google Maps."
+            },
+            "quantity": {
+                "label": "",
+                "input_label": "",
+                "increase": "",
+                "decrease": ""
+            },
+            "pickup_availability": {
+                "view_store_info": "",
+                "check_other_stores": "",
+                "pick_up_available": "",
+                "pick_up_available_at_html": "",
+                "pick_up_unavailable_at_html": "Unavailable",
+                "unavailable": "",
+                "refresh": ""
+            },
+            "price": {
+                "from_price_html": "No products found in this collection",
+                "regular_price": "Regular price",
+                "sale_price": "",
+                "unit_price": "",
+                "price_per_mg": "Comprar Ahora"
+            },
+            "share": "",
+            "sold_out": "Sold out",
+            "unavailable": "",
+            "vendor": "",
+            "video_exit_message": "",
+            "view_full_details": "Anónimo",
+            "xr_button": "",
+            "xr_button_label": "",
+            "include_taxes": "",
+            "shipping_policy_html": "",
+            "product_recommendations_header": ""
+        },
+        "modal": {
+            "label": ""
+        },
+        "facets": {
+            "apply": "Show Result",
+            "clear": "Clear",
+            "clear_all": "Clear All",
+            "from": "",
+            "filter_and_sort": "",
+            "filter_by_label": "",
+            "filter_button": "",
+            "filters_selected": {
+                "one": "",
+                "other": ""
+            },
+            "max_price": "",
+            "product_count": {
+                "one": "",
+                "other": ""
+            },
+            "product_count_simple": {
+                "one": "",
+                "other": ""
+            },
+            "reset": "",
+            "sort_button": "",
+            "sort_by_label": "",
+            "to": "",
+            "clear_filter": ""
+        }
+    },
+    "templates": {
+        "404": {
+            "title": "",
+            "subtext": ""
+        },
+        "search": {
+            "no_results": "",
+            "page": "",
+            "products": "",
+            "results_with_count": {
+                "one": "",
+                "other": ""
+            },
+            "results_with_count_and_term": {
+                "one": "",
+                "other": ""
+            },
+            "title": "",
+            "search_for": ""
+        },
+        "cart": {
+            "cart": ""
+        },
+        "contact": {
+            "form": {
+                "name": "",
+                "email": "",
+                "phone": "",
+                "comment": "",
+                "send": "",
+                "post_success": "Gracias por contactarnos. Le responderemos lo antes posible.",
+                "error_heading": ""
+            }
+        }
+    },
+    "localization": {
+        "country_label": "",
+        "language_label": "",
+        "update_language": "",
+        "update_country": ""
+    },
+    "customer": {
+        "account": {
+            "title": "Cuenta",
+            "details": "",
+            "view_addresses": "Ver direcciones",
+            "return": "Volver a detalles de la cuenta",
+            "referrals": ""
+        },
+        "account_fallback": "",
+        "activate_account": {
+            "title": "",
+            "subtext": "Ingrese una nueva contraseña para {{ email }}",
+            "password": "",
+            "password_confirm": "Confirmar contraseña",
+            "submit": "",
+            "cancel": "Cancelar"
+        },
+        "addresses": {
+            "title": "",
+            "default": "Por defecto",
+            "add_new": "Agregar una nueva dirección",
+            "edit_address": "Editar",
+            "first_name": "Nombre",
+            "last_name": "Apellido",
+            "company": "Compañía",
+            "address1": "Dirección1",
+            "address2": "Dirección2",
+            "city": "Ciudad",
+            "country": "",
+            "province": "Provincia",
+            "zip": "Código postal",
+            "phone": "Teléfono",
+            "set_default": "Fijar como dirección por defecto",
+            "add": "",
+            "update": "",
+            "cancel": "",
+            "edit": "",
+            "delete": "Eliminar",
+            "delete_confirm": "¿Está seguro de que desea eliminar esta dirección?"
+        },
+        "log_in": "Ingresar",
+        "log_out": "Cerrar sesión",
+        "login_page": {
+            "cancel": "",
+            "create_account": "Crear cuenta",
+            "email": "",
+            "forgot_password": "¿Olvidó su contraseña?",
+            "guest_continue": "Continuar",
+            "guest_title": "Continuar como invitado",
+            "password": "",
+            "title": "",
+            "sign_in": "Registrarse",
+            "submit": "",
+            "create_account_description": "Create an account with us today where you can track your order and join our referral scheme.",
+            "create_account_button": "View account"
+        },
+        "order": {
+            "title": "",
+            "date_html": "",
+            "cancelled_html": "Pedido cancelado en {{ date }}",
+            "cancelled_reason": "Motivo: {{ reason }}",
+            "billing_address": "Dirección de facturación",
+            "payment_status": "Estado del pago",
+            "shipping_address": "Dirección de envío",
+            "fulfillment_status": "Estado de finalización",
+            "discount": "Descuento",
+            "shipping": "",
+            "tax": "",
+            "product": "",
+            "sku": "SKU",
+            "price": "",
+            "quantity": "",
+            "total": "",
+            "fulfilled_at_html": "Finalizado {{ date }}",
+            "track_shipment": "Rastrear envío",
+            "tracking_url": "",
+            "tracking_company": "",
+            "tracking_number": "",
+            "subtotal": ""
+        },
+        "orders": {
+            "title": "",
+            "order_number": "Pedido",
+            "order_number_link": "",
+            "date": "",
+            "payment_status": "",
+            "fulfillment_status": "",
+            "total": "",
+            "none": "No ha realizado algún pedido aún."
+        },
+        "recover_password": {
+            "title": "",
+            "subtext": "",
+            "success": ""
+        },
+        "register": {
+            "title": "",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "password": "",
+            "submit": ""
+        },
+        "reset_password": {
+            "title": "",
+            "subtext": "",
+            "password": "",
+            "password_confirm": "",
+            "submit": ""
+        }
+    },
+    "gift_cards": {
+        "issued": {
+            "title": "",
+            "subtext": "",
+            "gift_card_code": "",
+            "shop_link": "Empezar a comprar",
+            "remaining_html": "{{ balance }} restante",
+            "add_to_apple_wallet": "Hide Filter",
+            "qr_image_alt": "",
+            "copy_code": "",
+            "expired": "Expiró en {{ expiry }}",
+            "copy_code_success": "",
+            "print_gift_card": ""
+        }
+    },
+    "pagefly": {
+        "products": {
+            "product": {
+                "regular_price": "",
+                "sold_out": "",
+                "unavailable": "",
+                "on_sale": "",
+                "quantity": "",
+                "add_to_cart": "",
+                "back_to_collection": "Back to {{ title }}",
+                "view_details": "View details"
+            }
+        },
+        "article": {
+            "tags": "",
+            "all_topics": "All topics",
+            "by_author": "by {{ author }}",
+            "posted_in": "Posted in",
+            "read_more": "",
+            "back_to_blog": ""
+        },
+        "comments": {
+            "title": "",
+            "name": "",
+            "email": "",
+            "message": "",
+            "post": "",
+            "moderated": "",
+            "success_moderated": "",
+            "success": "",
+            "comments_with_count": {
+                "one": "",
+                "other": ""
+            }
+        },
+        "password_page": {
+            "login_form_message": "Enter store using password:",
+            "login_form_password_label": "",
+            "login_form_password_placeholder": "",
+            "login_form_submit": "",
+            "signup_form_email_label": "Email",
+            "signup_form_success": "We will send you an email right before we open!",
+            "password_link": "Enter using password"
+        }
+    },
+    "opp-subscription": {
+        "subscriptions": "",
+        "header": "",
+        "list": {
+            "return_to_account": "",
+            "column": {
+                "subscription": "",
+                "date": "",
+                "status": ""
+            }
+        },
+        "view": {
+            "header": "",
+            "return_to_list": "",
+            "created_on": "",
+            "last_orders": "",
+            "billing_information": "",
+            "payment_information": "",
+            "billing_address": "",
+            "shipping_address": "",
+            "next_order": "",
+            "frequency": {
+                "header": "",
+                "minute": {
+                    "one": "",
+                    "other": ""
+                },
+                "hour": {
+                    "one": "",
+                    "other": ""
+                },
+                "day": {
+                    "one": "",
+                    "other": ""
+                },
+                "week": {
+                    "one": "",
+                    "other": ""
+                },
+                "week_weekday": {
+                    "one": "",
+                    "other": ""
+                },
+                "month": {
+                    "one": "",
+                    "other": ""
+                },
+                "month_day": {
+                    "one": "",
+                    "other": ""
+                },
+                "year": {
+                    "one": "",
+                    "other": ""
+                }
+            },
+            "address": {
+                "first_name": "",
+                "last_name": "",
+                "company": "",
+                "address": "",
+                "city": "",
+                "country": "",
+                "province": "",
+                "postal_code": "",
+                "phone": ""
+            },
+            "button": {
+                "suspend": "",
+                "reactivate": "",
+                "terminate": "",
+                "edit": "",
+                "cancel": "",
+                "update": ""
+            },
+            "column": {
+                "product": "",
+                "price": "",
+                "quantity": "",
+                "order": "",
+                "date": "",
+                "payment_status": "",
+                "fulfillment_status": "",
+                "total": ""
+            },
+            "info": {
+                "terminated": "",
+                "terminating": {
+                    "zero": "",
+                    "other": ""
+                },
+                "suspended_reactivate": "",
+                "suspended_terminate": ""
+            },
+            "terminate": {
+                "header": "",
+                "info": "",
+                "missing_cycles": ""
+            },
+            "suspend": {
+                "header": "",
+                "input_label": "",
+                "info": ""
+            }
+        }
+    }
+}
